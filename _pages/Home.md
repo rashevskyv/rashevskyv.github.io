@@ -1,7 +1,6 @@
 ---
 layout: single-no-ads
 permalink: /
-title: "Руководство"
 sidebar:
   nav: "home"
 header:

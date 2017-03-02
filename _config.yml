@@ -6,15 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Guide"
+locale                   : "ru-RU"
+title                    : "Руководство"
 title_separator          : "-"
-name                     : "Plailect"
-description              : "Full arm9loaderhax CFW Guide"
-url                      : "https://3ds.guide" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-enforce_ssl              : "3ds.guide"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Plailect/Guide" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     : "xHR"
+description              : "Инструкция по установке arm9loaderhax и кастомной прошивки на 3DS"
+url                      : "http://3ds.customfw.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "rashevskyv/rashevskyv.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -49,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : IzU3K8_0o_n4KY_o0Azr6DK7M4aRlZMzrWKr4iyXyrs
+google_site_verification : Che4ZIx8AAPL4N65PsIRtx3Bn0YoWOMTmzVgnsG3dF4
 bing_site_verification   : F3532011519E308583A0A2CAF2DD69E8
 alexa_site_verification  :
 yandex_site_verification :
@@ -73,16 +72,16 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-86465881-1"
+    tracking_id          : "UA-92824803-1"
 
 
 # Site Author
 author:
-  name             : "Plailect"
+  name             : "xHR"
   avatar           : "bio-photo.png"
   bio              : "3DS Hacker"
-  location         : "Nullsec"
-  email            : "Plailect@gmail.com"
+  location         : "Кривой рог, Украина"
+  email            : "rashevsky.v@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -90,18 +89,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Plailect"
+  github           : "rashevskyv"
   google_plus      :
   keybase          :
   instagram        :
-  lastfm           : "Plailect"
+  lastfm           : 
   linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "Plailect"
+  twitter          : "xHR_"
   vine             :
   weibo            :
   xing             :
@@ -110,66 +109,38 @@ author:
 
 # Reading Files
 include:
-  - .htaccess
-  - _pages
-  # - _pages/af
-  # - _pages/ar
-  # - _pages/ca
-  # - _pages/zh-Hans
-  # - _pages/zh-Hant
-  # - _pages/cs
-  # - _pages/da
-  - _pages/en_US
-  # - _pages/fi
-  # - _pages/fr
-  # - _pages/de
-  # - _pages/el
-  # - _pages/he
-  # - _pages/hu
-  # - _pages/it
-  # - _pages/ja
-  # - _pages/ko
-  # - _pages/no
-  # - _pages/pl
-  # - _pages/pt
-  # - _pages/pt-br
-  # - _pages/ro
-  # - _pages/ru
-  # - _pages/sr
-  # - _pages/es
-  # - _pages/sv
-  # - _pages/tr
-  # - _pages/uk
-  # - _pages/vi
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - node_modules
-  - package.json
-  - Rakefile
-  - README
-  - tmp
+ - .htaccess
+ - _pages
+exclude: [
+  "*.sublime-project",
+  "*.sublime-workspace",
+  vendor,
+  .asset-cache,
+  .bundle,
+  .jekyll-assets-cache,
+  .sass-cache,
+  assets/js/plugins,
+  assets/js/_main.js,
+  assets/js/vendor,
+  Capfile,
+  CHANGELOG,
+  config,
+  Gemfile,
+  Gruntfile.js,
+  gulpfile.js,
+  LICENSE,
+  log,
+  node_modules,
+  package.json,
+  Rakefile,
+  README,
+  tmp,
+]
 keep_files:
   - .git
   - .svn
 encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md,txt"
 
 
 # Conversion
@@ -207,13 +178,6 @@ defaults:
       layout: single
       author_profile: false
 
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-
 # Plugins
 gems:
   - jekyll-paginate
@@ -221,7 +185,6 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-redirect-from
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -230,7 +193,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  - jekyll-redirect-from
 
 # Archives
 #  Type

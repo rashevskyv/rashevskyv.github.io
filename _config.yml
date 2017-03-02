@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "ru-RU"
-title                    : "123"
-title_separator          : "-"
+title                    : # "123"
+title_separator          : # "-"
 name                     : "xHR"
 description              : "Инструкция по установке arm9loaderhax и кастомной прошивки на 3DS"
 url                      : "http://3ds.customfw.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

@@ -9,9 +9,9 @@ header:
   overlay_filter: 0.5
   cta_label: "Начнем!"
   cta_url: "/get-started"
-  cta_label: "Начнем!"
+  cta_label: "Начнwqwqем!"
   cta_url: "/get-started"
-  cta_label: "Начнем!"
+  cta_label: "Начнqwqем!"
   cta_url: "/get-started"
   caption:
 excerpt: 'Полное руководство по прошивке 3DS, <br /> от начала до arm9loaderhax.<br /><br />**Актуализировал к версии гайда от Plailect<br />28.02.2017<br /><br />**'

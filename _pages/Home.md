@@ -7,15 +7,15 @@ header:
   overlay_color: "#5e616c"
   overlay_image: images/home-page-feature.jpg
   overlay_filter: 0.5
-  cta_label: "Начнем!"
+  cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: 'Полное руководство по прошивке 3DS, <br /> от начала до arm9loaderhax.<br /><br />**Актуализировал к версии гайда от Plailect<br />.02.2017<br /><br />**'
+excerpt: 'Инструкция по взлому WiiU/3ds/PS Vita**'
 ---
+#### <a name="what_hombrw" />Новости
 
-<a name="start" />
-
-{: .notice--danger}
+Добавлена стартовая страница с новостным блоком. В будущем запилю перевод инструкции для WiiU и, совместно с https://vk.com/portablegaming, напишем инструкцию для PS Vita. Stay tuned!
+{: .notice--info}
 
 {: .notice--success}
 
@@ -29,4 +29,3 @@ excerpt: 'Полное руководство по прошивке 3DS, <br /> 
 {: .notice--info}
 
 
-## <a name="what_hombrw" />Что такое Homebrew? 

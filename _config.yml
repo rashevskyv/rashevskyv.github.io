@@ -5,7 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-breadcrumbs: true  # disabled by default
+breadcrumbs: true 
+author_profile: true
 
 # Site Settings
 title                    : "Инструкция по взлому WiiU/3ds/PS Vita"

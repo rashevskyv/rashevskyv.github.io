@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "ru-RU"
-title                    : # "123"
+title                    : # "Выберите консоль"
 title_separator          : # "-"
 name                     : "xHR"
-description              : "Инструкция по установке arm9loaderhax и кастомной прошивки на 3DS"
-url                      : "http://3ds.customfw.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Инструкция по взлому WiiU/3ds/PS Vita/"
+url                      : "http://customfw.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rashevskyv/rashevskyv.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "rashevskyv/2ds" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200

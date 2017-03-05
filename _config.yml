@@ -6,8 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 breadcrumbs: true 
-author_profile: true
-
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+      
 # Site Settings
 title                    : "Инструкция по взлому WiiU/3ds/PS Vita"
 locale                   : "ru-RU"
@@ -55,14 +61,6 @@ google_site_verification : Che4ZIx8AAPL4N65PsIRtx3Bn0YoWOMTmzVgnsG3dF4
 bing_site_verification   : F3532011519E308583A0A2CAF2DD69E8
 alexa_site_verification  :
 yandex_site_verification :
-
-defaults:
-  # _foo
-  - scope:
-      path: ""
-      type: foo
-    values:
-      layout: single
 
 # Social Sharing
 twitter:

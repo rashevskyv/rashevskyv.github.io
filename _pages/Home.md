@@ -12,5 +12,5 @@ excerpt: 'Инструкция по взлому WiiU/3ds/PS Vita<br/>**Дата
 ---
 #### <a name="what_hombrw" />Новости
 
-Добавлена стартовая страница с новостным блоком. В будущем запилю перевод инструкции для WiiU и, совместно с https://vk.com/portablegaming, напишем инструкцию для PS Vita. Stay tuned!
+Добавлена стартовая страница с новостным блоком. В будущем запилю перевод инструкции для WiiU и, совместно с [VK:portablegaming](https://vk.com/portablegaming), напишем инструкцию для PS Vita. Stay tuned!
 {: .notice--info}

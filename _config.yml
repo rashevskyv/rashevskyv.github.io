@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+title                    : "Инструкция по взлому WiiU/3ds/PS Vita"
 locale                   : "ru-RU"
 title                    : # "Выберите консоль"
 title_separator          : # "-"

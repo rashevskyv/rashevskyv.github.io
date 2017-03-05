@@ -17,7 +17,7 @@ defaults:
 # Site Settings
 title                    : "Инструкция по взлому WiiU/3ds/PS Vita"
 locale                   : "ru-RU"
-title_separator          : # "-"
+title_separator          : "-"
 name                     : "xHR"
 description              : "Инструкция по взлому WiiU/3ds/PS Vita"
 url                      : "http://customfw.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

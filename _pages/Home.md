@@ -8,7 +8,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: 'Инструкция по взлому WiiU/3ds/PS Vita<br/>**Дата последнего обновления: 05.03.2017<br/><br/>**'
+excerpt: '**Дата последнего обновления: 05.03.2017<br/><br/>**'
 ---
 #### <a name="what_hombrw" />Новости
 

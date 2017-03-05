@@ -14,4 +14,6 @@ permalink: /get-started.html
 
 | 3DS | Wii U | Playstation Vita / Playstation TV |
 |:-:|:-:|:-:|
-| [![Nintendo 3DS](/images/3dsfamily.png)](http://customfw.xyz/3ds)<br/><br/> | [![Wii U](/images/wiiu.png)] | [![Playstation Vita](/images/vitafamily.png)]<br/><br/> |
+| [![Nintendo 3DS](/images/3dsfamily.png)](http://customfw.xyz/3ds)<br/><br/> | [Wii U](/images/wiiu.png) | [Playstation Vita](/images/vitafamily.png) |
+<br/><br/>
+___

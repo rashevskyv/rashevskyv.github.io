@@ -9,13 +9,7 @@ header:
   overlay_filter: 0.5
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
-  cta_label: "3ds"
-  cta_url: "/3ds"
-  cta_label: "wiiu"
-  cta_url: "/wiiu"
-  cta_label: "vita"
-  cta_url: "/vita"
-  caption:
+  caption: "Выберите консоль"
 excerpt: 'Инструкция по взлому WiiU/3ds/PS Vita<br/><br/>**Дата последнего обновления: 05.03.2017<br/><br/>**'
 ---
 #### <a name="what_hombrw" />Новости

@@ -3,10 +3,15 @@ title: "Начнем"
 permalink: /get-started.html
 ---
 
-Цвет вашего устройства может отличаться от представленного на картинках, вам стоит обратить внимание на расположение кнопок и особенности каждого типа устройства, чтобы сделать правильный выбор.
+Нажмите на изображение вашего устройства, чтобы перейти к инструкции по его взлому. 
 {: .notice}
 
+В данный момент готова ТОЛЬКО инструкция по взлому консолей семейства 3DS. Остальные гайды в работе.
+{: .notice}
 
-| 3DS | Wii U | Playstatrion Vita / Playstation TV |
+Цвет или ревизия вашего устройства может отличаться от представленного на картинках и значения не имеет.
+{: .notice}
+
+| 3DS | Wii U | Playstation Vita / Playstation TV |
 |:-:|:-:|:-:|
-| [![New 3DS](/images/new3ds.png)](get-started-new-3ds) | [![2DS](/images/2ds.png)](get-started-old-3ds) | [![2DS](/images/2ds.png)](get-started-old-3ds) |
+| [![Nintendo 3DS](/images/3dsfamily.png)](http://customfw.xyz/3ds)<br/><br/> | [![Wii U](/images/wiiu.png)] | [![Playstation Vita](/images/vitafamily.png)]<br/><br/> |

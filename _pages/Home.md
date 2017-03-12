@@ -12,5 +12,8 @@ excerpt: '**Дата последнего обновления: 05.03.2017<br/><
 ---
 #### <a name="what_hombrw" />Новости
 
+**12.03.2017:** Добавил гайд по Wii U, основанный на аналогичном от FlimFlam69 и Plailect. 
+{: .notice--info}
+
 Добавлена стартовая страница с новостным блоком. В будущем запилю перевод инструкции для WiiU и, совместно с [VK:portablegaming](https://vk.com/portablegaming), напишем инструкцию для PS Vita. Stay tuned!
 {: .notice--info}

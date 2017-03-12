@@ -1,8 +1,8 @@
 # main links links
 main:
-  - title: "На главную"
+  - title: "РќР° РіР»Р°РІРЅСѓСЋ"
     url: http://customfw.xyz
-  - title: "3DS<br>a9lh + luma"
-    url: /http://3ds.customfw.xyz
-  - title: "wiiu<br>MOCHA CFW"
-    url: /http://wiiu.customfw.xyz
+  - title: "3DS<br>luma+a9lh"
+    url: http://3ds.customfw.xyz
+  - title: "Wii U<br>Mocha CFW+CBHC"
+    url: http://wiiu.customfw.xyz

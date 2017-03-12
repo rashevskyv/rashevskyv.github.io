@@ -15,7 +15,7 @@ defaults:
       author_profile: true
       
 # Site Settings
-title                    : "Инструкция по взлому WiiU/3ds/PS Vita"
+title                    : "Guide WiiU/3DS/Vita"
 locale                   : "ru-RU"
 title_separator          : "-"
 name                     : "xHR"

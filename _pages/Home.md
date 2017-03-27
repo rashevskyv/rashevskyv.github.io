@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**Дата последнего обновления: 26.03.2017<br/><br/>**'
+excerpt: '**Дата последнего обновления: 27.03.2017<br/><br/>**'
 ---
 #### <a name="what_hombrw" />Новости
 

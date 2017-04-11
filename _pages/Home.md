@@ -9,11 +9,15 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>08.04.2017<br/><br/>Wii U Guide Update:<br>29.03.2017<br/>**'
+excerpt: '**3DS Guide Update:<br>11.04.2017<br/><br/>Wii U Guide Update:<br>29.03.2017<br/>**'
 ---
 #### <a name="what_hombrw" />Новости
+**3DS**<br>**11.04.2017:**<br>
+Добавлен метод взлома 11.3 через udsploit и точнения к использованию 11.4
+{: .notice--warning}
+
 **3DS**<br>**08.04.2017:**<br>
-Странные дела: SAFECTRtransfer отказывается работать через MSET. Поэтому вернул старый-добрый метод - декрипт 9
+Странные дела: SAFECTRtransfer отказывается работать через MSET. Поэтому вернул старый-добрый метод - decrypt9
 {: .notice--warning}
 
 **3DS**<br>**26.03.2017:**<br>

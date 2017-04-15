@@ -9,9 +9,13 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>15.04.2017<br/><br/>Wii U Guide Update:<br>29.03.2017<br/>**'
+excerpt: '**3DS Guide Update:<br>15.04.2017<br/><br/>Wii U Guide Update:<br>15.04.2017<br/>**'
 ---
 #### <a name="what_hombrw" />Новости
+**Wii U**<br>**15.04.2017:**<br>
+Существенно переработано руководжство по Wii U. RedNAND заменен на пропатченный SysNAND через CBHC.
+{: .notice--info}
+
 **3DS**<br>**11.04.2017:**<br>
 Добавлен метод взлома 11.3 через udsploit и точнения к использованию 11.4
 {: .notice--warning}

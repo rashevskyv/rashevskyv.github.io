@@ -9,9 +9,12 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>15.04.2017<br/><br/>Wii U Guide Update:<br>15.04.2017<br/>**'
+excerpt: '**3DS Guide Update:<br>19.04.2017<br/><br/>Wii U Guide Update:<br>15.04.2017<br/>**'
 ---
 #### <a name="what_hombrw" />Новости
+**3DS**<br>**19.04.2017:**<br>Вернул в гайд HBL. Внесены правки, связанные с обновленным чейнлоадером новой люмы. 
+{: .notice--warning}
+
 **Wii U**<br>**15.04.2017:**<br>
 Существенно переработано руководство по Wii U. RedNAND заменен на пропатченный SysNAND через CBHC.
 {: .notice--info}

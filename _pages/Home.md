@@ -13,7 +13,7 @@ excerpt: '**3DS Guide Update:<br>15.04.2017<br/><br/>Wii U Guide Update:<br>15.0
 ---
 #### <a name="what_hombrw" />Новости
 **Wii U**<br>**15.04.2017:**<br>
-Существенно переработано руководжство по Wii U. RedNAND заменен на пропатченный SysNAND через CBHC.
+Существенно переработано руководство по Wii U. RedNAND заменен на пропатченный SysNAND через CBHC.
 {: .notice--info}
 
 **3DS**<br>**11.04.2017:**<br>

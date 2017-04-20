@@ -8,8 +8,6 @@ header:
   overlay_filter: 0.5
   cta_label: "На главную!"
   cta_url: "/"
-  caption:
-excerpt: '**Архив новостей, касающийся сайта**'
 ---
 #### <a name="what_hombrw" />Март 2017
 
@@ -28,4 +26,6 @@ excerpt: '**Архив новостей, касающийся сайта**'
 {: .notice--info}
 
 Добавлена стартовая страница с новостным блоком. В будущем запилю перевод инструкции для WiiU и, совместно с [VK:portablegaming](https://vk.com/portablegaming), напишем инструкцию для PS Vita. Stay tuned!
-{: .notice--info}
+{: .notice--success}
+
+<a href="http://customfw.xyz/" style="margin:20px auto; text-align:center; display:block; width:120px;" class="btn btn--inverse">На главную</a>

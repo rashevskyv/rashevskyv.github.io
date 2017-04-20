@@ -34,4 +34,4 @@ excerpt: '**3DS Guide Update:<br>21.04.2017<br/><br/>Wii U Guide Update:<br>20.0
 {: .notice--warning}
 
 #### <a name="archive" />[Архив новостей](archive)
-        <p><a href="http://customfw.xyz/archive" class="btn btn--light-outline btn--large">Архив новостей</a></p>
+<a href="http://customfw.xyz/archive" class="btn btn--light-outline btn--large">Архив новостей</a>

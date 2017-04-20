@@ -11,7 +11,7 @@ header:
   caption:
 excerpt: '**3DS Guide Update:<br>21.04.2017<br/><br/>Wii U Guide Update:<br>20.04.2017<br/>**'
 ---
-#### <a name="what_hombrw" />Новости
+#### <a name="news" />Новости
 **3DS**<br>**21.04.2017:**<br>Вынес все дополнения в [отдельную страницу](http://3ds.customfw.xyz/addons) и добавил парочку дополнительных инструкций.
 {: .notice--warning}
 
@@ -33,4 +33,5 @@ excerpt: '**3DS Guide Update:<br>21.04.2017<br/><br/>Wii U Guide Update:<br>20.0
 Странные дела: SafeCTRtransfer отказывается работать через MSET. Поэтому вернул старый-добрый метод - decrypt9
 {: .notice--warning}
 
-#### <a name="what_hombrw" />[Архив новостей](archive)
+#### <a name="archive" />[Архив новостей](archive)
+        <p><a href="http://customfw.xyz/archive" class="btn btn--light-outline btn--large">Архив новостей</a></p>

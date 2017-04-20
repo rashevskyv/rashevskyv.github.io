@@ -11,7 +11,7 @@ header:
   caption:
 excerpt: '**3DS Guide Update:<br>20.04.2017<br/><br/>Wii U Guide Update:<br>20.04.2017<br/>**'
 ---
-#### <a name="what_hombrw" /><h3>Новости</h3>
+#### <a name="what_hombrw" />Новости
 
 **3DS и Wii U**<br>**20.04.2017:**<br>Синхронизировал гайды с Плаилектовскими от 20.04.
 {: .notice--danger}

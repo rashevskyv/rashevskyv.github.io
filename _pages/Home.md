@@ -9,9 +9,13 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>19.04.2017<br/><br/>Wii U Guide Update:<br>15.04.2017<br/>**'
+excerpt: '**3DS Guide Update:<br>20.04.2017<br/><br/>Wii U Guide Update:<br>20.04.2017<br/>**'
 ---
-#### <a name="what_hombrw" />Новости
+#### <a name="what_hombrw" /><h3>Новости</h3>
+
+**3DS и Wii U**<br>**20.04.2017:**<br>Синхронизировал гайды с Плаилектовскими от 20.04.
+{: .notice--danger}
+
 **3DS**<br>**19.04.2017:**<br>Вернул в гайд HBL. Внесены правки, связанные с обновленным чейнлоадером новой люмы. 
 {: .notice--warning}
 

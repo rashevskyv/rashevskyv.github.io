@@ -12,6 +12,10 @@ header:
 excerpt: '**3DS Guide Update:<br>21.04.2017<br/><br/>Wii U Guide Update:<br>20.04.2017<br/>**'
 ---
 #### <a name="news" />Новости
+
+**21.04.2017:**<br>Добавил архив новостей
+{: .notice--success}
+
 **3DS**<br>**21.04.2017:**<br>Вынес все дополнения в [отдельную страницу](http://3ds.customfw.xyz/addons) и добавил парочку дополнительных инструкций.
 {: .notice--warning}
 

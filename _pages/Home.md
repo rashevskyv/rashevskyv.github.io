@@ -13,7 +13,7 @@ excerpt: '**3DS Guide Update:<br>20.04.2017<br/><br/>Wii U Guide Update:<br>20.0
 ---
 #### <a name="what_hombrw" />Новости
 **3DS и Wii U**<br>**20.04.2017:**<br>Синхронизировал гайд с Плаилектовским. 
-{: .notice--warning}
+{: .notice--danger}
 
 **3DS**<br>**19.04.2017:**<br>Вернул в гайд HBL. Внесены правки, связанные с обновленным чейнлоадером новой люмы. 
 {: .notice--warning}

@@ -33,4 +33,4 @@ excerpt: '**3DS Guide Update:<br>21.04.2017<br/><br/>Wii U Guide Update:<br>20.0
 Странные дела: SafeCTRtransfer отказывается работать через MSET. Поэтому вернул старый-добрый метод - decrypt9
 {: .notice--warning}
 
-<a href="http://customfw.xyz/archive" class="btn btn--inverse"">Архив новостей</a>
+<div style="text-align: center"><a href="http://customfw.xyz/archive" class="btn btn--inverse">Архив новостей</a></div>

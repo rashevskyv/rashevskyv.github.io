@@ -13,6 +13,9 @@ excerpt: '**3DS Guide Update:<br>21.04.2017<br/><br/>Wii U Guide Update:<br>20.0
 ---
 #### <a name="news" />Новости
 
+**3DS**<br>**22.04.2017:**<br>SafeCTRTransfer снова работает для MSET.
+{: .notice--warning}
+
 **21.04.2017:**<br>Добавил архив новостей
 {: .notice--success}
 

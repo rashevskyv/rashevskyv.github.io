@@ -9,9 +9,12 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>21.04.2017<br/><br/>Wii U Guide Update:<br>20.04.2017<br/>**'
+excerpt: '**3DS Guide Update:<br>25.04.2017<br/><br/>Wii U Guide Update:<br>20.04.2017<br/>**'
 ---
 #### <a name="news" />Новости
+
+**3DS**<br>**25.04.2017:**<br>Драму мы оставим англоязычным пользователям. Для остальных же внесены исправления в угоду полного перехода к GodMode9, а так же исчерпывающая инструкция по его использованию
+{: .notice--warning}
 
 **3DS**<br>**22.04.2017:**<br>SafeCTRTransfer снова работает для MSET.
 {: .notice--warning}

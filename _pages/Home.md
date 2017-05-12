@@ -13,6 +13,9 @@ excerpt: '**3DS Guide Update:<br>10 мая 2017<br/><br/>Wii U Guide Update:<br>
 ---
 #### <a name="news" />Новости
 
+**3DS**<br>**11.05.2017:**<br>Картинки приехали в гайд. Пока, правда, зеркальные копии англоязычных, но это временно и постепенно картинки буду заменять актуальными для нашего гайда и языка. И это... никаких черных тем. 
+{: .notice--warning}
+
 **3DS**<br>**25.04.2017:**<br>Драму мы оставим англоязычным пользователям. Для остальных же внесены исправления в угоду полного перехода к GodMode9, а так же исчерпывающая инструкция по его использованию
 {: .notice--warning}
 
@@ -34,13 +37,5 @@ excerpt: '**3DS Guide Update:<br>10 мая 2017<br/><br/>Wii U Guide Update:<br>
 **Wii U**<br>**15.04.2017:**<br>
 Существенно переработано руководство по Wii U. RedNAND заменен на пропатченный SysNAND через CBHC.
 {: .notice--info}
-
-**3DS**<br>**11.04.2017:**<br>
-Добавлен метод взлома 11.3 через udsploit и уточнения к использованию 11.4
-{: .notice--warning}
-
-**3DS**<br>**08.04.2017:**<br>
-Странные дела: SafeCTRtransfer отказывается работать через MSET. Поэтому вернул старый-добрый метод - decrypt9
-{: .notice--warning}
 
 <a href="http://customfw.xyz/archive" style="margin:20px auto; text-align:center; display:block; width:120px;" class="btn btn--inverse">Архив новостей</a>

@@ -9,9 +9,12 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>14 мая 2017<br/><br/>Wii U Guide Update:<br>14 мая 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>20 мая 2017<br/><br/>Wii U Guide Update:<br>14 мая 2017<br/>**'
 ---
 #### <a name="news" />Новости
+
+**3DS**<br>**20.05.2017:**<br>11.4 взломана! А так же появился sighax! В общем, море новостей, самое большое обновление со времен взлома 11.3. 
+{: .notice--warning}
 
 **3DS**<br>**11.05.2017:**<br>Картинки приехали в гайд. Пока, правда, зеркальные копии англоязычных, но это временно и постепенно картинки буду заменять актуальными для нашего гайда и языка. И это... никаких черных тем. 
 {: .notice--warning}
@@ -33,9 +36,5 @@ excerpt: '**3DS Guide Update:<br>14 мая 2017<br/><br/>Wii U Guide Update:<br>
 
 **3DS**<br>**19.04.2017:**<br>Вернул в гайд HBL. Внесены правки, связанные с обновленным чейнлоадером новой люмы. 
 {: .notice--warning}
-
-**Wii U**<br>**15.04.2017:**<br>
-Существенно переработано руководство по Wii U. RedNAND заменен на пропатченный SysNAND через CBHC.
-{: .notice--info}
 
 <a href="http://customfw.xyz/archive" style="margin:20px auto; text-align:center; display:block; width:120px;" class="btn btn--inverse">Архив новостей</a>

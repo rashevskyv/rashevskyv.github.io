@@ -9,9 +9,12 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>20 мая 2017<br/><br/>Wii U Guide Update:<br>14 мая 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>21 мая 2017<br/><br/>Wii U Guide Update:<br>14 мая 2017<br/>**'
 ---
 #### <a name="news" />Новости
+
+**3DS**<br>**21.05.2017:**<br>Множество исправлений, ремонт битых ссылок, актуализация секции с аддонами. 
+{: .notice--warning}
 
 **3DS**<br>**20.05.2017:**<br>11.4 взломана! А так же появился sighax! В общем, море новостей, самое большое обновление со времен взлома 11.3. 
 {: .notice--warning}
@@ -33,8 +36,5 @@ excerpt: '**3DS Guide Update:<br>20 мая 2017<br/><br/>Wii U Guide Update:<br>
 
 **3DS и Wii U**<br>**20.04.2017:**<br>Синхронизировал гайд с Плаилектовским. 
 {: .notice--danger}
-
-**3DS**<br>**19.04.2017:**<br>Вернул в гайд HBL. Внесены правки, связанные с обновленным чейнлоадером новой люмы. 
-{: .notice--warning}
 
 <a href="http://customfw.xyz/archive" style="margin:20px auto; text-align:center; display:block; width:120px;" class="btn btn--inverse">Архив новостей</a>

@@ -9,9 +9,12 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>04 июня 2017<br/><br/>Wii U Guide Update:<br>04 июня 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>05 июня 2017<br/><br/>Wii U Guide Update:<br>04 июня 2017<br/>**'
 ---
 #### <a name="news" />Новости
+
+**3DS**<br>**05.05.2017:**<br>Вышел b9s 1.2 и Luma3DS 8, представившая множество новых функций. Подробнее можно почитать [здесь](https://vk.com/3ds_cfw?w=wall-125012133_5360%2Fall)
+{: .notice--warning}
 
 **3DS и Wii U**<br>**04.06.2017:**<br>Синхронизация версий
 {: .notice--danger}
@@ -24,20 +27,5 @@ excerpt: '**3DS Guide Update:<br>04 июня 2017<br/><br/>Wii U Guide Update:<b
 
 **3DS**<br>**11.05.2017:**<br>Картинки приехали в гайд. Пока, правда, зеркальные копии англоязычных, но это временно и постепенно картинки буду заменять актуальными для нашего гайда и языка. И это... никаких черных тем. 
 {: .notice--warning}
-
-**3DS**<br>**25.04.2017:**<br>Драму мы оставим англоязычным пользователям. Для остальных же внесены исправления в угоду полного перехода к GodMode9, а так же исчерпывающая инструкция по его использованию
-{: .notice--warning}
-
-**3DS**<br>**22.04.2017:**<br>SafeCTRTransfer снова работает для MSET.
-{: .notice--warning}
-
-**21.04.2017:**<br>Добавил архив новостей
-{: .notice--success}
-
-**3DS**<br>**21.04.2017:**<br>Вынес все дополнения в [отдельную страницу](http://3ds.customfw.xyz/addons) и добавил парочку дополнительных инструкций.
-{: .notice--warning}
-
-**3DS и Wii U**<br>**20.04.2017:**<br>Синхронизировал гайд с Плаилектовским. 
-{: .notice--danger}
 
 <a href="http://customfw.xyz/archive" style="margin:20px auto; text-align:center; display:block; width:120px;" class="btn btn--inverse">Архив новостей</a>

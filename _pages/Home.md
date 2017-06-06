@@ -9,9 +9,12 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>05 июня 2017<br/><br/>Wii U Guide Update:<br>04 июня 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>06 июня 2017<br/><br/>Wii U Guide Update:<br>04 июня 2017<br/>**'
 ---
 #### <a name="news" />Новости
+
+**3DS**<br>**05.05.2017:**<br>Рефакторинг, исправление ошибок, синхронизация с официальной локализацией
+{: .notice--warning}
 
 **3DS**<br>**05.05.2017:**<br>Вышел b9s 1.2 и Luma3DS 8, представившая множество новых функций. Подробнее можно почитать [здесь](https://vk.com/3ds_cfw?w=wall-125012133_5360%2Fall)
 {: .notice--warning}

@@ -9,9 +9,12 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>07 июня 2017<br/><br/>Wii U Guide Update:<br>04 июня 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>09 июня 2017<br/><br/>Wii U Guide Update:<br>04 июня 2017<br/>**'
 ---
 #### <a name="news" />Новости
+
+<h3>**3DS**<br>**09.05.2017:**</h3><br>Изменения в разделе [Обновление Luma3DS](update-luma3ds) во избежании путаницы с разными версиями хаков
+{: .notice--warning}
 
 **3DS**<br>**06.05.2017:**<br>Рефакторинг, исправление ошибок, синхронизация с официальной локализацией
 {: .notice--warning}
@@ -31,4 +34,4 @@ excerpt: '**3DS Guide Update:<br>07 июня 2017<br/><br/>Wii U Guide Update:<b
 **3DS**<br>**11.05.2017:**<br>Картинки приехали в гайд. Пока, правда, зеркальные копии англоязычных, но это временно и постепенно картинки буду заменять актуальными для нашего гайда и языка. И это... никаких черных тем. 
 {: .notice--warning}
 
-<a href="http://customfw.xyz/archive" style="margin:20px auto; text-align:center; display:block; width:120px;" class="btn btn--inverse">Архив новостей</a>
+<a href="http://customfw.xyz/archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--large">Архив новостей</a>

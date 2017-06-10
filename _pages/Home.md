@@ -13,6 +13,9 @@ excerpt: '**3DS Guide Update:<br>09 июня 2017<br/><br/>Wii U Guide Update:<b
 ---
 #### <a name="news" />Новости
 
+**3DS**<br>**10.05.2017:**<br>Новый HBL наконец-то стал частью starter pack
+{: .notice--warning}
+
 **3DS**<br>**09.05.2017:**<br>Изменения в разделе [Обновление Luma3DS](http://3ds.customfw.xyz/update-luma3ds) во избежании путаницы с разными версиями хаков
 {: .notice--warning}
 

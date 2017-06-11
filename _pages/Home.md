@@ -9,9 +9,12 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>09 июня 2017<br/><br/>Wii U Guide Update:<br>04 июня 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>11 июня 2017<br/><br/>Wii U Guide Update:<br>04 июня 2017<br/>**'
 ---
 #### <a name="news" />Новости
+
+**3DS**<br>**11.05.2017:**<br>Добавил решение проблем с [Luma Updater](http://3ds.customfw.xyz/troubleshooting#lumaupdater)
+{: .notice--warning}
 
 **3DS**<br>**10.05.2017:**<br>Новый HBL наконец-то стал частью starter pack
 {: .notice--warning}

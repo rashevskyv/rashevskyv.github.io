@@ -9,9 +9,12 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>15 июня 2017<br/><br/>Wii U Guide Update:<br>15 июня 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>17 июня 2017<br/><br/>Wii U Guide Update:<br>17 июня 2017<br/>**'
 ---
 #### <a name="news" />Новости
+
+**3DS и Wii U**<br>**17.06.2017:**<br>Синхронизация версий. Новые фоновые картинки стартовых страниц. в гайд для 3DS добавлена New 2DS
+{: .notice--danger}
 
 **3DS**<br>**11.06.2017:**<br>Добавил решение проблем с [Luma Updater](http://3ds.customfw.xyz/troubleshooting#lumaupdater)
 {: .notice--warning}

@@ -13,7 +13,7 @@ excerpt: '**3DS Guide Update:<br>2 июля 2017<br/><br/>Wii U Guide Update:<br
 ---
 #### <a name="news" />Новости
 
-**Wii U**<br>**03.07.2017:**<br>Добавлен [раздел для тех, кто купил уже прошитую консоль](http://wiiu.customfw.xyz/bought-hacked) и раздел с информацией по [http://wiiu.customfw.xyz/установке игр](games)
+**Wii U**<br>**03.07.2017:**<br>Добавлен [раздел для тех, кто купил уже прошитую консоль](http://wiiu.customfw.xyz/bought-hacked) и раздел с информацией по [установке игр](http://wiiu.customfw.xyz/games)
 {: .notice--info}
 
 **3DS**<br>**02.07.2017:**<br>Синхронизация версий

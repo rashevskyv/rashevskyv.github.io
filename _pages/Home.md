@@ -9,9 +9,12 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>2 июля 2017<br/><br/>Wii U Guide Update:<br>3 июля 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>2 июля 2017<br/><br/>Wii U Guide Update:<br>5 июля 2017<br/>**'
 ---
 #### <a name="news" />Новости
+
+**Wii U**<br>**05.07.2017:**<br>Дополнил и переписал огроменную инструкцию по [установке игр](http://wiiu.customfw.xyz/games)
+{: .notice--info}
 
 **Wii U**<br>**03.07.2017:**<br>Добавлен [раздел для тех, кто купил уже прошитую консоль](http://wiiu.customfw.xyz/bought-hacked) и раздел с информацией по [установке игр](http://wiiu.customfw.xyz/games)
 {: .notice--info}
@@ -27,9 +30,5 @@ excerpt: '**3DS Guide Update:<br>2 июля 2017<br/><br/>Wii U Guide Update:<br
 
 **3DS**<br>**11.06.2017:**<br>Добавил решение проблем с [Luma Updater](http://3ds.customfw.xyz/troubleshooting#lumaupdater)
 {: .notice--warning}
-
-**3DS**<br>**10.06.2017:**<br>Новый HBL наконец-то стал частью starter pack
-{: .notice--warning}
-
 
 <a href="http://customfw.xyz/archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--large">Архив новостей</a>

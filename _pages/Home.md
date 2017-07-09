@@ -13,6 +13,9 @@ excerpt: '**3DS Guide Update:<br>2 июля 2017<br/><br/>Wii U Guide Update:<br
 ---
 #### <a name="news" />Новости
 
+**3DS и Wii U**<br>**09.07.2017:**<br>Исправил пару опечаток. В часть с установкой жетонов, добавил [альтернативный метод](https://3ds.customfw.xyz/badges#part2b), который поможет тем, у кого проблемы с GTYB
+{: .notice--danger}
+
 **Wii U**<br>**05.07.2017:**<br>Дополнил и переписал огроменную инструкцию по [установке игр](http://wiiu.customfw.xyz/games)
 {: .notice--info}
 
@@ -27,8 +30,5 @@ excerpt: '**3DS Guide Update:<br>2 июля 2017<br/><br/>Wii U Guide Update:<br
 
 **3DS и Wii U**<br>**17.06.2017:**<br>Синхронизация версий. Новые фоновые картинки стартовых страниц. В гайд для 3DS добавлена New 2DS
 {: .notice--danger}
-
-**3DS**<br>**11.06.2017:**<br>Добавил решение проблем с [Luma Updater](http://3ds.customfw.xyz/troubleshooting#lumaupdater)
-{: .notice--warning}
 
 <a href="http://customfw.xyz/archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--large">Архив новостей</a>

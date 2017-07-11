@@ -9,9 +9,11 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>2 июля 2017<br/><br/>Wii U Guide Update:<br>5 июля 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>11 июля 2017<br/><br/>Wii U Guide Update:<br>9 июля 2017<br/>**'
 ---
 #### <a name="news" />Новости
+**3DS**<br>**07.2017:**<br>Добавлены правки, внесенные по случаю выхода 11.5
+{: .notice--warning}
 
 **3DS и Wii U**<br>**09.07.2017:**<br>Исправил пару опечаток. В часть с установкой жетонов, добавил [альтернативный метод](https://3ds.customfw.xyz/badges#part2b), который поможет тем, у кого проблемы с GTYB
 {: .notice--danger}
@@ -26,9 +28,6 @@ excerpt: '**3DS Guide Update:<br>2 июля 2017<br/><br/>Wii U Guide Update:<br
 {: .notice--warning}
 
 **3DS и Wii U**<br>**26.06.2017:**<br>Синхронизация версий
-{: .notice--danger}
-
-**3DS и Wii U**<br>**17.06.2017:**<br>Синхронизация версий. Новые фоновые картинки стартовых страниц. В гайд для 3DS добавлена New 2DS
 {: .notice--danger}
 
 <a href="http://customfw.xyz/archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--large">Архив новостей</a>

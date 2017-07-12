@@ -9,10 +9,14 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>11 июля 2017<br/><br/>Wii U Guide Update:<br>9 июля 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>12 июля 2017<br/><br/>Wii U Guide Update:<br>9 июля 2017<br/>**'
 ---
 #### <a name="news" />Новости
-**3DS**<br>**07.2017:**<br>Добавлены правки, внесенные по случаю выхода 11.5
+
+**3DS**<br>**12.07.2017:**<br>Добавлены правки, внесенные по случаю выхода новой версии gm9
+{: .notice--warning}
+
+**3DS**<br>**11.07.2017:**<br>Добавлены правки, внесенные по случаю выхода 11.5
 {: .notice--warning}
 
 **3DS и Wii U**<br>**09.07.2017:**<br>Исправил пару опечаток. В часть с установкой жетонов, добавил [альтернативный метод](https://3ds.customfw.xyz/badges#part2b), который поможет тем, у кого проблемы с GTYB

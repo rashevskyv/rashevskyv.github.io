@@ -9,9 +9,12 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>20 июля 2017<br/><br/>Wii U Guide Update:<br>20 июля 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>22 июля 2017<br/><br/>Wii U Guide Update:<br>22 июля 2017<br/>**'
 ---
 #### <a name="news" />Новости
+
+**3DS и Wii U**<br>**22.07.2017:**<br>Синхронизация версий
+{: .notice--danger}
 
 **Wii U**<br>**20.07.2017:**<br>Изменения, связанные с выходом 5.5.2
 {: .notice--info}
@@ -36,8 +39,5 @@ excerpt: '**3DS Guide Update:<br>20 июля 2017<br/><br/>Wii U Guide Update:<b
 
 **3DS**<br>**02.07.2017:**<br>Синхронизация версий
 {: .notice--warning}
-
-**3DS и Wii U**<br>**26.06.2017:**<br>Синхронизация версий
-{: .notice--danger}
 
 <a href="http://customfw.xyz/archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--large">Архив новостей</a>

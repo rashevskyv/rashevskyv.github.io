@@ -87,7 +87,7 @@ analytics:
 # Site Author
 author:
   name             : "xHR"
-  avatar           : "bio-photo.png"
+  avatar           : "/images/bio-photo.png"
   bio              : "3DS Hacker"
   location         : "Кривой рог, Украина"
   email            : "rashevsky.v@gmail.com"

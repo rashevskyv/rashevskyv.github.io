@@ -9,10 +9,10 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>5 августа 2017<br/><br/>Wii U Guide Update:<br>27 июля 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>6 августа 2017<br/><br/>Wii U Guide Update:<br>6 августа 2017<br/>**'
 ---
 #### <a name="news" />Новости
-**3DS и Wii U**<br>**05.08.2017:**<br>Уехал в отпуск. До 17го августа 2017 обновлений не будет, разве что произойдет что-то эпохальное! 
+**3DS и Wii U**<br>**06.08.2017:**<br>Вот и первое большое обновление. Для 3DS написан огромный подробный гайд по [хардмоду](making-hardmod). Для Wii U добавлен радикальный способ блокировки обновлений и немного пересмотрена структура сайта. 
 {: .notice--danger}
 
 **3DS и Wii U**<br>**31.07.2017:**<br>Синхронизация версий
@@ -34,9 +34,6 @@ excerpt: '**3DS Guide Update:<br>5 августа 2017<br/><br/>Wii U Guide Upda
 {: .notice--danger}
 
 **Wii U**<br>**05.07.2017:**<br>Дополнил и переписал огроменную инструкцию по [установке игр](http://wiiu.customfw.xyz/games)
-{: .notice--info}
-
-**Wii U**<br>**03.07.2017:**<br>Добавлен [раздел для тех, кто купил уже прошитую консоль](http://wiiu.customfw.xyz/bought-hacked) и раздел с информацией по [установке игр](http://wiiu.customfw.xyz/games)
 {: .notice--info}
 
 <a href="http://customfw.xyz/archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--large">Архив новостей</a>

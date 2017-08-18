@@ -9,10 +9,13 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>6 августа 2017<br/><br/>Wii U Guide Update:<br>6 августа 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>18 августа 2017<br/><br/>Wii U Guide Update:<br>6 августа 2017<br/>**'
 author_profile: true
 ---
 #### <a name="news" />Новости
+**3DS**<br>**18.08.2017:**<br>Добавлена реализация ntrboot
+{: .notice--warning}
+
 **3DS и Wii U**<br>**06.08.2017:**<br>Вот и первое большое обновление. Для 3DS написан огромный подробный гайд по [хардмоду](making-hardmod). Для Wii U добавлен радикальный способ блокировки обновлений и немного пересмотрена структура сайта. 
 {: .notice--danger}
 
@@ -33,8 +36,5 @@ author_profile: true
 
 **3DS и Wii U**<br>**09.07.2017:**<br>Исправил пару опечаток. В часть с установкой жетонов, добавил [альтернативный метод](https://3ds.customfw.xyz/badges#part2b), который поможет тем, у кого проблемы с GTYB
 {: .notice--danger}
-
-**Wii U**<br>**05.07.2017:**<br>Дополнил и переписал огроменную инструкцию по [установке игр](http://wiiu.customfw.xyz/games)
-{: .notice--info}
 
 <a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--large">Архив новостей</a>

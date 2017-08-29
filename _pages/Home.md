@@ -9,10 +9,12 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>18 августа 2017<br/><br/>Wii U Guide Update:<br>18 августа 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>29 августа 2017<br/><br/>Wii U Guide Update:<br>29 августа 2017<br/>**'
 author_profile: true
 ---
 #### <a name="news" />Новости
+**3DS и Wii U**<br>**29.08.2017:**<br>Синхронизация версий
+
 **3DS и Wii U**<br>**18.08.2017:**<br>Добавлена реализация ntrboot в гайд по 3DS; Добавлена новая реализация браузерхака на прошивке 5.5.2 в гайде по WiiU
 {: .notice--danger}
 

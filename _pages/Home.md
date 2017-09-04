@@ -13,6 +13,9 @@ excerpt: '**3DS Guide Update:<br>2 сентября 2017<br/><br/>Wii U Guide Up
 author_profile: true
 ---
 #### <a name="news" />Новости
+**3DS**<br>**04.09.2017:**<br>9.2.0 CTRTransfer заменен на 11.5.0 CTRTransfer
+{: .notice--warning}
+
 **3DS и Wii U**<br>**29.08.2017:**<br>Синхронизация версий
 {: .notice--danger}
 
@@ -32,9 +35,6 @@ author_profile: true
 {: .notice--warning}
 
 **3DS**<br>**12.07.2017:**<br>Добавлены правки, внесенные по случаю выхода новой версии gm9
-{: .notice--warning}
-
-**3DS**<br>**11.07.2017:**<br>Добавлены правки, внесенные по случаю выхода 11.5
 {: .notice--warning}
 
 <a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--large">Архив новостей</a>

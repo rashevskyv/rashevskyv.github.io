@@ -9,10 +9,13 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>2 сентября 2017<br/><br/>Wii U Guide Update:<br>2 сентября 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>6 сентября 2017<br/><br/>Wii U Guide Update:<br>2 сентября 2017<br/>**'
 author_profile: true
 ---
 #### <a name="news" />Новости
+**3DS**<br>**06.09.2017:**<br>b9s 1.3
+{: .notice--warning}
+
 **3DS**<br>**04.09.2017:**<br>9.2.0 CTRTransfer заменен на 11.5.0 CTRTransfer
 {: .notice--warning}
 

@@ -9,11 +9,15 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>10 сентября 2017<br/><br/>Wii U Guide Update:<br>6 сентября 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>14 сентября 2017<br/><br/>Wii U Guide Update:<br>6 сентября 2017<br/>**'
 author_profile: true
 ---
 #### <a name="news" />Новости
-**3DS**<br>**10.09.2017:**<br>Синхронизация с Плаем]
+
+**3DS**<br>**14.09.2017:**<br>Теперь много всего делается через OSC
+{: .notice--warning}
+
+**3DS**<br>**10.09.2017:**<br>Синхронизация с Плаем
 {: .notice--warning}
 
 **3DS**<br>**06.09.2017:**<br>b9s 1.3
@@ -36,8 +40,5 @@ author_profile: true
 
 **Wii U**<br>**20.07.2017:**<br>Изменения, связанные с выходом 5.5.2
 {: .notice--info}
-
-**3DS**<br>**17.07.2017:**<br>Синхронизировал версии. Эксперименты с новым меню
-{: .notice--warning}
 
 <a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--large">Архив новостей</a>

@@ -9,10 +9,13 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>14 сентября 2017<br/><br/>Wii U Guide Update:<br>6 сентября 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>18 сентября 2017<br/><br/>Wii U Guide Update:<br>6 сентября 2017<br/>**'
 author_profile: true
 ---
 #### <a name="news" />Новости
+
+**3DS**<br>**18.09.2017:**<br>Синхронизация с Плаем
+{: .notice--warning}
 
 **3DS**<br>**14.09.2017:**<br>Теперь много всего делается через OSC
 {: .notice--warning}

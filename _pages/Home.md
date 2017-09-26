@@ -9,10 +9,13 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>18 сентября 2017<br/><br/>Wii U Guide Update:<br>6 сентября 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>26 сентября 2017<br/><br/>Wii U Guide Update:<br>26 сентября 2017<br/>**'
 author_profile: true
 ---
 #### <a name="news" />Новости
+
+**3DS**<br>**26.09.2017:**<br>Синхронизация с Плаем. Изменения в инструкции по установке freeshop
+{: .notice--warning}
 
 **3DS**<br>**18.09.2017:**<br>Синхронизация с Плаем
 {: .notice--warning}
@@ -40,8 +43,5 @@ author_profile: true
 
 **3DS и Wii U**<br>**31.07.2017:**<br>Синхронизация версий
 {: .notice--danger}
-
-**Wii U**<br>**20.07.2017:**<br>Изменения, связанные с выходом 5.5.2
-{: .notice--info}
 
 <a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--large">Архив новостей</a>

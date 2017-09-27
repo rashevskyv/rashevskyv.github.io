@@ -9,12 +9,12 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>26 сентября 2017<br/><br/>Wii U Guide Update:<br>26 сентября 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>27 сентября 2017<br/><br/>Wii U Guide Update:<br>27 сентября 2017<br/>**'
 author_profile: true
 ---
 #### <a name="news" />Новости
 
-**3DS**<br>**26.09.2017:**<br>Синхронизация с Плаем. Изменения в инструкции по установке freeshop
+**3DS**<br>**27.09.2017:**<br>Синхронизация с Плаем. Изменения в инструкции по установке freeshop
 {: .notice--warning}
 
 **3DS**<br>**18.09.2017:**<br>Синхронизация с Плаем

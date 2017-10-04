@@ -9,10 +9,12 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>27 сентября 2017<br/><br/>Wii U Guide Update:<br>27 сентября 2017<br/>**'
+excerpt: '**3DS Guide Update:<br>5 октября 2017<br/><br/>Wii U Guide Update:<br>27 сентября 2017<br/>**'
 author_profile: true
 ---
 #### <a name="news" />Новости
+**3DS и Wii U**<br>**05.10.2017:**<br>Синхронизация версий
+{: .notice--danger}
 
 **3DS**<br>**27.09.2017:**<br>Синхронизация с Плаем. Изменения в инструкции по установке freeshop
 {: .notice--warning}
@@ -39,9 +41,6 @@ author_profile: true
 {: .notice--danger}
 
 **3DS и Wii U**<br>**06.08.2017:**<br>Вот и первое большое обновление. Для 3DS написан огромный подробный гайд по [хардмоду](making-hardmod). Для Wii U добавлен радикальный способ блокировки обновлений и немного пересмотрена структура сайта. 
-{: .notice--danger}
-
-**3DS и Wii U**<br>**31.07.2017:**<br>Синхронизация версий
 {: .notice--danger}
 
 <a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--large">Архив новостей</a>

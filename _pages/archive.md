@@ -146,5 +146,5 @@ author_profile: true
 Добавлена стартовая страница с новостным блоком. В будущем запилю перевод инструкции для WiiU и, совместно с [VK:portablegaming](https://vk.com/portablegaming), напишем инструкцию для PS Vita. Stay tuned!
 {: .notice--success}
 
-<center><a href="http://customfw.xyz/" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short">Начнем!!</a></center>
+<center><a href="http://customfw.xyz/" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short">На главную</a></center>
 {: .notice--success}

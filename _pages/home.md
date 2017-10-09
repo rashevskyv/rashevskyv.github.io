@@ -9,10 +9,14 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:<br>5 октября 2017<br/><br/>Wii U Guide Update:<br>27 сентября 2017<br/>**'
+excerpt: '**3DS Guide Update:**<br>5 октября 2017<br/><br/>**Wii U Guide Update:**<br>27 сентября 2017<br/>'
 author_profile: true
 ---
 #### <a name="news" />Новости
+
+**3DS и Wii U**<br>**09.10.2017:**<br>Синхронизация версий, миграция на minimal-mistakes 4.0.6. Много крутых фишек.
+{: .notice--danger}
+
 **3DS и Wii U**<br>**05.10.2017:**<br>Синхронизация версий
 {: .notice--danger}
 
@@ -40,7 +44,5 @@ author_profile: true
 **3DS и Wii U**<br>**18.08.2017:**<br>Добавлена реализация ntrboot в гайд по 3DS; Добавлена новая реализация браузерхака на прошивке 5.5.2 в гайде по WiiU
 {: .notice--danger}
 
-**3DS и Wii U**<br>**06.08.2017:**<br>Вот и первое большое обновление. Для 3DS написан огромный подробный гайд по [хардмоду](making-hardmod). Для Wii U добавлен радикальный способ блокировки обновлений и немного пересмотрена структура сайта. 
-{: .notice--danger}
-
-<a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--large">Архив новостей</a>
+<center><a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short">Начнем!!</a></center>
+{: .notice--success}

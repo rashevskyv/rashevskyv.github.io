@@ -188,7 +188,7 @@ defaults:
       author_profile: false
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist

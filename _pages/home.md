@@ -44,5 +44,5 @@ author_profile: true
 **3DS и Wii U**<br>**18.08.2017:**<br>Добавлена реализация ntrboot в гайд по 3DS; Добавлена новая реализация браузерхака на прошивке 5.5.2 в гайде по WiiU
 {: .notice--danger}
 
-<center><a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short"></a></center>
+<center><a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short">Архив</a></center>
 {: .notice--success}

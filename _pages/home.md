@@ -9,10 +9,13 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>9 октября 2017<br/><br/>**Wii U Guide Update:**<br>9 октября 2017<br/>'
+excerpt: '**3DS Guide Update:**<br>15 октября 2017<br/><br/>**Wii U Guide Update:**<br>9 октября 2017<br/>'
 author_profile: true
 ---
 #### <a name="news" />Новости
+
+**3DS и Wii U**<br>**15.10.2017:**<br>Добавлена поддержка картриджей от r4i-sdhc.com и r4isdhc.com
+{: .notice--danger}
 
 **3DS и Wii U**<br>**09.10.2017:**<br>Синхронизация версий, миграция на minimal-mistakes 4.0.6. Много крутых фишек.
 {: .notice--danger}

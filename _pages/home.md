@@ -9,13 +9,16 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>15 октября 2017<br/><br/>**Wii U Guide Update:**<br>9 октября 2017<br/>'
+excerpt: '**3DS Guide Update:**<br>19 октября 2017<br/><br/>**Wii U Guide Update:**<br>19 октября 2017<br/>'
 author_profile: true
 ---
 #### <a name="news" />Новости
 
-**3DS и Wii U**<br>**15.10.2017:**<br>Добавлена поддержка картриджей от r4i-sdhc.com и r4isdhc.com
+**3DS и Wii U**<br>**19.10.2017:**<br>Синхронизация версий, исправления в тексте, багфиксы, уточнения.
 {: .notice--danger}
+
+**3DS**<br>**15.10.2017:**<br>Добавлена поддержка картриджей от r4i-sdhc.com и r4isdhc.com
+{: .notice--warning}
 
 **3DS и Wii U**<br>**09.10.2017:**<br>Синхронизация версий, миграция на minimal-mistakes 4.0.6. Много крутых фишек.
 {: .notice--danger}
@@ -42,9 +45,6 @@ author_profile: true
 {: .notice--warning}
 
 **3DS и Wii U**<br>**29.08.2017:**<br>Синхронизация версий
-{: .notice--danger}
-
-**3DS и Wii U**<br>**18.08.2017:**<br>Добавлена реализация ntrboot в гайд по 3DS; Добавлена новая реализация браузерхака на прошивке 5.5.2 в гайде по WiiU
 {: .notice--danger}
 
 <center><a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short">Архив</a></center>

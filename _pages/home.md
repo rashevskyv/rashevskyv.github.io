@@ -9,10 +9,13 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>19 октября 2017<br/><br/>**Wii U Guide Update:**<br>19 октября 2017<br/>'
+excerpt: '**3DS Guide Update:**<br>23 октября 2017<br/><br/>**Wii U Guide Update:**<br>19 октября 2017<br/>'
 author_profile: true
 ---
 #### <a name="news" />Новости
+
+**3DS**<br>**23.10.2017:**<br>Изменены таблицы для ntrboot
+{: .notice--warning}
 
 **3DS и Wii U**<br>**19.10.2017:**<br>Синхронизация версий, исправления в тексте, багфиксы, уточнения.
 {: .notice--danger}

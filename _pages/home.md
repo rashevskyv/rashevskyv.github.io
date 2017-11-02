@@ -14,6 +14,9 @@ author_profile: true
 ---
 #### <a name="news" />Новости
 
+**3DS**<br>**02.11.2017:**<br>Разные правки. Добавлен RTS LITE в ресторы для ntrboot, синхронизация. 
+{: .notice--warning}
+
 **3DS и Wii U**<br>**31.10.2017:**<br>Исправления ошибок и опечаток и много всего по мелочи. 
 {: .notice--danger}
 
@@ -47,11 +50,6 @@ author_profile: true
 **3DS**<br>**06.09.2017:**<br>b9s 1.3
 {: .notice--warning}
 
-**3DS**<br>**04.09.2017:**<br>9.2.0 CTRTransfer заменен на 11.5.0 CTRTransfer
-{: .notice--warning}
-
-**3DS и Wii U**<br>**29.08.2017:**<br>Синхронизация версий
-{: .notice--danger}
 
 <center><a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short">Архив</a></center>
 {: .notice--success}

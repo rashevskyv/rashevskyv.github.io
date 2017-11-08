@@ -9,10 +9,15 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>3 ноября 2017<br/><br/>**Wii U Guide Update:**<br>3 ноября 2017<br/>'
+excerpt: '**3DS Guide Update:**<br>9 ноября 2017<br/><br/>**Wii U Guide Update:**<br>3 ноября 2017<br/>'
 author_profile: true
 ---
 #### <a name="news" />Новости
+**3DS**<br>**09.11.2017:**<br>Добавлены изображения кнопок. Фиксы ошибок
+{: .notice--warning}
+
+**3DS**<br>**07.11.2017:**<br>Заменена версия OCS, много важных, но не таких заметных исправлений. Переснята часть скриншотов.
+{: .notice--warning}
 
 **3DS и Wii U**<br>**03.11.2017:**<br>Исправления ошибок и опечаток и много всего по мелочи. 
 {: .notice--danger}
@@ -39,12 +44,6 @@ author_profile: true
 {: .notice--danger}
 
 **3DS**<br>**27.09.2017:**<br>Синхронизация с Плаем. Изменения в инструкции по установке freeshop
-{: .notice--warning}
-
-**3DS**<br>**18.09.2017:**<br>Синхронизация с Плаем
-{: .notice--warning}
-
-**3DS**<br>**14.09.2017:**<br>Теперь много всего делается через OSC
 {: .notice--warning}
 
 <center><a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short">Архив</a></center>

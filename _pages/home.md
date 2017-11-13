@@ -9,10 +9,13 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>9 ноября 2017<br/><br/>**Wii U Guide Update:**<br>3 ноября 2017<br/>'
+excerpt: '**3DS Guide Update:**<br>13 ноября 2017<br/><br/>**Wii U Guide Update:**<br>3 ноября 2017<br/>'
 author_profile: true
 ---
 #### <a name="news" />Новости
+**3DS**<br>**13.11.2017:**<br>Синхронизация версий, исправления в тексте, багфиксы, уточнения.
+{: .notice--warning}
+
 **3DS**<br>**09.11.2017:**<br>Добавлены изображения кнопок. Фиксы ошибок
 {: .notice--warning}
 
@@ -39,12 +42,6 @@ author_profile: true
 
 **3DS и Wii U**<br>**09.10.2017:**<br>Синхронизация версий, миграция на minimal-mistakes 4.0.6. Много крутых фишек.
 {: .notice--danger}
-
-**3DS и Wii U**<br>**05.10.2017:**<br>Синхронизация версий
-{: .notice--danger}
-
-**3DS**<br>**27.09.2017:**<br>Синхронизация с Плаем. Изменения в инструкции по установке freeshop
-{: .notice--warning}
 
 <center><a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short">Архив</a></center>
 {: .notice--success}

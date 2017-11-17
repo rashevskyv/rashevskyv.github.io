@@ -9,10 +9,13 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>14 ноября 2017<br/><br/>**Wii U Guide Update:**<br>3 ноября 2017<br/>'
+excerpt: '**3DS Guide Update:**<br>18 ноября 2017<br/><br/>**Wii U Guide Update:**<br>3 ноября 2017<br/>'
 author_profile: true
 ---
 #### <a name="news" />Новости
+**3DS**<br>**14.11.2017:**<br>Синхронизация, багфиксы, уточнения
+{: .notice--warning}
+
 **3DS**<br>**14.11.2017:**<br>Добавлены несколько картриджей
 {: .notice--warning}
 
@@ -35,12 +38,6 @@ author_profile: true
 {: .notice--danger}
 
 **3DS**<br>**23.10.2017:**<br>Изменены таблицы для ntrboot
-{: .notice--warning}
-
-**3DS и Wii U**<br>**19.10.2017:**<br>Синхронизация версий, исправления в тексте, багфиксы, уточнения.
-{: .notice--danger}
-
-**3DS**<br>**15.10.2017:**<br>Добавлена поддержка картриджей от r4i-sdhc.com и r4isdhc.com
 {: .notice--warning}
 <center><a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short">Архив</a></center>
 {: .notice--success}

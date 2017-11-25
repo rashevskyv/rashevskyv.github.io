@@ -9,10 +9,13 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>23 ноября 2017<br/><br/>**Wii U Guide Update:**<br>23 ноября 2017<br/>'
+excerpt: '**3DS Guide Update:**<br>25 ноября 2017<br/><br/>**Wii U Guide Update:**<br>23 ноября 2017<br/>'
 author_profile: true
 ---
 #### <a name="news" />Новости
+**3DS**<br>**25.11.2017:**<br>Синхронизация, добавил сверху каждой страницы ссылки на страницы помощи.
+{: .notice--warning}
+
 **3DS и Wii U**<br>**23.11.2017:**<br>Исправления ошибок и опечаток и много всего по мелочи. Синхронизация с Плаем.
 {: .notice--danger}
 
@@ -36,9 +39,6 @@ author_profile: true
 
 **3DS**<br>**02.11.2017:**<br>Разные правки. Добавлен RTS LITE в ресторы для ntrboot, синхронизация. 
 {: .notice--warning}
-
-**3DS и Wii U**<br>**31.10.2017:**<br>Исправления ошибок и опечаток и много всего по мелочи. 
-{: .notice--danger}
 
 {: .notice--warning}
 <center><a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short">Архив</a></center>

@@ -11,7 +11,7 @@ $lighter-gray               : mix(#fff, $gray, 90%) !default;
 $border-color               : $lighter-gray !default;
 $body-color                 : #fff !default;
 $background-color           : #fff !default;
-$code-background-color      : #fafafa !default;
+$code-background-color      : #e7e7e7 !default;
 $code-background-color-dark : $light-gray !default;
 $text-color                 : $dark-gray !default;
 $border-color               : $lighter-gray !default;
@@ -42,6 +42,10 @@ $type-size-8                  : 0.8em !default;  // ~10px
   font-size: .9em;
 }
 
+body {
+  line-height: 1.7 !important; //межстрочный интервал
+}
+
 // Ссылки на странице
 a {
 	text-decoration: none !important;
@@ -65,6 +69,10 @@ a {
 		outline: 0;
 	}
 
+}
+
+a img {
+	vertical-align: bottom !important;
 }
 
 // Полоса прокрутки 
@@ -93,6 +101,7 @@ html::-webkit-scrollbar
 {
 	width: 4px !important;
 }
+
 
 // Таблицы 
 thead {
@@ -190,6 +199,12 @@ th {
 	}
   }
   
+ //центрируем название сайта 
+.site-title {
+	display: flex !important;
+	align-items: center !important;
+}
+  
   .hidden-links {
     background: #fff;
 	text-align: left;
@@ -273,6 +288,11 @@ th {
 @mixin notice($notice-color) {
   margin: 1.5em 0 !important;  // Вертикальные маргины между нотайсами
 }
+
+.notice {
+  @include notice($dark-gray);
+}
+
   
 // Ширина текстового поля в шапке страницы home
 .page__hero {
@@ -309,6 +329,13 @@ th {
   font-size: 1em !important;
 }
 
+hr {
+    border: 0 !important;
+    height: 1px  !important;
+    background: #333 !important;
+    background-image: linear-gradient(to right, #fff, #969696, #b0adad, #969696, #fff) !important;
+	}
+
 // .sidebar__right {
   // @include breakpoint($large) { Эту часть нужно добавить в sidebar.scss"
 	// float: right;
@@ -322,11 +349,16 @@ th {
 	letter-spacing: 0.4px !important;
 	max-height: 80vh !important;
 	min-height: auto !important; 
+	min-width: 275px !important; 
 	overflow-y: auto !important;
+    position: absolute;
+    top: -372px;
+    font-size: $type-size-5;
 	
 	.nav__title {
 	  text-transform: uppercase;
 	  padding: 0.3rem 0.8rem 0.3rem 0.8rem !important;
+      font-size: $type-size-5;
 	}
 
 	a {
@@ -398,3 +430,12 @@ nav {
     font-size: $type-size-5 !important; //ссылки в аддонах
   }
 
+// Добавить вручную в base.css
+// p > code,
+// a > code,
+// li > code,
+// figcaption > code,
+// td > code {
+  // background: $code-background-color;
+  // border: 1px solid $light-gray;
+// }

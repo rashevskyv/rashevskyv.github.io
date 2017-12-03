@@ -9,10 +9,13 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>2 декабря 2017<br/><br/>**Wii U Guide Update:**<br>29 ноября 2017<br/>'
+excerpt: '**3DS Guide Update:**<br>3 декабря 2017<br/><br/>**Wii U Guide Update:**<br>29 ноября 2017<br/>'
 author_profile: true
 ---
 #### <a name="news" />Новости
+**3DS**<br>**03.12.2017:**<br>Слегка дополнил информацию об Emunand. А то, как оказалось, не все понимают что это и начинают его переносить на непрошитых приставках.
+{: .notice--warning}
+
 **3DS**<br>**02.12.2017:**<br>Синхронизация
 {: .notice--warning}
 
@@ -40,8 +43,6 @@ author_profile: true
 **3DS**<br>**07.11.2017:**<br>Заменена версия OCS, много важных, но не таких заметных исправлений. Переснята часть скриншотов.
 {: .notice--warning}
 
-**3DS и Wii U**<br>**03.11.2017:**<br>Исправления ошибок и опечаток и много всего по мелочи. 
-{: .notice--danger}
 
 {: .notice--warning}
 <center><a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short">Архив</a></center>

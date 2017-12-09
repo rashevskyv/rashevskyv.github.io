@@ -13,6 +13,9 @@ excerpt: '**3DS Guide Update:**<br>9 декабря 2017<br/><br/>**Wii U Guide 
 author_profile: true
 ---
 #### <a name="news" />Новости
+**3DS**<br>**09.12.2017:**<br>Добавлена инструкция по использованию [читов в играх 3DS](cheats)
+{: .notice--warning}
+
 **3DS**<br>**04.12.2017:**<br>Слегка дополнил информацию об Emunand. А то, как оказалось, не все понимают что это и начинают его переносить на непрошитых приставках.
 {: .notice--warning}
 
@@ -40,10 +43,5 @@ author_profile: true
 **3DS**<br>**09.11.2017:**<br>Добавлены изображения кнопок. Фиксы ошибок
 {: .notice--warning}
 
-**3DS**<br>**07.11.2017:**<br>Заменена версия OCS, много важных, но не таких заметных исправлений. Переснята часть скриншотов.
-{: .notice--warning}
-
-
-{: .notice--warning}
 <center><a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short">Архив</a></center>
 {: .notice--success}

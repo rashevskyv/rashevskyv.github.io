@@ -9,10 +9,13 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>10 декабря 2017<br/><br/>**Wii U Guide Update:**<br>8 декабря 2017<br/>'
+excerpt: '**3DS Guide Update:**<br>11 декабря 2017<br/><br/>**Wii U Guide Update:**<br>8 декабря 2017<br/>'
 author_profile: true
 ---
 #### <a name="news" />Новости
+**3DS**<br>**11.12.2017:**<br>Добавил отдельную страницу с [инструкциями по обновлению системы](https://3ds.customfw.xyz/update-system)
+{: .notice--warning}
+
 **3DS**<br>**09.12.2017:**<br>Добавлена инструкция по использованию [читов в играх 3DS](https://3ds.customfw.xyz/cheats)
 {: .notice--warning}
 

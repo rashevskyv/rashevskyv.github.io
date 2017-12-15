@@ -9,10 +9,13 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>13 декабря 2017<br/><br/>**Wii U Guide Update:**<br>8 декабря 2017<br/>'
+excerpt: '**3DS Guide Update:**<br>15 декабря 2017<br/><br/>**Wii U Guide Update:**<br>8 декабря 2017<br/>'
 author_profile: true
 ---
 #### <a name="news" />Новости
+**3DS**<br>**15.12.2017:**<br>Снова Anemone3DS в качестве менеджера тем по-умолчанию. Ну и сайты для скачивания тем, сплешей и значков опять другие.
+{: .notice--warning}
+
 **3DS**<br>**11.12.2017:**<br>Добавил отдельную страницу с [инструкциями по обновлению системы](https://3ds.customfw.xyz/update-system)
 {: .notice--warning}
 
@@ -41,9 +44,6 @@ author_profile: true
 {: .notice--warning}
 
 **3DS**<br>**13.11.2017:**<br>Синхронизация версий, исправления в тексте, багфиксы, уточнения.
-{: .notice--warning}
-
-**3DS**<br>**09.11.2017:**<br>Добавлены изображения кнопок. Фиксы ошибок
 {: .notice--warning}
 
 <center><a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short">Архив</a></center>

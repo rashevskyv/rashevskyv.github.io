@@ -9,10 +9,13 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>24 декабря 2017<br/><br/>**Wii U Guide Update:**<br>24 декабря 2017<br/>'
+excerpt: '**3DS Guide Update:**<br>29 декабря 2017<br/><br/>**Wii U Guide Update:**<br>31 декабря 2017<br/>'
 author_profile: true
 ---
 #### <a name="news" />Новости
+**3DS**<br>**31.12.2017:**<br>Добавлена [Luma3DS от duckbill](https://3ds.customfw.xyz/cheats#Использование-luma3ds-и-читов-от-gateway) с поддержкой читов.
+{: .notice--warning}
+
 **3DS**<br>**15.12.2017:**<br>Снова Anemone3DS в качестве менеджера тем по-умолчанию. Ну и сайты для скачивания тем, сплешей и значков опять другие.
 {: .notice--warning}
 

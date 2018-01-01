@@ -9,10 +9,18 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>29 декабря 2017<br/><br/>**Wii U Guide Update:**<br>31 декабря 2017<br/>'
+excerpt: '**3DS Guide Update:**<br>1 января 2018<br/><br/>**Wii U Guide Update:**<br>31 декабря 2017<br/>'
 author_profile: true
 ---
-#### <a name="news" />Новости
+#### Новости
+
+#### 2018
+
+**3DS**<br>**01.01.2018:**<br>С Новым годом!!!
+{: .notice--warning}
+
+#### 2017
+
 **3DS**<br>**31.12.2017:**<br>Добавлена [Luma3DS от duckbill](https://3ds.customfw.xyz/cheats#Использование-luma3ds-и-читов-от-gateway) с поддержкой читов.
 {: .notice--warning}
 

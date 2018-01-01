@@ -6,3 +6,7 @@ main:
     url: http://3ds.customfw.xyz
   - title: "Wii U<br>Mocha CFW+CBHC"
     url: http://wiiu.customfw.xyz
+  - title: "Архив<br>новостей"
+    url: /archive
+  - title: "Архив<br>новостей (2017)"
+    url: /2017

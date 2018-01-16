@@ -9,12 +9,15 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>11 января 2018<br/><br/>**Wii U Guide Update:**<br>6 января 2018<br/>'
+excerpt: '**3DS Guide Update:**<br>16 января 2018<br/><br/>**Wii U Guide Update:**<br>6 января 2018<br/>'
 author_profile: true
 ---
 #### Новости
 
 #### 2018
+
+**3DS**<br>**15.01.2018:**<br>Почти все изменения, что вносились в новом году были чисто косметические. То там исправлял, то тут дополнял.
+{: .notice--warning}
 
 **3DS**<br>**01.01.2018:**<br>С Новым годом!!!
 {: .notice--warning}

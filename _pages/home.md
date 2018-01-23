@@ -9,12 +9,15 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>23 января 2018<br/><br/>**Wii U Guide Update:**<br>21 января 2018<br/>'
+excerpt: '**3DS Guide Update:**<br>23 января 2018<br/><br/>**Wii U Guide Update:**<br>21 января 2018<br/><br/>**PS4 U Guide Update:**<br>24 января 2018'
 author_profile: true
 ---
 #### Новости
 
 #### 2018
+
+**PS4**<br>**23.01.2018:**<br>Добавлен [гайд по прошивке PS4](https://ps4.customfw.xyz)
+{: .notice--success}
 
 **3DS**<br>**15.01.2018:**<br>Почти все изменения, что вносились в новом году были чисто косметические. То там исправлял, то тут дополнял.
 {: .notice--warning}

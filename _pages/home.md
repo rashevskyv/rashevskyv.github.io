@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Инструкция по взлому WiiU/3ds/PS Vita"
+title: "Инструкция по взлому WiiU/3ds/PS4"
 header:
   overlay_color: "#5e616c"
   overlay_image: images/home-page-feature.jpg

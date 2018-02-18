@@ -9,12 +9,15 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>13 февраля 2018<br/><br/>**Wii U Guide Update:**<br>13 февраля 2018<br/><br/>**PS4 U Guide Update:**<br>6 февраля 2018'
+excerpt: '**3DS Guide Update:**<br>18 февраля 2018<br/><br/>**Wii U Guide Update:**<br>13 февраля 2018<br/><br/>**PS4 U Guide Update:**<br>6 февраля 2018'
 author_profile: true
 ---
 #### Новости
 
 #### Февраль 
+
+**3DS**<br>**18.02.2018:**<br>Добавлена инструкция по seedminer. Пока в тестовом режиме
+{: .notice--warning}
 
 **3DS и Wii U**<br>**13.02.2017:**<br>Синхронизация
 {: .notice--danger}

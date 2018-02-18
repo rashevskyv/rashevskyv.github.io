@@ -16,7 +16,7 @@ author_profile: true
 
 #### Февраль 
 
-**3DS**<br>**18.02.2018:**<br>Добавлена инструкция по seedminer. Пока в тестовом режиме
+**3DS**<br>**18.02.2018:**<br>Добавлена инструкция по [seedminer](http://3ds.customfw.xyz/seedminer)
 {: .notice--warning}
 
 **3DS и Wii U**<br>**13.02.2017:**<br>Синхронизация

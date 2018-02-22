@@ -9,12 +9,15 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>21 февраля 2018<br/><br/>**Wii U Guide Update:**<br>13 февраля 2018<br/><br/>**PS4 Guide Update:**<br>19 февраля 2018'
+excerpt: '**3DS Guide Update:**<br>22 февраля 2018<br/><br/>**Wii U Guide Update:**<br>13 февраля 2018<br/><br/>**PS4 Guide Update:**<br>19 февраля 2018'
 author_profile: true
 ---
 #### Новости
 
 #### Февраль 
+
+**3DS**<br>**22.02.2018:**<br>Заменил скрипты копирования luma3ds в ctrnand одним скриптом, совмещающим функции обоих
+{: .notice--warning}
 
 **3DS**<br>**18.02.2018:**<br>Добавлена инструкция по [seedminer](http://3ds.customfw.xyz/seedminer)
 {: .notice--warning}

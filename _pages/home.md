@@ -9,12 +9,15 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>17 марта 2018<br/><br/>**Wii U Guide Update:**<br>26 февраля 2018<br/><br/>**PS4 Guide Update:**<br>14 марта 2018'
+excerpt: '**3DS Guide Update:**<br>21 марта 2018<br/><br/>**Wii U Guide Update:**<br>26 февраля 2018<br/><br/>**PS4 Guide Update:**<br>14 марта 2018'
 author_profile: true
 ---
 #### Новости
 
 #### Март 
+
+**3DS**<br>**19.03.2018:**<br>Добавлено много новых картриджей, поддерживаемых ntrboot_flasher, да и сам флешер, как и его ядра, тоже обновлены
+{: .notice--warning}
 
 **3DS**<br>**19.03.2018:**<br>Сильно упрощена часть с майнингом благодаря программе Seedplanter
 {: .notice--warning}

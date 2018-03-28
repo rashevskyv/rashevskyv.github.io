@@ -9,12 +9,15 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>25 марта 2018<br/><br/>**Wii U Guide Update:**<br>25 марта 2018<br/><br/>**PS4 Guide Update:**<br>25 марта 2018'
+excerpt: '**3DS Guide Update:**<br>25 марта 2018<br/><br/>**Wii U Guide Update:**<br>25 марта 2018<br/><br/>**PS4 Guide Update:**<br>28 марта 2018'
 author_profile: true
 ---
 #### Новости
 
 #### Март 
+
+**PS4**<br>**28.03.2018:**<br>Альтернативные решения для активации эксплойта
+{: .notice--success}
 
 **3DS**<br>**25.03.2018:**<br>Сделал наконец гайд по моим r4
 {: .notice--warning}

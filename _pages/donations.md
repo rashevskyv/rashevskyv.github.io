@@ -4,26 +4,7 @@ permalink: /donations.html
 author_profile: true
 ---
 
-## Если вам помогло или просто понравилось это руководство, то автор принимает пожертвования:
-
-[![Paypal]({{ "/images/donate/paypal.png" | absolute_url }}){:target="_blank"}{:height="72px" width="256px"}{: style="padding-bottom: .35em"}](https://www.paypal.me/plailectguides/15){: .align-center}
-plailect@gmail.com
-{: .text-center}
-{: .notice--info}
-
-[![Bitcoin]({{ "/images/donate/bitcoin.png" | absolute_url }}){:target="_blank"}{:height="73px" width="256px"}{: style="padding-bottom: .35em"}](bitcoin:3MtzjaRNrcG57RbNxJegcs8UdtaEfmSZLp){: .align-center}
-3MtzjaRNrcG57RbNxJegcs8UdtaEfmSZLp
-{: .text-center}
-{: .notice--info}
-
-[![Ethereum]({{ "/images/donate/ethereum.png" | absolute_url }}){:target="_blank"}{:height="64px" width="256px"}{: style="padding-bottom: .35em"}](https://www.ethereum.org/){: .align-center}
-0x0ff3aa34308ed81db88e096416e30fe222592efc
-{: .text-center}
-{: .notice--info}
-
-___
-
-## Реквизиты переводчика:
+## Реквизиты для пожертвований:
 
 [![Visa]({{ "/images/donate/visa.png" | absolute_url }}){:height="64px" width="256px"}{: style="padding-bottom: .35em"}](){: .align-center}
 **4731 1856 0013 8488**<br>

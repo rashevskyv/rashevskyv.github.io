@@ -9,14 +9,17 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>26 мая 2018<br/><br/>**Wii U Guide Update:**<br>26 мая 2018<br/><br/>**PS4 Guide Update:**<br>8 апреля 2018'
+excerpt: '**3DS Guide Update:**<br>26 мая 2018<br/><br/>**Wii U Guide Update:**<br>26 мая 2018<br/><br/>**PS4 Guide Update:**<br>28 мая 2018'
 author_profile: true
 ---
 #### Новости
 
 #### Май
 
-Никаких значительных событий. Все обновления чисто косметические и правящие баги и ошибки
+**PS4**<br>**28.05.2018:**<br>Выход взлома на прошивке 5.05
+{: .notice--success}
+
+Никаких значительных событий в остальном. Все обновления чисто косметические и правящие баги и ошибки
 
 #### Март 
 

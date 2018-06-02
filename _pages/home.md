@@ -9,10 +9,15 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>30 мая 2018<br/><br/>**Wii U Guide Update:**<br>26 мая 2018<br/><br/>**PS4 Guide Update:**<br>30 мая 2018'
+excerpt: '**3DS Guide Update:**<br>2 июня 2018<br/><br/>**Wii U Guide Update:**<br>26 мая 2018<br/><br/>**PS4 Guide Update:**<br>30 мая 2018'
 author_profile: true
 ---
 #### Новости
+
+#### Июнь
+
+**3DS**<br>**2.06.2018:**<br>Полностью переписан метод взлома через seedminer. Оказывается там все уже намного проще и быстрее делается. Что хорошо. Потрачены все выходные. Что плохо
+{: .notice--warning}
 
 #### Май
 
@@ -37,28 +42,6 @@ author_profile: true
 
 **PS4**<br>**02.03.2018:**<br>Гайд изменен, согласно новому эксплойту для 4.55
 {: .notice--success}
-
-
-#### Февраль 
-
-**26.02.2018:**<br>Работы по редизайну. Маленькие, вы и не заметите
-{: .notice}
-
-**3DS**<br>**24.02.2018:**<br>Временно удалил OCS, пока ссылки на github не починят 
-{: .notice--warning}
-
-**3DS**<br>**22.02.2018:**<br>Заменил скрипты копирования luma3ds в ctrnand одним скриптом, совмещающим функции обоих
-{: .notice--warning}
-
-**3DS**<br>**18.02.2018:**<br>Добавлена инструкция по [seedminer](http://3ds.customfw.xyz/seedminer)
-{: .notice--warning}
-
-**3DS и Wii U**<br>**13.02.2017:**<br>Синхронизация
-{: .notice--danger}
-
-**PS4**<br>**01.02.2018:**<br>Переписана инструкция по [дампу игр](https://ps4.customfw.xyz/game-dumps), несколько других менее важных изменений
-{: .notice--success}
-
 
 <center><a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short">Архив</a></center>
 {: .notice--success}

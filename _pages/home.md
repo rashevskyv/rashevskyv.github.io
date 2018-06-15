@@ -9,12 +9,15 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>10 июня 2018<br/><br/>**Wii U Guide Update:**<br>26 мая 2018<br/><br/>**PS4 Guide Update:**<br>10 июня 2018'
+excerpt: '**3DS Guide Update:**<br>10 июня 2018<br/><br/>**Wii U Guide Update:**<br>26 мая 2018<br/><br/>**PS4 Guide Update:**<br>16 июня 2018'
 author_profile: true
 ---
 #### Новости
 
 #### Июнь
+
+**PS4**<br>**16.06.2018:**<br>Добавил описание кеширования. Переписал инструкцию по дампингу
+{: .notice--success}
 
 **PS4**<br>**2.06.2018:**<br>Очень много изменений, добавлений, мелких правок
 {: .notice--success}

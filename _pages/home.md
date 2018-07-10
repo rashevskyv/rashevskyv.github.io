@@ -9,12 +9,15 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>8 июля 2018<br/><br/>**Wii U Guide Update:**<br>26 мая 2018<br/><br/>**PS4 Guide Update:**<br>3 июля 2018'
+excerpt: '**3DS Guide Update:**<br>10 июля 2018<br/><br/>**Wii U Guide Update:**<br>26 мая 2018<br/><br/>**PS4 Guide Update:**<br>3 июля 2018'
 author_profile: true
 ---
 #### Новости
 
 #### Июль
+
+**3DS**<br>**10.07.2018:**<br>Исправлена проблема с pre9otherapp на 4.x.x (ну как исправлена, рекомендуем пользоваться версией 1.2 на этой прошивке)
+{: .notice--warning}
 
 **3DS**<br>**8.07.2018:**<br>Обновление b9sTool до версии 4.0.0
 {: .notice--warning}

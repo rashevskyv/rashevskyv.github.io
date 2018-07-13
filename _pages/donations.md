@@ -4,7 +4,7 @@ permalink: /donations.html
 author_profile: true
 ---
 
-## Реквизиты для пожертвований:
+## Реквизиты автора гайда:
 
 [![Visa]({{ "/images/donate/visa.png" | absolute_url }}){:height="64px" width="256px"}{: style="padding-bottom: .35em"}](){: .align-center}
 **4731 1856 0013 8488**<br>

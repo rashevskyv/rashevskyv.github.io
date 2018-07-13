@@ -9,12 +9,15 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/get-started"
   caption:
-excerpt: '**3DS Guide Update:**<br>10 июля 2018<br/><br/>**Wii U Guide Update:**<br>26 мая 2018<br/><br/>**PS4 Guide Update:**<br>11 июля 2018'
+excerpt: '**3DS Guide Update:**<br>12 июля 2018<br/><br/>**Wii U Guide Update:**<br>26 мая 2018<br/><br/>**PS4 Guide Update:**<br>14 июля 2018'
 author_profile: true
 ---
 #### Новости
 
 #### Июль
+
+**PS4**<br>**14.07.2018:**<br>Дабавлена статья по использованию [Remote Play](http://ps4.customfw.xyz/remote-play)
+{: .notice--success}
 
 **3DS**<br>**10.07.2018:**<br>Исправлена проблема с pre9otherapp на 4.x.x (ну как исправлена, рекомендуем пользоваться версией 1.2 на этой прошивке)
 {: .notice--warning}

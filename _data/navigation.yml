@@ -2,14 +2,15 @@
 main:
   - title: "На главную"
     url: http://customfw.xyz
-  - title: "3DS<br>luma+b9s"
+  - title: "Switch"
+    url: http://switch.customfw.xyz
+  - title: "3DS"
     url: http://3ds.customfw.xyz
-  - title: "Wii U<br>Mocha CFW+CBHC"
+  - title: "Wii U"
     url: http://wiiu.customfw.xyz
-  - title: "PS4<br>PS4Hen "
+  - title: "PS4"
     url: http://ps4.customfw.xyz
-  - title: "Архив<br>новостей"
-    url: /archive
-  - title: "Архив<br>новостей (2017)"
-    url: /2017
-   
+  - title: "Новости"
+    url: /news
+  - title: "Пожертвования"
+    url: /donations

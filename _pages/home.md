@@ -1,64 +1,30 @@
 ---
-layout: single
+layout: splash
+title: "Custom Firmware Guide" #
 permalink: /
-title: "Инструкция по взлому WiiU/3ds/PS4"
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#5e616c" #
   overlay_image: images/home-page-feature.jpg
-  overlay_filter: 0.5
-  cta_label: "Выберите консоль!"
-  cta_url: "/get-started"
+  overlay_filter: 0.2
   caption:
-excerpt: '**3DS Guide Update:**<br>15 июля 2018<br/><br/>**Wii U Guide Update:**<br>15 июля 2018<br/><br/>**PS4 Guide Update:**<br>14 июля 2018'
-author_profile: true
+excerpt: "Руководства по установке кастомной прошивки<br />"
+feature_row:
+  - image_path: /images/landing/switch.jpg
+    url: "https://switch.customfw.xyz/"
+    title: "Switch"
+    excerpt: "Полное руководство по прошивке Nintendo Switch"
+  - image_path: /images/landing/3ds.jpg
+    url: "https://3ds.customfw.xyz/"
+    title: "3DS"
+    excerpt: "Полное руководство по прошивке 3DS, от начала до boot9strap."
+  - image_path: /images/landing/ps4.jpg
+    url: "https://ps4.customfw.xyz/"
+    title: "PS4"
+    excerpt: "Полное руководство по взлому PS4 / PS4 PRO"
+  - image_path: /images/landing/wiiu.jpg
+    url: "https://wiiu.customfw.xyz/"
+    title: "Wii U"
+    excerpt: "Полное руководство по установке кастомной прошивке на Wii U, от начала до Coldboot Haxchi"
 ---
-#### Новости
 
-#### Июль
-
-**PS4**<br>**14.07.2018:**<br>Дабавлена статья по использованию [Remote Play](http://ps4.customfw.xyz/remote-play)
-{: .notice--success}
-
-**3DS**<br>**10.07.2018:**<br>Исправлена проблема с pre9otherapp на 4.x.x (ну как исправлена, рекомендуем пользоваться версией 1.2 на этой прошивке)
-{: .notice--warning}
-
-**3DS**<br>**8.07.2018:**<br>Обновление b9sTool до версии 4.0.0
-{: .notice--warning}
-
-#### Июнь
-
-**PS4**<br>**16.06.2018:**<br>Добавил описание кеширования. Переписал инструкцию по дампингу
-{: .notice--success}
-
-**PS4**<br>**2.06.2018:**<br>Очень много изменений, добавлений, мелких правок
-{: .notice--success}
-
-**3DS**<br>**2.06.2018:**<br>Полностью переписан метод взлома через seedminer. Оказывается там все уже намного проще и быстрее делается. Что хорошо. Потрачены все выходные. Что плохо
-{: .notice--warning}
-
-#### Май
-
-**PS4**<br>**28.05.2018:**<br>Выход взлома на прошивке 5.05
-{: .notice--success}
-
-Никаких значительных событий в остальном. Все обновления чисто косметические и правящие баги и ошибки
-
-#### Март 
-
-**PS4**<br>**28.03.2018:**<br>Альтернативные решения для активации эксплойта
-{: .notice--success}
-
-**3DS**<br>**25.03.2018:**<br>Сделал наконец гайд по моим r4
-{: .notice--warning}
-
-**3DS**<br>**19.03.2018:**<br>Добавлено много новых картриджей, поддерживаемых ntrboot_flasher, да и сам флешер, как и его ядра, тоже обновлены
-{: .notice--warning}
-
-**3DS**<br>**19.03.2018:**<br>Сильно упрощена часть с майнингом благодаря программе Seedplanter
-{: .notice--warning}
-
-**PS4**<br>**02.03.2018:**<br>Гайд изменен, согласно новому эксплойту для 4.55
-{: .notice--success}
-
-<center><a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short">Архив</a></center>
-{: .notice--success}
+{% include feature_row %}

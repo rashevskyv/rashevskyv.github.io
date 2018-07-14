@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   date_label                 : "Updated:"
   comments_label             : "Leave a Comment"
   comments_title             : "Comments"
-  more_label                 : "Learn More"
+  more_label                 : "Подробнее"
   related_label              : "You May Also Enjoy"
   follow_label               : "Follow:"
   feed_label                 : "Feed"

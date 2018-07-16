@@ -13,7 +13,27 @@ author_profile: true
 
 {% include toc title="Новости по месяцам" %}
 
-#### Февраль 
+## Март 
+
+**PS4**<br>**28.03.2018:**<br>Альтернативные решения для активации эксплойта
+{: .notice--success}
+
+**3DS**<br>**25.03.2018:**<br>Сделал наконец гайд по моим r4
+{: .notice--warning}
+
+**3DS**<br>**19.03.2018:**<br>Добавлено много новых картриджей, поддерживаемых ntrboot_flasher, да и сам флешер, как и его ядра, тоже обновлены
+{: .notice--warning}
+
+**3DS**<br>**19.03.2018:**<br>Сильно упрощена часть с майнингом благодаря программе Seedplanter
+{: .notice--warning}
+
+**PS4**<br>**02.03.2018:**<br>Гайд изменен, согласно новому эксплойту для 4.55
+{: .notice--success}
+
+<center><a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short">Архив</a></center>
+{: .notice--success}
+
+## Февраль 
 
 **26.02.2018:**<br>Работы по редизайну. Маленькие, вы и не заметите
 {: .notice}
@@ -33,7 +53,7 @@ author_profile: true
 **PS4**<br>**01.02.2018:**<br>Переписана инструкция по [дампу игр](https://ps4.customfw.xyz/game-dumps), несколько других менее важных изменений
 {: .notice--success}
 
-#### Январь 
+## Январь 
 
 **PS4**<br>**25.01.2018:**<br>Добавлено несколько новых страниц, а так же устранен ряд логических ошибок
 {: .notice--success}
@@ -47,7 +67,7 @@ author_profile: true
 **3DS**<br>**01.01.2018:**<br>С Новым годом!!!
 {: .notice--warning}
 
-#### Декабрь 2017
+## Декабрь 2017
 
 **3DS**<br>**31.12.2017:**<br>Добавлена [Luma3DS от duckbill](https://3ds.customfw.xyz/cheats#Использование-luma3ds-и-читов-от-gateway) с поддержкой читов.
 {: .notice--warning}

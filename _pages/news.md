@@ -1,7 +1,7 @@
 ---
-layout: single
-permalink: /news
 title: "Инструкция по взлому WiiU/3ds/PS4"
+permalink: /news.html
+author_profile: true
 header:
   overlay_color: "#5e616c"
   overlay_image: images/home-page-feature.jpg
@@ -9,12 +9,14 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**3DS Guide Update:**<br>16 июля 2018<br/><br/>**PS4 Guide Update:**<br>14 июля 2018'<br/><br/>**Switch Guide Update:**<br>16 июля 2018<br/><br/>**Wii U Guide Update:**<br>15 июля 2018
-author_profile: true
+excerpt: '**3DS Guide Update:**<br>16 июля 2018<br/><br/>**PS4 Guide Update:**<br>14 июля 2018<br/><br/>**Switch Guide Update:**<br>16 июля 2018<br/><br/>**Wii U Guide Update:**<br>15 июля 2018'
 ---
-#### Новости
 
-#### Июль
+{% include toc title="Новости по месяцам" %}
+
+# Новости
+
+## Июль
 
 **Switch**<br>**16.07.2018:**<br>Релиз гайда по [взлому свитча](http://switch.customfw.xyz)
 {: .notice--danger}
@@ -28,7 +30,7 @@ author_profile: true
 **3DS**<br>**8.07.2018:**<br>Обновление b9sTool до версии 4.0.0
 {: .notice--warning}
 
-#### Июнь
+## Июнь
 
 **PS4**<br>**16.06.2018:**<br>Добавил описание кеширования. Переписал инструкцию по дампингу
 {: .notice--success}
@@ -39,29 +41,9 @@ author_profile: true
 **3DS**<br>**2.06.2018:**<br>Полностью переписан метод взлома через seedminer. Оказывается там все уже намного проще и быстрее делается. Что хорошо. Потрачены все выходные. Что плохо
 {: .notice--warning}
 
-#### Май
+## Май
 
 **PS4**<br>**28.05.2018:**<br>Выход взлома на прошивке 5.05
 {: .notice--success}
 
 Никаких значительных событий в остальном. Все обновления чисто косметические и правящие баги и ошибки
-
-#### Март 
-
-**PS4**<br>**28.03.2018:**<br>Альтернативные решения для активации эксплойта
-{: .notice--success}
-
-**3DS**<br>**25.03.2018:**<br>Сделал наконец гайд по моим r4
-{: .notice--warning}
-
-**3DS**<br>**19.03.2018:**<br>Добавлено много новых картриджей, поддерживаемых ntrboot_flasher, да и сам флешер, как и его ядра, тоже обновлены
-{: .notice--warning}
-
-**3DS**<br>**19.03.2018:**<br>Сильно упрощена часть с майнингом благодаря программе Seedplanter
-{: .notice--warning}
-
-**PS4**<br>**02.03.2018:**<br>Гайд изменен, согласно новому эксплойту для 4.55
-{: .notice--success}
-
-<center><a href="archive" style="margin:20px auto; text-align:center; display:block; width:200px;" class="btn btn--short">Архив</a></center>
-{: .notice--success}

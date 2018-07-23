@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**3DS Guide Update:**<br>16 июля 2018<br/><br/>**PS4 Guide Update:**<br>14 июля 2018<br/><br/>**Switch Guide Update:**<br>19 июля 2018<br/><br/>**Wii U Guide Update:**<br>15 июля 2018'
+excerpt: '**3DS Guide Update:**<br>16 июля 2018<br/><br/>**PS4 Guide Update:**<br>14 июля 2018<br/><br/>**Switch Guide Update:**<br>23 июля 2018<br/><br/>**Wii U Guide Update:**<br>15 июля 2018'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -17,6 +17,15 @@ excerpt: '**3DS Guide Update:**<br>16 июля 2018<br/><br/>**PS4 Guide Update:
 # Новости
 
 ## Июль
+{% capture notice-1 %}    
+
+**Switch**<br>**23.07.2018:**
+* Добавлен ReiNX
+* Добавлен NXShop 
+* Переписан метод установки игр для Atmosphere. Изменён софт для распаковки игр и метод их установки на саму консоль
+{% endcapture %}
+
+<div class="notice--danger">{{ notice- | markdownify }}</div>
 
 **Switch**<br>**16.07.2018:**<br>Релиз гайда по [взлому свитча](http://switch.customfw.xyz)
 {: .notice--danger}

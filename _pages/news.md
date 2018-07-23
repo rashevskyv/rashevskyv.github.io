@@ -18,6 +18,9 @@ excerpt: '**3DS Guide Update:**<br>16 июля 2018<br/><br/>**PS4 Guide Update:
 
 ## Июль
 
+**PS4**<br>**23.07.2018:**<br>Переписана часть с дампингом DLC первого типа под программу psDLC
+{: .notice--success}
+
 **Switch**<br>**23.07.2018:**          
 	* Добавлен ReiNX           
 	* Добавлен NXShop                 
@@ -27,7 +30,7 @@ excerpt: '**3DS Guide Update:**<br>16 июля 2018<br/><br/>**PS4 Guide Update:
 **Switch**<br>**16.07.2018:**<br>Релиз гайда по [взлому свитча](http://switch.customfw.xyz)
 {: .notice--danger}
 
-**PS4**<br>**14.07.2018:**<br>Дабавлена статья по использованию [Remote Play](http://ps4.customfw.xyz/remote-play)
+**PS4**<br>**14.07.2018:**<br>Добавлена статья по использованию [Remote Play](http://ps4.customfw.xyz/remote-play)
 {: .notice--success}
 
 **3DS**<br>**10.07.2018:**<br>Исправлена проблема с pre9otherapp на 4.x.x (ну как исправлена, рекомендуем пользоваться версией 1.2 на этой прошивке)

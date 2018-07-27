@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**3DS Guide Update:**<br>27 июля 2018<br/><br/>**PS4 Guide Update:**<br>14 июля 2018<br/><br/>**Switch Guide Update:**<br>27 июля 2018<br/><br/>**Wii U Guide Update:**<br>15 июля 2018'
+excerpt: '**3DS Guide Update:**<br>27 июля 2018<br/><br/>**PS4 Guide Update:**<br>14 июля 2018<br/><br/>**Switch Guide Update:**<br>28 июля 2018<br/><br/>**Wii U Guide Update:**<br>15 июля 2018'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -18,7 +18,10 @@ excerpt: '**3DS Guide Update:**<br>27 июля 2018<br/><br/>**PS4 Guide Update:
 
 ## Июль
 
-**Switch**<br>**16.07.2018:**<br>Добавил установку игр для атмосферы без использования костылей, обновил sx os до 1.4, исправил косяк с РИД и много всего другого!
+**Switch**<br>**28.07.2018:**<br>Починили DLC в атмосфере. Добавили Devmenu отдельным приложением 
+{: .notice--danger}
+
+**Switch**<br>**25.07.2018:**<br>Добавил установку игр для атмосферы без использования костылей, обновил sx os до 1.4, исправил косяк с РИД и много всего другого!
 {: .notice--danger}
 
 **PS4**<br>**23.07.2018:**<br>Переписана часть с дампингом DLC первого типа под программу psDLC

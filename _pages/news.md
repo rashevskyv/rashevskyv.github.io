@@ -18,6 +18,9 @@ excerpt: '**3DS Guide Update:**<br>31 июля 2018<br/><br/>**PS4 Guide Update:
 
 ## Июль
 
+**Switch**<br>**31.07.2018:**<br>ReiNX снова самая крутая. ОС дополнена клоном RomMenu от ксекутеров, установка обновления и DLC работает. 
+{: .notice--danger}
+
 **3DS**<br>**31.07.2018:**<br>Добавлена поддержка 11.8.0
 {: .notice--warning}
 

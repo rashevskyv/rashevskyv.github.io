@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**3DS Guide Update:**<br>27 июля 2018<br/><br/>**PS4 Guide Update:**<br>14 июля 2018<br/><br/>**Switch Guide Update:**<br>30 июля 2018<br/><br/>**Wii U Guide Update:**<br>15 июля 2018'
+excerpt: '**3DS Guide Update:**<br>31 июля 2018<br/><br/>**PS4 Guide Update:**<br>14 июля 2018<br/><br/>**Switch Guide Update:**<br>31 июля 2018<br/><br/>**Wii U Guide Update:**<br>15 июля 2018'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -17,6 +17,9 @@ excerpt: '**3DS Guide Update:**<br>27 июля 2018<br/><br/>**PS4 Guide Update:
 # Новости
 
 ## Июль
+
+**3DS**<br>**31.07.2018:**<br>Добавлена поддержка 11.8.0
+{: .notice--warning}
 
 **Switch**<br>**28.07.2018:**<br>Починили DLC в атмосфере. Добавили Devmenu отдельным приложением 
 {: .notice--danger}

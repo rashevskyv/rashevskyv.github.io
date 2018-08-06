@@ -18,7 +18,7 @@ excerpt: '**3DS Guide Update:**<br>3 августа 2018<br/><br/>**PS4 Guide Up
 
 ## Август
 
-**Switch**<br>**06.08.2018:**<br>Очередной кастом - [RajNX](http://switch.customfw.xyz/rajnx){:target="_blank"}. Обновлена часть с безоасным обновлением
+**Switch**<br>**06.08.2018:**<br>Очередной кастом - [RajNX](http://switch.customfw.xyz/rajnx){:target="_blank"}. Обновлена часть с безопасным обновлением
 {: .notice--danger}
 
 

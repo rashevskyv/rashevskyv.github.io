@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**3DS Guide Update:**<br>3 августа 2018<br/><br/>**PS4 Guide Update:**<br>14 июля 2018<br/><br/>**Switch Guide Update:**<br>6 августа 2018<br/><br/>**Wii U Guide Update:**<br>2 августа 2018'
+excerpt: '**3DS Guide Update:**<br>3 августа 2018<br/><br/>**PS4 Guide Update:**<br>6 августа 2018<br/><br/>**Switch Guide Update:**<br>6 августа 2018<br/><br/>**Wii U Guide Update:**<br>2 августа 2018'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -18,9 +18,11 @@ excerpt: '**3DS Guide Update:**<br>3 августа 2018<br/><br/>**PS4 Guide Up
 
 ## Август
 
+**PS4**<br>**06.08.2018:**<br>Изменён метод кеширования 
+{: .notice--success}
+
 **Switch**<br>**06.08.2018:**<br>Очередной кастом - [RajNX](http://switch.customfw.xyz/rajnx){:target="_blank"}. Обновлена часть с безопасным обновлением
 {: .notice--danger}
-
 
 **Switch**<br>**03.08.2018:**<br>Сильно упростили процедуру установки кастомов. Теперь это буквально дело распаковки файлов в корень КП.
 {: .notice--danger}

@@ -17,6 +17,8 @@ excerpt: '**3DS Guide Update:**<br>19 августа 2018<br/><br/>**PS4 Guide U
 # Новости
 
 ## Август
+**3DS**<br>**23.08.2018:**<br>freeshop всё :(
+{: .notice--warning}
 
 **PS4**<br>**06.08.2018:**<br>Изменён метод кеширования 
 {: .notice--success}

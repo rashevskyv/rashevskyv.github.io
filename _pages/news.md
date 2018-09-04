@@ -16,6 +16,11 @@ excerpt: '**3DS Guide Update:**<br>2 сентября 2018<br/><br/>**PS4 Guide 
 
 # Новости
 
+## Сентябрь
+**Wii U**<br>**4.09.2018:**<br>Изменения, связанные с выходом 5.5.3
+{: .notice--info}
+
+
 ## Август
 **3DS**<br>**23.08.2018:**<br>freeshop всё :(
 {: .notice--warning}

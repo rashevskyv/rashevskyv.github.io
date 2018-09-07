@@ -25,6 +25,10 @@ feature_row:
     url: "https://wiiu.customfw.xyz/"
     title: "Wii U"
     excerpt: "Полное руководство по установке кастомной прошивке на Wii U, от начала до Coldboot Haxchi"
+  - image_path: /images/landing/dsi.jpg
+    url: "https://dsi.customfw.xyz/"
+    title: "DSi"
+    excerpt: "Полное руководство по установке кастомной прошивке на DSi"
 ---
 
 {% include feature_row %}

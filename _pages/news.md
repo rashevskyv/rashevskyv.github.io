@@ -9,7 +9,11 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**3DS Guide Update:**<br>7 сентября 2018<br/><br/>**PS4 Guide Update:**<br>12 сентября 2018<br/><br/>**Switch Guide Update:**<br>26 сентября 2018<br/><br/>**Wii U Guide Update:**<br>9 сентября 2018<br/><br/>**DSi Guide Update:**<br>10 сентября 2018'
+<<<<<<< HEAD
+excerpt: '**3DS Guide Update:**<br>7 сентября 2018<br/><br/>**PS4 Guide Update:**<br>12 сентября 2018<br/><br/>**Switch Guide Update:**<br>27 сентября 2018<br/><br/>**Wii U Guide Update:**<br>9 сентября 2018<br/><br/>**DSi Guide Update:**<br>10 сентября 2018'
+=======
+excerpt: '**3DS Guide Update:**<br>16 сентября 2018<br/><br/>**PS4 Guide Update:**<br>12 сентября 2018<br/><br/>**Switch Guide Update:**<br>22 сентября 2018<br/><br/>**Wii U Guide Update:**<br>9 сентября 2018<br/><br/>**DSi Guide Update:**<br>10 сентября 2018'
+>>>>>>> 3e323d0a0aac8c7c7da164aff63218b0cf3c9c36
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -17,9 +21,12 @@ excerpt: '**3DS Guide Update:**<br>7 сентября 2018<br/><br/>**PS4 Guide 
 # Новости
 
 ## Сентябрь
+
+**Switch**<br>**22.09.2018:**<br>Полная поддержка официальной прошивки 6.0.0
+{: .notice--danger}
+
 **Wii U**<br>**4.09.2018:**<br>Изменения, связанные с выходом 5.5.3
 {: .notice--info}
-
 
 ## Август
 **3DS**<br>**23.08.2018:**<br>freeshop всё :(

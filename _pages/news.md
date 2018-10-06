@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**3DS Guide Update:**<br>30 сентября 2018<br/><br/>**PS4 Guide Update:**<br>12 сентября 2018<br/><br/>**Switch Guide Update:**<br>27 сентября 2018<br/><br/>**Wii U Guide Update:**<br>9 сентября 2018<br/><br/>**DSi Guide Update:**<br>28 сентября 2018'
+excerpt: '**3DS Guide Update:**<br>30 сентября 2018<br/><br/>**PS4 Guide Update:**<br>12 сентября 2018<br/><br/>**Switch Guide Update:**<br>6 октября 2018<br/><br/>**Wii U Guide Update:**<br>9 сентября 2018<br/><br/>**DSi Guide Update:**<br>6 октября 2018'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -17,6 +17,7 @@ excerpt: '**3DS Guide Update:**<br>30 сентября 2018<br/><br/>**PS4 Guide
 # Новости
 
 ## Сентябрь
+
 **3DS**<br>**29.08.2018:**<br>Новый бесплатный метод взлома для 11.8 - [steelminer](http://3ds.customfw.xyz/steelminer){:target="_blank"}
 {: .notice--warning}
 

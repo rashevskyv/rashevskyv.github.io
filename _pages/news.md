@@ -9,12 +9,21 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**3DS Guide Update:**<br>31 октября 2018<br/><br/>**PS4 Guide Update:**<br>28 октября 2018<br/><br/>**Switch Guide Update:**<br>30 октября 2018<br/><br/>**Wii U Guide Update:**<br>27 октября 2018<br/><br/>**DSi Guide Update:**<br>26 октября 2018'
+excerpt: '**3DS Guide Update:**<br>1 ноября 2018<br/><br/>**PS4 Guide Update:**<br>28 октября 2018<br/><br/>**Switch Guide Update:**<br>30 октября 2018<br/><br/>**Wii U Guide Update:**<br>27 октября 2018<br/><br/>**DSi Guide Update:**<br>26 октября 2018'
 ---
 
 {% include toc title="Новости по месяцам" %}
 
 # Новости
+
+## Ноябрь
+
+**3DS**<br>**01.11.2018:**<br>Очень большое обновление гайда. Очень. Каждая страница прочитана, много старого и ненужного удалено. Добавлен один пак, вместо сотни архивов, которые нужно было качать для прошивки. Теперь тупить просто уже негде. 
+{: .notice--warning}
+
+## Октябрь
+
+Ну каких-то сильно важных апдейтов не было, в общем-то 
 
 ## Сентябрь
 

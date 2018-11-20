@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**3DS Guide Update:**<br>11 ноября 2018<br/><br/>**PS4 Guide Update:**<br>28 октября 2018<br/><br/>**Switch Guide Update:**<br>17 ноября 2018<br/><br/>**Wii U Guide Update:**<br>27 октября 2018<br/><br/>**DSi Guide Update:**<br>26 октября 2018'
+excerpt: '**3DS Guide Update:**<br>11 ноября 2018<br/><br/>**PS4 Guide Update:**<br>28 октября 2018<br/><br/>**Switch Guide Update:**<br>20 ноября 2018<br/><br/>**Wii U Guide Update:**<br>27 октября 2018<br/><br/>**DSi Guide Update:**<br>26 октября 2018'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -17,6 +17,9 @@ excerpt: '**3DS Guide Update:**<br>11 ноября 2018<br/><br/>**PS4 Guide Upd
 # Новости
 
 ## Ноябрь
+
+**Switch**<br>**20.11.2018:**<br>Вышла 6.2
+{: .notice--danger}
 
 **Switch**<br>**15.11.2018:**<br>Переехали на Atmosphere
 {: .notice--danger}

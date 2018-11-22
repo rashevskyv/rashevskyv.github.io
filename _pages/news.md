@@ -18,6 +18,9 @@ excerpt: '**3DS Guide Update:**<br>11 ноября 2018<br/><br/>**PS4 Guide Upd
 
 ## Ноябрь
 
+**Switch**<br>**22.11.2018:**<br>Добавил скрипт по определению прошиваемости свитча прямо в гайд
+{: .notice--danger}
+
 **3DS**<br>**22.11.2018:**<br>Добавил видео в часть со steelminer
 {: .notice--warning}
 

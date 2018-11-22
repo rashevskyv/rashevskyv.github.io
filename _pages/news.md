@@ -18,6 +18,9 @@ excerpt: '**3DS Guide Update:**<br>11 ноября 2018<br/><br/>**PS4 Guide Upd
 
 ## Ноябрь
 
+**3DS**<br>**22.11.2018:**<br>Добавил видео в часть со steelminer
+{: .notice--warning}
+
 **Switch**<br>**20.11.2018:**<br>Вышла 6.2
 {: .notice--danger}
 

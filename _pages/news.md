@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**3DS Guide Update:**<br>18 декабря 2018<br/><br/>**PS4 Guide Update:**<br>10 декабря 2018<br/><br/>**Switch Guide Update:**<br>24 декабря 2018<br/><br/>**Wii U Guide Update:**<br>22 ноября 2018<br/><br/>**DSi Guide Update:**<br>3 декабря 2018'
+excerpt: '**3DS Guide Update:**<br>18 декабря 2018<br/><br/>**PS4 Guide Update:**<br>26 декабря 2018<br/><br/>**Switch Guide Update:**<br>28 декабря 2018<br/><br/>**Wii U Guide Update:**<br>22 ноября 2018<br/><br/>**DSi Guide Update:**<br>3 декабря 2018'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -17,6 +17,12 @@ excerpt: '**3DS Guide Update:**<br>18 декабря 2018<br/><br/>**PS4 Guide U
 # Новости
 
 ## Декабрь
+
+**Switch**<br>**28.12.2018:**<br>Добавлена инструкция по сетевой игре для прошитых и забаненных
+{: .notice--danger}
+
+**PS4**<br>**26.12.2018:**<br>Добавлен HEN для 4.74
+{: .notice--success}
 
 **Switch**<br>**13.12.2018:**<br>SXOS-таки разродились прошивкой, поддерживающей 6.2
 {: .notice--danger}

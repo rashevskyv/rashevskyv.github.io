@@ -16,3 +16,5 @@ main:
     url: /news
   - title: "Пожертвования"
     url: /donations
+  - title: "Связаться с нами"
+    url: /contacts

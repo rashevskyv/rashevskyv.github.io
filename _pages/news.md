@@ -9,12 +9,16 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**3DS Guide Update:**<br>18 декабря 2018<br/><br/>**PS4 Guide Update:**<br>14 января 2019<br/><br/>**Switch Guide Update:**<br>12 января 2019<br/><br/>**Wii U Guide Update:**<br>14 января 2019<br/><br/>**DSi Guide Update:**<br>10 января 2019'
+excerpt: '**3DS Guide Update:**<br>16 февраля 2019<br/><br/>**PS4 Guide Update:**<br>16 февраля 2019<br/><br/>**Switch Guide Update:**<br>16 февраля 2019<br/><br/>**Wii U Guide Update:**<br>16 февраля 2019<br/><br/>**DSi Guide Update:**<br>21 января 2019'
 ---
 
 {% include toc title="Новости по месяцам" %}
 
 # Новости
+
+## Февраль
+
+Группу в ВК забанили. Новая здесь - [http://vk.com/nin_cfw](http://vk.com/nin_cfw){:target="_blank"}
 
 ## Декабрь
 

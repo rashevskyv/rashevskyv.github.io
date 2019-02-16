@@ -8,7 +8,6 @@ author_profile: true
 
 [![Visa]({{ "/images/donate/visa.png" | absolute_url }}){:height="64px" width="256px"}{: style="padding-bottom: .35em"}](){: .align-center}
 **4731 1856 0013 8488**<br>
-Из РФ можно оплатить через QIWI, либо через Вконтакте
 {: .text-center}
 {: .notice--info}
 
@@ -27,7 +26,7 @@ author_profile: true
 {: .text-center}
 {: .notice--info}
 
-[![3ds_CFW]({{ "/images/donate/3ds_cfw.png" | absolute_url }}){:target="_blank"}{:height="64px" width="256px"}{: style="padding-bottom: .35em"}](http://vk.com/3ds_cfw){: .align-center}
-Перевод делался для группы [VK:3ds_CFW](http://vk.com/3ds_cfw){:target="_blank"}
+[![Nintendo CFW]({{ "/images/donate/3ds_cfw.png" | absolute_url }}){:target="_blank"}{:height="64px" width="256px"}{: style="padding-bottom: .35em"}](http://vk.com/nin_cfw){: .align-center}
+Перевод делался для группы [Nintendo CFW](http://vk.com/nin_cfw){:target="_blank"}
 {: .text-center}
 {: .notice--info}

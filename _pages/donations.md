@@ -26,7 +26,7 @@ author_profile: true
 {: .text-center}
 {: .notice--info}
 
-[![Nintendo CFW]({{ "/images/donate/3ds_cfw.png" | absolute_url }}){:target="_blank"}{:height="64px" width="256px"}{: style="padding-bottom: .35em"}](http://vk.com/nin_cfw){: .align-center}
-Перевод делался для группы [Nintendo CFW](http://vk.com/nin_cfw){:target="_blank"}
+[![Custom Nintendo]({{ "/images/donate/3ds_cfw.png" | absolute_url }}){:target="_blank"}{:height="64px" width="256px"}{: style="padding-bottom: .35em"}](http://vk.com/nin_cfw){: .align-center}
+Перевод делался для группы [Custom Nintendo](http://vk.com/nin_cfw){:target="_blank"}
 {: .text-center}
 {: .notice--info}

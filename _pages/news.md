@@ -21,7 +21,7 @@ excerpt: '**3DS Guide Update:**<br>16 февраля 2019<br/><br/>**PS4 Guide U
 **Switch**<br>**19.02.2019:**<br>Вышла прошивка 7.0.1
 {: .notice--danger}
 
-Группу в ВК забанили. Новая здесь - [http://vk.com/nin_cfw](http://vk.com/nin_cfw){:target="_blank"}
+Группу в ВК забанили. Новая здесь - [http://vk.com/nincfw](http://vk.com/nincfw){:target="_blank"}
 
 ## Декабрь
 

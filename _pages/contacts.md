@@ -5,8 +5,8 @@ author_profile: true
 ---
 
 * [Группа вконтакте](https://vk.com/nincfw){:target="_blank"}
-* [Discord](https://discord.gg/KWjQk3){:target="_blank"} **18+**
-* [telegram](https://t.me/homebrew_group){:target="_blank"} **18+**
+* [Discord](https://discord.gg/HNjpYw){:target="_blank"}
+* [telegram](https://t.me/homebrew_group){:target="_blank"} **Строго 18+! Мат, разврат, неадекват!**
 
 Если вам помогло или просто понравилось это руководство, то мы принимаем [пожертвования](donations){:target="_blank"}
 {: .notice--notice}

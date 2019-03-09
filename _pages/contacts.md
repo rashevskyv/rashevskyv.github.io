@@ -4,7 +4,7 @@ permalink: /contacts.html
 author_profile: true
 ---
 
-* [Группа вконтакте](https://vk.com/nincfw){:target="_blank"}
+* [Группа вконтакте](https://vk.customfw.xyz){:target="_blank"}
 * [Discord](https://discord.gg/HNjpYw){:target="_blank"}
 * [telegram](https://t.me/homebrew_group){:target="_blank"} **Строго 18+! Мат, разврат, неадекват!**
 

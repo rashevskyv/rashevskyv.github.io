@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**3DS Guide Update:**<br>16 февраля<br/><br/>**PS4 Guide Update:**<br>16 февраля<br/><br/>**Switch Guide Update:**<br>10 марта<br/><br/>**Wii U Guide Update:**<br>16 февраля<br/><br/>**DSi Guide Update:**<br>21 января'
+excerpt: '**3DS Guide Update:**<br>16 февраля<br/><br/>**PS4 Guide Update:**<br>16 февраля<br/><br/>**Switch Guide Update:**<br>14 марта<br/><br/>**Wii U Guide Update:**<br>16 февраля<br/><br/>**DSi Guide Update:**<br>21 января'
 ---
 
 {% include toc title="Новости по месяцам" %}

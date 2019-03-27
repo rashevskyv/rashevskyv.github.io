@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**3DS Guide Update:**<br>15 марта<br/><br/>**PS4 Guide Update:**<br>16 февраля<br/><br/>**Switch Guide Update:**<br>24 марта<br/><br/>**Wii U Guide Update:**<br>16 февраля<br/><br/>**DSi Guide Update:**<br>21 января'
+excerpt: '**3DS Guide Update:**<br>27 марта<br/><br/>**PS4 Guide Update:**<br>16 февраля<br/><br/>**Switch Guide Update:**<br>27 марта<br/><br/>**Wii U Guide Update:**<br>16 февраля<br/><br/>**DSi Guide Update:**<br>21 января'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -17,6 +17,9 @@ excerpt: '**3DS Guide Update:**<br>15 марта<br/><br/>**PS4 Guide Update:**<
 # Новости
 
 ## Март
+
+**3DS**<br>**27.03.2019:**<br>Облако переехало
+{: .notice--warning}
 
 **Switch**<br>**24.03.2019:**<br>Изменения в разделе [установки игр](http://switch.customfw.xyz/games){:target="_blank"} и [инструкция по обновлению до 7.0.1](http://switch.customfw.xyz/update-to-latest){:target="_blank"}
 {: .notice--danger}

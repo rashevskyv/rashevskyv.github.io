@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**Switch Guide Update:**<br>8 мая<br/><br/>**3DS Guide Update:**<br>9 мая<br/><br/>**PS4 Guide Update:**<br>16 февраля<br/><br/>**Wii U Guide Update:**<br>16 февраля<br/><br/>**DSi Guide Update:**<br>21 января'
+excerpt: '**Switch Guide Update:**<br>9 мая<br/><br/>**3DS Guide Update:**<br>9 мая<br/><br/>**PS4 Guide Update:**<br>16 февраля<br/><br/>**Wii U Guide Update:**<br>16 февраля<br/><br/>**DSi Guide Update:**<br>21 января'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -18,7 +18,10 @@ excerpt: '**Switch Guide Update:**<br>8 мая<br/><br/>**3DS Guide Update:**<br
 
 ## Май
 
-**3DS**<br>**27.03.2019:**<br>Добавлен быстрый метод установки игр
+**Switch**<br>**02.05.2019:**<br>Расширенная [инструкция по блокировке обновлений и доступа к серверам Nintendo](http://switch.customfw.xyz/block-update){:target="_blank"}
+{: .notice--danger}
+
+**3DS**<br>**27.03.2019:**<br>Добавлен [быстрый метод установки игр](https://3ds.customfw.xyz/games#быстрый-метод-установки){:target="_blank"}
 {: .notice--warning}
 
 **Switch**<br>**02.05.2019:**<br>Поддержка 8.0.x со стороны SXOS

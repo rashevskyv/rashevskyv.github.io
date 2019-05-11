@@ -18,10 +18,13 @@ excerpt: '**Switch Guide Update:**<br>9 мая<br/><br/>**3DS Guide Update:**<br
 
 ## Май
 
-**Switch**<br>**02.05.2019:**<br>Расширенная [инструкция по блокировке обновлений и доступа к серверам Nintendo](http://switch.customfw.xyz/block-update){:target="_blank"}
+**Switch**<br>**10.05.2019:**<br>Добавлена инструкция по [эмуляция Amiibo с помощью модуля emuiibo](http://switch.customfw.xyz/emuiibo){:target="_blank"}
 {: .notice--danger}
 
-**3DS**<br>**27.03.2019:**<br>Добавлен [быстрый метод установки игр](https://3ds.customfw.xyz/games#быстрый-метод-установки){:target="_blank"}
+**Switch**<br>**09.05.2019:**<br>Расширенная [инструкция по блокировке обновлений и доступа к серверам Nintendo](http://switch.customfw.xyz/block-update){:target="_blank"}
+{: .notice--danger}
+
+**3DS**<br>**03.05.2019:**<br>Добавлен [быстрый метод установки игр](https://3ds.customfw.xyz/games#быстрый-метод-установки){:target="_blank"}
 {: .notice--warning}
 
 **Switch**<br>**02.05.2019:**<br>Поддержка 8.0.x со стороны SXOS

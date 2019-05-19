@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**Switch Guide Update:**<br>16 мая<br/><br/>**3DS Guide Update:**<br>9 мая<br/><br/>**PS4 Guide Update:**<br>16 февраля<br/><br/>**Wii U Guide Update:**<br>16 февраля<br/><br/>**DSi Guide Update:**<br>21 января'
+excerpt: '**Switch Guide Update:**<br>20 мая<br/><br/>**3DS Guide Update:**<br>20 мая<br/><br/>**PS4 Guide Update:**<br>16 февраля<br/><br/>**Wii U Guide Update:**<br>16 февраля<br/><br/>**DSi Guide Update:**<br>21 января'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -17,6 +17,9 @@ excerpt: '**Switch Guide Update:**<br>16 мая<br/><br/>**3DS Guide Update:**<b
 # Новости
 
 ## Май
+
+**Switch**<br>**20.05.2019:**<br>Упрощена инструкция по использованию incognito
+{: .notice--danger}
 
 **Switch**<br>**16.05.2019:**<br>Появилась страница [проблемами и их решением](http://switch.customfw.xyz/troubleshooting){:target="_blank"}
 {: .notice--danger}

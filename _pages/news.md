@@ -9,12 +9,18 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**Switch Guide Update:**<br>2 июня<br/><br/>**3DS Guide Update:**<br>30 мая<br/><br/>**PS4 Guide Update:**<br>16 февраля<br/><br/>**Wii U Guide Update:**<br>16 февраля<br/><br/>**DSi Guide Update:**<br>21 января'
+excerpt: '**Switch Guide Update:**<br>5 июня<br/><br/>**3DS Guide Update:**<br>30 мая<br/><br/>**PS4 Guide Update:**<br>16 февраля<br/><br/>**Wii U Guide Update:**<br>16 февраля<br/><br/>**DSi Guide Update:**<br>21 января'
 ---
 
 {% include toc title="Новости по месяцам" %}
 
 # Новости
+
+## Июнь
+
+**Switch**<br>**05.06.2019:**<br>Добавлены две новые инструкции: [Связывание учётной записи консоли с аккаунтом Nintendo](link-account){:target="_blank"} и [Резервное копирование и восстановление сохранений с помощью Checkpoint](backup-saves){:target="_blank"}
+{: .notice--danger}
+
 
 ## Май
 

@@ -18,7 +18,7 @@ excerpt: '**Switch Guide Update:**<br>5 июня<br/><br/>**3DS Guide Update:**<
 
 ## Июнь
 
-**Switch**<br>**05.06.2019:**<br>Добавлены две новые инструкции: [Связывание учётной записи консоли с аккаунтом Nintendo](link-account){:target="_blank"} и [Резервное копирование и восстановление сохранений с помощью Checkpoint](backup-saves){:target="_blank"}
+**Switch**<br>**05.06.2019:**<br>Добавлены две новые инструкции: [Связывание учётной записи консоли с аккаунтом Nintendo](http://switch.customfw.xyz/link-account){:target="_blank"} и [Резервное копирование и восстановление сохранений с помощью Checkpoint](http://switch.customfw.xyz/backup-saves){:target="_blank"}
 {: .notice--danger}
 
 

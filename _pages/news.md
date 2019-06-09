@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**Switch Guide Update:**<br>5 июня<br/><br/>**3DS Guide Update:**<br>30 мая<br/><br/>**PS4 Guide Update:**<br>16 февраля<br/><br/>**Wii U Guide Update:**<br>16 февраля<br/><br/>**DSi Guide Update:**<br>21 января'
+excerpt: '**Switch Guide Update:**<br>5 июня<br/><br/>**3DS Guide Update:**<br>9 июня<br/><br/>**PS4 Guide Update:**<br>16 февраля<br/><br/>**Wii U Guide Update:**<br>16 февраля<br/><br/>**DSi Guide Update:**<br>21 января'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -18,9 +18,11 @@ excerpt: '**Switch Guide Update:**<br>5 июня<br/><br/>**3DS Guide Update:**<
 
 ## Июнь
 
+**3DS**<br>**09.06.2019:**<br>Сильно упрощена инструкция по удалению прошивки
+{: .notice--warning}
+
 **Switch**<br>**05.06.2019:**<br>Добавлены две новые инструкции: [Связывание учётной записи консоли с аккаунтом Nintendo](http://switch.customfw.xyz/link-account){:target="_blank"} и [Резервное копирование и восстановление сохранений с помощью Checkpoint](http://switch.customfw.xyz/backup-saves){:target="_blank"}
 {: .notice--danger}
-
 
 ## Май
 

@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**Switch Guide Update:**<br>18 июня<br/><br/>**3DS Guide Update:**<br>11 июня<br/><br/>**PS4 Guide Update:**<br>16 февраля<br/><br/>**Wii U Guide Update:**<br>16 февраля<br/><br/>**DSi Guide Update:**<br>21 января'
+excerpt: '**Switch Guide Update:**<br>20 июня<br/><br/>**3DS Guide Update:**<br>11 июня<br/><br/>**PS4 Guide Update:**<br>16 февраля<br/><br/>**Wii U Guide Update:**<br>16 февраля<br/><br/>**DSi Guide Update:**<br>21 января'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -17,6 +17,10 @@ excerpt: '**Switch Guide Update:**<br>18 июня<br/><br/>**3DS Guide Update:**
 # Новости
 
 ## Июнь
+
+**Switch**<br>**20.06.2019:**<br>Добавлена поддержка 8.1.0
+{: .notice--danger}
+
 
 **3DS**<br>**09.06.2019:**<br>Сильно упрощена инструкция по удалению прошивки
 {: .notice--warning}

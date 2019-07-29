@@ -21,8 +21,8 @@ author_profile: true
 {: .text-center}
 {: .notice--info}
 
-[![Bitcoin]({{ "/images/donate/bitcoin.png" | absolute_url }}){:target="_blank"}{:height="73px" width="256px"}{: style="padding-bottom: .35em"}](bitcoin:14qE92WRj7yAYLtptjy9bJjUmVTjq3sFsW){: .align-center}
-14qE92WRj7yAYLtptjy9bJjUmVTjq3sFsW
+[![Bitcoin]({{ "/images/donate/bitcoin.png" | absolute_url }}){:target="_blank"}{:height="73px" width="256px"}{: style="padding-bottom: .35em"}](bitcoin:124TLA8uE1Xu2R5rs1eeVDxvpzzDHucr88){: .align-center}
+124TLA8uE1Xu2R5rs1eeVDxvpzzDHucr88
 {: .text-center}
 {: .notice--info}
 

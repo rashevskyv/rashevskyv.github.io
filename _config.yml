@@ -15,11 +15,11 @@ defaults:
       author_profile: true
       
 # Site Settings
-title                    : "Guide WiiU/3DS/Vita"
+title                    : "Guide Switch/WiiU/3DS/DSi/PS4"
 locale                   : "ru-RU"
 title_separator          : "-"
 name                     : "xHR"
-description              : "Инструкция по взлому WiiU/3ds/PS Vita"
+description              : "Инструкция по взлому Switch/WiiU/3DS/DSi/PS4"
 url                      : "https://customfw.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rashevskyv/rashevskyv.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

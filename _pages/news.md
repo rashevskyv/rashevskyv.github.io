@@ -18,7 +18,10 @@ excerpt: '**Switch Guide Update:**<br>16 августа<br/><br/>**3DS Guide Upd
 
 ## Август
 
-**Switch**<br>**16.08.2019:**<br>Финальная версия гайда с поддержкой EmuNAND. EmuNAND теперь созда`тся через SXOS
+**3DS**<br>**31.08.2019:**<br>Метод Steelminer теперь реализуется через BannerBomb3 и Fredtool
+{: .notice--warning}
+
+**Switch**<br>**16.08.2019:**<br>Финальная версия гайда с поддержкой EmuNAND. EmuNAND теперь создаётся через SXOS
 {: .notice--danger}
 
 ## Июль

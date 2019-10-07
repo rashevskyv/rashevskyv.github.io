@@ -27,6 +27,5 @@ author_profile: true
 {: .notice--info}
 
 [![Custom Nintendo]({{ "/images/donate/3ds_cfw.png" | absolute_url }}){:target="_blank"}{:height="64px" width="256px"}{: style="padding-bottom: .35em"}](http://vk.com/nincfw){: .align-center}
-Перевод делался для группы [Custom Nintendo](http://vk.com/nincfw){:target="_blank"}
 {: .text-center}
 {: .notice--info}

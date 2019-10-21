@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**Switch Guide Update:**<br>20 октября<br/><br/>**3DS Guide Update:**<br>5 октября<br/><br/>**PS4 Guide Update:**<br>16 февраля<br/><br/>**Wii U Guide Update:**<br>30 июня<br/><br/>**DSi Guide Update:**<br>21 января'
+excerpt: '**Switch Guide Update:**<br>20 октября<br/><br/>**3DS Guide Update:**<br>5 октября<br/><br/>**PS4 Guide Update:**<br>21 октября<br/><br/>**Wii U Guide Update:**<br>30 июня<br/><br/>**DSi Guide Update:**<br>21 января'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -18,9 +18,11 @@ excerpt: '**Switch Guide Update:**<br>20 октября<br/><br/>**3DS Guide Upd
 
 ## Октябрь
 
+**PS4**<br>**21.10.2019:**<br>Актуализировал гайд к настоящему моменту
+{: .notice--success}
+
 **Switch**<br>**20.10.2019:**Incognito заменён на Incognito_RCM
 {: .notice--danger}
-
 
 ## Август
 

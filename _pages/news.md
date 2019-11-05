@@ -9,12 +9,17 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**Switch Guide Update:**<br>1 ноября<br/><br/>**3DS Guide Update:**<br>5 октября<br/><br/>**PS4 Guide Update:**<br>21 октября<br/><br/>**Wii U Guide Update:**<br>30 июня<br/><br/>**DSi Guide Update:**<br>21 января'
+excerpt: '**Switch Guide Update:**<br>1 ноября<br/><br/>**3DS Guide Update:**<br>5 ноября<br/><br/>**PS4 Guide Update:**<br>21 октября<br/><br/>**Wii U Guide Update:**<br>30 июня<br/><br/>**DSi Guide Update:**<br>21 января'
 ---
 
 {% include toc title="Новости по месяцам" %}
 
 # Новости
+
+## Ноябрь
+
+**3DS**<br>**05.11.2019:**<br>11.12
+{: .notice--warning}
 
 ## Октябрь
 
@@ -41,7 +46,6 @@ excerpt: '**Switch Guide Update:**<br>1 ноября<br/><br/>**3DS Guide Update
 
 **Switch**<br>**20.06.2019:**<br>Добавлена поддержка 8.1.0
 {: .notice--danger}
-
 
 **3DS**<br>**09.06.2019:**<br>Сильно упрощена инструкция по удалению прошивки
 {: .notice--warning}

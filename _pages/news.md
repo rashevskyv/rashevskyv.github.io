@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**Switch Guide Update:**<br>6 ноября<br/><br/>**3DS Guide Update:**<br>5 ноября<br/><br/>**PS4 Guide Update:**<br>21 октября<br/><br/>**Wii U Guide Update:**<br>30 июня<br/><br/>**DSi Guide Update:**<br>21 января'
+excerpt: '**Switch Guide Update:**<br>6 ноября<br/><br/>**3DS Guide Update:**<br>5 ноября<br/><br/>**PS4 Guide Update:**<br>7 ноября<br/><br/>**Wii U Guide Update:**<br>30 июня<br/><br/>**DSi Guide Update:**<br>21 января'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -17,6 +17,9 @@ excerpt: '**Switch Guide Update:**<br>6 ноября<br/><br/>**3DS Guide Update
 # Новости
 
 ## Ноябрь
+
+**PS4**<br>**07.11.2019:**<br>Способ обновить приставку до 5.05 при неработающем приводе
+{: .notice--success}
 
 **Switch**<br>**06.11.2019:**<br>kefir 330
 {: .notice--danger}

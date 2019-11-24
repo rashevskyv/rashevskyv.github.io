@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**Switch Guide Update:**<br>10 ноября<br/><br/>**3DS Guide Update:**<br>5 ноября<br/><br/>**PS4 Guide Update:**<br>7 ноября<br/><br/>**Wii U Guide Update:**<br>7 ноября<br/><br/>**DSi Guide Update:**<br>27 августа'
+excerpt: '**Switch Guide Update:**<br>10 ноября<br/><br/>**3DS Guide Update:**<br>24 ноября<br/><br/>**PS4 Guide Update:**<br>7 ноября<br/><br/>**Wii U Guide Update:**<br>7 ноября<br/><br/>**DSi Guide Update:**<br>27 августа'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -17,6 +17,8 @@ excerpt: '**Switch Guide Update:**<br>10 ноября<br/><br/>**3DS Guide Updat
 # Новости
 
 ## Ноябрь
+**3DS**<br>**05.11.2019:**<br>Убран BOOP из гайда по установке игр, вместо него добавлен FBI Server 
+{: .notice--warning}
 
 **PS4**<br>**07.11.2019:**<br>Способ обновить приставку до 5.05 при неработающем приводе
 {: .notice--success}

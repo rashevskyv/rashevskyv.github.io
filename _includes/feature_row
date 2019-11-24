@@ -17,7 +17,7 @@
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
         {% if f.image_path %}
-          <div class="archive__item-teaser">
+            {% if f.url %}<a href="{{ f_url }}"><div class="archive__item-teaser">{% endif %}
             <img src=
               {% if f.image_path contains "://" %}
                 "{{ f.image_path }}"
@@ -26,6 +26,7 @@
               {% endif %}
             alt="{% if f.alt %}{{ f.alt }}{% endif %}">
           </div>
+          {% if f.url %}</a>{% endif %}
         {% endif %}
 
         <div class="archive__item-body">
@@ -37,10 +38,6 @@
             <div class="archive__item-excerpt">
               {{ f.excerpt | markdownify }}
             </div>
-          {% endif %}
-
-          {% if f.url %}
-            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Подробнее" }}</a></p>
           {% endif %}
         </div>
       </div>

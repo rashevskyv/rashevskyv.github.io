@@ -17,6 +17,9 @@ excerpt: '**Switch Guide Update:**<br>10 ноября<br/><br/>**3DS Guide Updat
 # Новости
 
 ## Декабрь
+**Switch**<br>**09.12.2019:**<br>Поддержка прошивки 9.1.0 кефиром
+{: .notice--danger}
+
 **Switch**<br>**05.12.2019:**<br>Вышла прошивка 9.1.0. Не обновляйтесь на неё!
 {: .notice--danger}
 

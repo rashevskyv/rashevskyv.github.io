@@ -14,6 +14,7 @@ author_profile: true
 1. Запустите **Проводник**, открыв любую папку, например папку вашей SD-карты
 1. Нажмите кнопку "**Вид**" в меню 
 1. Установите флажок "**Расширения имен файлов**"
+    * Для windows 7: Откройте меню **Пуск**, нажав на него, или с помощью клавиши **Windows**, введите в поле для поиска "**Параметры папок**" и выберите соответствующий результат
 
     ![]({{ "/images/screenshots/windows-10-file-extensions.png" | absolute_url }}){:target="_blank"}
 	{: .text-center}
@@ -27,19 +28,5 @@ author_profile: true
     ![]({{ "/images/screenshots/windows-7-folder-options.png" | absolute_url }}){:target="_blank"}
 	{: .text-center}
     {: .notice--info}
-
-## Windows 7
-
-1. Откройте меню **Пуск**, нажав на него, или с помощью клавиши **Windows**
-1. Введите в поле для поиска "**Параметры папок**" и выберите соответствующий результат
-
-    ![]({{ "/images/screenshots/windows-7-folder-options-start-menu.png" | absolute_url }}){:target="_blank"}
-	{: .text-center}
-    {: .notice--info}
-
-1. Нажмите на вкладку "**Вид**" в верхней части окна Параметры папок
-1. Снимите флажок "**Скрывать расширения для зарегистрированных типов файлов**"
-
-    ![]({{ "/images/screenshots/windows-7-folder-options.png" | absolute_url }}){:target="_blank"}
-	{: .text-center}
-    {: .notice--info}
+    
+1. Нажмите "**OK**", чтобы сохранить изменения

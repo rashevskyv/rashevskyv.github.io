@@ -30,3 +30,8 @@ author_profile: true
     {: .notice--info}
     
 1. Нажмите "**OK**", чтобы сохранить изменения
+
+___
+
+[Закрыть страницу](javascript:window.close();)
+{: .notice--success}

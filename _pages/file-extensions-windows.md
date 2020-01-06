@@ -43,8 +43,3 @@ author_profile: true
     ![]({{ "/images/screenshots/windows-7-folder-options.png" | absolute_url }}){:target="_blank"}
 	{: .text-center}
     {: .notice--info}
-
-___
-	
-# Вернитесь к [Началу](get-started){:target="_blank"}
-{: .notice--success}

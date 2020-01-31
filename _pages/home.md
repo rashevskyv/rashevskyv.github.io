@@ -17,6 +17,10 @@ feature_row:
     url: "https://3ds.customfw.xyz/"
     title: "3DS"
     excerpt: "Полное руководство по установке кастомной прошивки на 3DS, от начала до boot9strap."
+  - image_path: /images/landing/vita.jpg
+    url: "https://vita.customfw.xyz/"
+    title: "PS Vita / PS TV"
+    excerpt: "Полное руководство по прошивке PS Vita / PS Vita TV, от начала до Ensō."
   - image_path: /images/landing/ps4.jpg
     url: "https://ps4.customfw.xyz/"
     title: "PS4"

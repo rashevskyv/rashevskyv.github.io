@@ -6,12 +6,14 @@ main:
     url: http://switch.customfw.xyz
   - title: "3DS"
     url: http://3ds.customfw.xyz
-  - title: "DSi"
-    url: http://dsi.customfw.xyz
-  - title: "Wii U"
-    url: http://wiiu.customfw.xyz
+  - title: "PS Vita"
+    url: http://vita.customfw.xyz
   - title: "PS4"
     url: http://ps4.customfw.xyz
+  - title: "Wii U"
+    url: http://wiiu.customfw.xyz
+  - title: "DSi"
+    url: http://dsi.customfw.xyz
   - title: "Новости"
     url: /news
   - title: "Пожертвования"

@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**Switch Guide Update:**<br>17 января<br/><br/>**3DS Guide Update:**<br>26 января<br/><br/>**PS Vita Guide Update:**<br>1 февраля<br/><br/>**PS4 Guide Update:**<br>7 ноября<br/><br/>**Wii U Guide Update:**<br>18 января<br/><br/>**DSi Guide Update:**<br>27 августа'
+excerpt: '**Switch Guide Update:**<br>17 января<br/><br/>**3DS Guide Update:**<br>26 января<br/><br/>**PS Vita Guide Update:**<br>1 февраля<br/><br/>**PS4 Guide Update:**<br>3 февраля<br/><br/>**Wii U Guide Update:**<br>18 января<br/><br/>**DSi Guide Update:**<br>27 августа'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -17,6 +17,9 @@ excerpt: '**Switch Guide Update:**<br>17 января<br/><br/>**3DS Guide Updat
 # Новости
 
 ## Февраль
+
+**PS4**<br>**03.02.2020:**<br>Сменились DNS-адреса
+{: .notice--success}
 
 **Vita**<br>**01.02.2020:**<br>В нашем полку прибыло - [vita.customfw.xyz](http://vita.customfw.xyz){:target="blank_"}
 {: .notice--primary}

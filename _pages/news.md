@@ -16,6 +16,11 @@ excerpt: '**Switch Guide Update:**<br>13 февраля<br/><br/>**3DS Guide Upd
 
 # Новости
 
+## Март
+
+**Wii U**<br>**03.03.2020:**<br>Сильно переработан гайд и WiiUSDFiles
+{: .notice--info}
+
 ## Февраль
 
 **Vita**<br>**18.02.2020:**<br>Добавлены изображения кнопок

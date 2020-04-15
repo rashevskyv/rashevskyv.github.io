@@ -16,6 +16,11 @@ excerpt: '**Switch Guide Update:**<br>31 марта<br/><br/>**3DS Guide Update:
 
 # Новости
 
+## Апрель
+
+**Switch**<br>**15.04.2019:**<br>Поддержка прошивки 10.0.0
+{: .notice--danger}
+
 ## Март
 
 **Wii U**<br>**03.03.2020:**<br>Сильно переработан гайд и WiiUSDFiles

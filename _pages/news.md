@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**Switch Guide Update:**<br>31 марта<br/><br/>**3DS Guide Update:**<br>10 февраля<br/><br/>**PS Vita Guide Update:**<br>26 февраля<br/><br/>**PS4 Guide Update:**<br>3 февраля<br/><br/>**Wii U Guide Update:**<br>18 февраля<br/><br/>**DSi Guide Update:**<br>27 августа'
+excerpt: '**Switch Guide Update:**<br>31 марта<br/><br/>**3DS Guide Update:**<br>28 апреля<br/><br/>**PS Vita Guide Update:**<br>26 февраля<br/><br/>**PS4 Guide Update:**<br>3 февраля<br/><br/>**Wii U Guide Update:**<br>18 февраля<br/><br/>**DSi Guide Update:**<br>27 августа'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -17,6 +17,9 @@ excerpt: '**Switch Guide Update:**<br>31 марта<br/><br/>**3DS Guide Update:
 # Новости
 
 ## Апрель
+
+**3DS**<br>**28.04.2020:**<br>Новый вторичный эксплойт UMS
+{: .notice--warning}
 
 **Switch**<br>**15.04.2019:**<br>Поддержка прошивки 10.0.0
 {: .notice--danger}

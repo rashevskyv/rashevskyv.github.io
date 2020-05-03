@@ -9,12 +9,17 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**Switch Guide Update:**<br>30 апреля<br/><br/>**3DS Guide Update:**<br>30 апреля<br/><br/>**PS Vita Guide Update:**<br>26 февраля<br/><br/>**PS4 Guide Update:**<br>3 февраля<br/><br/>**Wii U Guide Update:**<br>18 февраля<br/><br/>**DSi Guide Update:**<br>27 августа'
+excerpt: '**Switch Guide Update:**<br>30 апреля<br/><br/>**3DS Guide Update:**<br>3 мая<br/><br/>**PS Vita Guide Update:**<br>26 февраля<br/><br/>**PS4 Guide Update:**<br>3 февраля<br/><br/>**Wii U Guide Update:**<br>18 февраля<br/><br/>**DSi Guide Update:**<br>27 августа'
 ---
 
 {% include toc title="Новости по месяцам" %}
 
 # Новости
+
+## Май
+
+**3DS**<br>**03.05.2020:**<br>Изменения в инструкции по удалению прошивки
+{: .notice--warning}
 
 ## Апрель
 
@@ -47,29 +52,6 @@ excerpt: '**Switch Guide Update:**<br>30 апреля<br/><br/>**3DS Guide Updat
 
 **Switch**<br>**17.11.2020:**<br>Теперь для установки игр используется dbibackend
 {: .notice--danger}
-
-## Декабрь
-**Switch**<br>**09.12.2019:**<br>Поддержка прошивки 9.1.0 кефиром
-{: .notice--danger}
-
-**Switch**<br>**05.12.2019:**<br>Вышла прошивка 9.1.0. Не обновляйтесь на неё!
-{: .notice--danger}
-
-**3DS**<br>**03.12.2019:**<br>Вышла прошивка 11.13.0-45
-{: .notice--warning}
-
-## Ноябрь
-**3DS**<br>**24.11.2019:**<br>Убран BOOP из гайда по установке игр, вместо него добавлен FBI Server 
-{: .notice--warning}
-
-**PS4**<br>**07.11.2019:**<br>Способ обновить приставку до 5.05 при неработающем приводе
-{: .notice--success}
-
-**Switch**<br>**06.11.2019:**<br>kefir 330
-{: .notice--danger}
-
-**3DS**<br>**05.11.2019:**<br>11.12
-{: .notice--warning}
 
 ___
 

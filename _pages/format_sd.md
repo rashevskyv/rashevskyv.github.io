@@ -5,13 +5,15 @@ permalink:  format_sd.html
 author_profile: true
 ---
 
+{% include toc title="Разделы" %}
+
 Рекомендую произвести форматирование карты памяти, чтобы очистить её от ненужного мусора и убрать возможные накопившиеся ошибки. Помните, что форматирование уничтожит все данные на карте памяти!
 {: .notice--info}
 
 1. Вставьте SD-карту в компьютер
 1. Отформатируйте её с помощью [`GUIFormat`](http://www.ridgecrop.demon.co.uk/guiformat.exe) для Windows (используйте настройки со скриншота ниже), [gparted](http://gparted.org/download.php) для Linux, или [Disk Utility](https://support.apple.com/en-gb/guide/disk-utility/format-a-disk-for-windows-computers-dskutl1010/mac) для Mac.
 
-{% spoiler Форматирование в FAT32 в Windows %}
+### Форматирование в FAT32 в Windows
 
 1. Запустите [`GUIFormat`](http://www.ridgecrop.demon.co.uk/guiformat.exe)
 1. В поле "**Drive**" выберите вашу карту памяти
@@ -24,9 +26,7 @@ author_profile: true
 {: .text-center}
 {: .notice--info}
 
-{% endspoiler %}
-
-{% spoiler Форматирование в FAT32 на MacOS %}
+### Форматирование в FAT32 на MacOS 
 
 1. Вставьте карту памяти в картридер компьютера.
 1. Откройте "**Дисковую Утилиту**" (Disk Utility).
@@ -35,8 +35,6 @@ author_profile: true
 1. Укажите формат файловой системы "**MS-DOS (FAT)**".
 1. Нажмите кнопку "**Стереть**".
 1. Дождитесь окончания процесса и нажмите "**Готово**" (Done).
-
-{% endspoiler %}
 
 Если программа ругается на то, что не может получить доступ к карте памяти - просто достаньте карту и вставьте её снова. 
 {: .notice--info}

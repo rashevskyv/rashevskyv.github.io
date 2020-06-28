@@ -9,12 +9,18 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**Switch Guide Update:**<br>4 июня<br/><br/>**3DS Guide Update:**<br>24 мая<br/><br/>**PS Vita Guide Update:**<br>26 февраля<br/><br/>**PS4 Guide Update:**<br>3 февраля<br/><br/>**Wii U Guide Update:**<br>18 февраля<br/><br/>**DSi Guide Update:**<br>27 августа'
+excerpt: '**Switch Guide Update:**<br>4 июня<br/><br/>**3DS Guide Update:**<br>28 июня<br/><br/>**PS Vita Guide Update:**<br>26 февраля<br/><br/>**PS4 Guide Update:**<br>3 февраля<br/><br/>**Wii U Guide Update:**<br>18 февраля<br/><br/>**DSi Guide Update:**<br>27 августа'
 ---
 
 {% include toc title="Новости по месяцам" %}
 
 # Новости
+
+## Июнь
+
+**3DS**<br>**28.06.2020:**<br>Добавлена программа beeShop
+{: .notice--warning}
+
 
 ## Май
 

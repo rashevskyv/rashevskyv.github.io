@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**Switch Guide Update:**<br>4 июня<br/><br/>**3DS Guide Update:**<br>23 июля<br/><br/>**PS Vita Guide Update:**<br>26 февраля<br/><br/>**PS4 Guide Update:**<br>30 июля<br/><br/>**Wii U Guide Update:**<br>18 февраля<br/><br/>**DSi Guide Update:**<br>27 августа'
+excerpt: '**Switch Guide Update:**<br>12 августа<br/><br/>**3DS Guide Update:**<br>23 июля<br/><br/>**PS Vita Guide Update:**<br>26 февраля<br/><br/>**PS4 Guide Update:**<br>30 июля<br/><br/>**Wii U Guide Update:**<br>18 февраля<br/><br/>**DSi Guide Update:**<br>27 августа'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -17,6 +17,9 @@ excerpt: '**Switch Guide Update:**<br>4 июня<br/><br/>**3DS Guide Update:**<
 # Новости
 
 ## Лето
+
+**Switch**<br>**12.07.2020:**<br>Добавлена инструкция по установке с USB-носителя
+{: .notice--danger}
 
 **PS4**<br>**30.07.2020:**<br>Вообще убрал 5.05 из гайда. 6.72 уже достаточно стабилен
 {: .notice--success}

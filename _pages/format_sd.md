@@ -11,15 +11,21 @@ author_profile: true
 {: .notice--info}
 
 1. Вставьте SD-карту в компьютер
-1. Отформатируйте её с помощью [`GUIFormat`](http://www.ridgecrop.demon.co.uk/guiformat.exe) для Windows (используйте настройки со скриншота ниже), [gparted](http://gparted.org/download.php) для Linux, или [Disk Utility](https://support.apple.com/en-gb/guide/disk-utility/format-a-disk-for-windows-computers-dskutl1010/mac) для Mac.
+1. Отформатируйте её с помощью [`rufus`](https://github.com/pbatard/rufus/releases/latest) для Windows (используйте настройки со скриншота ниже), [gparted](http://gparted.org/download.php) для Linux, или [Disk Utility](https://support.apple.com/en-gb/guide/disk-utility/format-a-disk-for-windows-computers-dskutl1010/mac) для Mac.
 
 ### Форматирование в FAT32 в Windows
 
-1. Запустите [`GUIFormat`](http://www.ridgecrop.demon.co.uk/guiformat.exe)
-1. В поле "**Drive**" выберите вашу карту памяти
-	* Будьте внимательны, поскольку в программе будут показаны все диски, что смонтированы в системе. Постарайтесь выбрать верный
-	* Ориентируйтесь на размер выбранного диска, его букву, а так же метку, если она есть
-1. Нажмите "**Start**"
+Внимание, если у вас эмунанд на разделе, то rufus его уничтожит! Узнать есть ли он в виде раздела можно посмотрев не т ли дополнительного раздела на карте памяти в любом менеджере партиций
+{: .notice--danger}
+
+1. Запустите [`rufus`](https://github.com/pbatard/rufus/releases/latest)
+1. В поле "**Устройство**" выберите вашу карту памяти
+1. В поле "**Метод загрузки**" выберите вашу "**Незагрузочный образ**"
+1. В поле "**Схема раздела**" выберите вашу "**MBR**"
+1. В поле "**Файловая система**" выберите вашу "**FAT32**"
+1. Убедитесь, что стоит галочка на поле "**Быстрое форматирование**"
+1. Уберите галочку с поля "**Создать расширенную метку и значок устройства**"
+1. Нажмите "**СТАРТ**"
 	* Если программа выдаёт ошибку, вытащите из ПК карту памяти, затем снова её вставьте и перезапустите программу. Если это не помогает, попробуйте перезагрузить ПК
 
 ![](/images/screenshots/fat32formatter.png)

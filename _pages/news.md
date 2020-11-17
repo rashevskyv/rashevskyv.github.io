@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**Switch Guide Update:**<br>12 августа<br/><br/>**3DS Guide Update:**<br>18 сентября<br/><br/>**PS Vita Guide Update:**<br>26 февраля<br/><br/>**PS4 Guide Update:**<br>30 июля<br/><br/>**Wii U Guide Update:**<br>18 февраля<br/><br/>**DSi Guide Update:**<br>27 августа'
+excerpt: '**Switch Guide Update:**<br>12 августа<br/><br/>**3DS Guide Update:**<br>19 ноября<br/><br/>**PS Vita Guide Update:**<br>26 февраля<br/><br/>**PS4 Guide Update:**<br>30 июля<br/><br/>**Wii U Guide Update:**<br>18 февраля<br/><br/>**DSi Guide Update:**<br>27 августа'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -18,9 +18,11 @@ excerpt: '**Switch Guide Update:**<br>12 августа<br/><br/>**3DS Guide Upd
 
 ## Осень
 
-**3DS**<br>**12.09.2020:**<br>Добавлен browserhax
+**3DS**<br>**19.11.2020:**<br>Добавлена поддержка прошивки 11.14.0
 {: .notice--warning}
 
+**3DS**<br>**12.09.2020:**<br>Добавлен browserhax
+{: .notice--warning}
 
 ## Лето
 

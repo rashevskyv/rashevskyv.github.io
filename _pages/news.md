@@ -9,12 +9,17 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**Switch Guide Update:**<br>12 августа<br/><br/>**3DS Guide Update:**<br>19 ноября<br/><br/>**PS Vita Guide Update:**<br>26 февраля<br/><br/>**PS4 Guide Update:**<br>30 июля<br/><br/>**Wii U Guide Update:**<br>18 февраля<br/><br/>**DSi Guide Update:**<br>27 августа'
+excerpt: '**Switch Guide Update:**<br>5 декабря<br/><br/>**3DS Guide Update:**<br>19 ноября<br/><br/>**PS Vita Guide Update:**<br>26 февраля<br/><br/>**PS4 Guide Update:**<br>30 июля<br/><br/>**Wii U Guide Update:**<br>18 февраля<br/><br/>**DSi Guide Update:**<br>27 августа'
 ---
 
 {% include toc title="Новости по месяцам" %}
 
 # Новости
+
+## Зима
+
+**Switch**<br>**12.07.2020:**<br>Поддержка прошивки 11.0.0
+{: .notice--danger}
 
 ## Осень
 

@@ -4,36 +4,6 @@ permalink: /f3x-mac.html
 author_profile: true
 ---
 
-{% include toc title="Разделы" %}
-
-Этот дополнительный раздел содержит информацию о проверке SD-карты на ошибки с помощью F3.
-
-В зависимости от размера SD-карты и скорости компьютера этот процесс может занять до нескольких часов!
-
-Этот раздел предназначен для пользователей Mac. Если у вас не Mac, воспользуйтесь [H2testw (windows)](h2testw-windows){:target="_blank"} или [F3 (Linux)](f3-linux){:target="_blank"}.
-
-## Что понадобится
-
-* Свежая версия [F3X](https://github.com/insidegui/F3X/releases/latest){:target="_blank"}
-
-## Инструкция
-
-1. Разархивируйте `.zip-архив` с F3X
-1. Вставьте SD-карту в компьютер
-1. Запустите F3X
-1. Выберите вашу SD карту
-1. Нажмите "**start Test**"
-1. Дождитесь окончания проверки.
-
-___
-
-Если в результате тестирования вы видите `Success! Your card is ok!`, ваша карта в порядке. Можете удалить все файлы с расширением `.h2w` на SD-карте
-{: .notice--success}
-
-При любом другом результате SD-карта скорее всего повреждена и её стоит заменить!
-{: .notice--danger}
-
-___
-
-[Закрыть страницу](javascript:window.close();)
-{: .notice--success}
+<script>
+    location.href = 'https://customfw.xyz/test_sd#macos.html';
+</script>

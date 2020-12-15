@@ -11,7 +11,7 @@ author_profile: true
 {: .notice--info}
 
 1. Вставьте SD-карту в компьютер
-1. Отформатируйте её с помощью [`rufus`](https://github.com/pbatard/rufus/releases/latest) для Windows (используйте настройки со скриншота ниже), [gparted](http://gparted.org/download.php) для Linux, или [Disk Utility](https://support.apple.com/en-gb/guide/disk-utility/format-a-disk-for-windows-computers-dskutl1010/mac) для Mac.
+1. Отформатируйте её с помощью [`rufus`](https://github.com/pbatard/rufus/releases/download/v3.11/rufus-3.11p.exe) для Windows (используйте настройки со скриншота ниже), [gparted](http://gparted.org/download.php) для Linux, или [Disk Utility](https://support.apple.com/en-gb/guide/disk-utility/format-a-disk-for-windows-computers-dskutl1010/mac) для Mac.
 
 ### Форматирование в FAT32 в Windows
 

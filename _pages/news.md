@@ -17,79 +17,12 @@ excerpt: '**Switch Guide Update:**<br>23 декабря<br/><br/>**3DS Guide Upd
 # Новости
 
 ## Зима
+
+**Switch**<br>**15.01.2021:**<br>Гайд полностью обновлён. Упразднена поддержка SX OS, добавлена поддержка чипов
+{: .notice--danger}
+
 **3DS**<br>**04.01.2021:**<br>Гайд полностью переработан. 
 {: .notice--warning}
-
-**3DS**<br>**12.12.2020:**<br>Browserhax для **3DS**<br>**12.12.2020:**<br>Browserhax dlia 11.14.0
-{: .notice--warning}
-
-**Switch**<br>**11.12.2020:**<br>Поддержка прошивки 11.0.0
-{: .notice--danger}
-
-**Switch**<br>**12.11.2020:**<br>Поддержка прошивки 11.0.0
-{: .notice--danger}
-
-## Осень
-
-**3DS**<br>**19.11.2020:**<br>Добавлена поддержка прошивки 11.14.0
-{: .notice--warning}
-
-**3DS**<br>**12.09.2020:**<br>Добавлен browserhax
-{: .notice--warning}
-
-## Лето
-
-**Switch**<br>**12.07.2020:**<br>Добавлена инструкция по установке с USB-носителя
-{: .notice--danger}
-
-**PS4**<br>**30.07.2020:**<br>Вообще убрал 5.05 из гайда. 6.72 уже достаточно стабилен
-{: .notice--success}
-
-**PS4**<br>**26.07.2020:**<br>Гайд переработан. Добавлена поддержка 6.72
-{: .notice--success}
-
-**3DS**<br>**23.07.2020:**<br>Вместо QuickInstall теперь используется custom-install
-{: .notice--warning}
-
-**3DS**<br>**28.06.2020:**<br>Добавлена программа beeShop
-{: .notice--warning}
-
-## Май
-
-**3DS**<br>**03.05.2020:**<br>Изменения в инструкции по удалению прошивки
-{: .notice--warning}
-
-## Апрель
-
-**3DS**<br>**28.04.2020:**<br>Новый вторичный эксплойт UMS
-{: .notice--warning}
-
-**Switch**<br>**15.04.2019:**<br>Поддержка прошивки 10.0.0
-{: .notice--danger}
-
-## Март
-
-**Wii U**<br>**03.03.2020:**<br>Сильно переработан гайд и WiiUSDFiles
-{: .notice--info}
-
-## Февраль
-
-**Vita**<br>**18.02.2020:**<br>Добавлены изображения кнопок
-{: .notice--primary}
-
-**Vita**<br>**10.02.2020:**<br>Добавлены полезные инструкции
-{: .notice--primary}
-
-**PS4**<br>**03.02.2020:**<br>Сменились DNS-адреса
-{: .notice--success}
-
-**Vita**<br>**01.02.2020:**<br>В нашем полку прибыло - [vita.customfw.xyz](http://vita.customfw.xyz){:target="blank_"}
-{: .notice--primary}
-
-## Январь
-
-**Switch**<br>**17.11.2020:**<br>Теперь для установки игр используется dbibackend
-{: .notice--danger}
 
 ___
 

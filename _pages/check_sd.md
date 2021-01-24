@@ -1,6 +1,6 @@
 ---
 title: Проверка карты памяти на подлинность
-permalink: /test_sd.html
+permalink: /check_sd.html
 author_profile: true
 ---
 

@@ -10,8 +10,19 @@ author_profile: true
 Рекомендую произвести форматирование карты памяти, чтобы очистить её от ненужного мусора и убрать возможные накопившиеся ошибки. Помните, что форматирование уничтожит все данные на карте памяти!
 {: .notice--info}
 
+## Форматирование для использования в Nintendo Switch (рекомендуется)
+
+1. Войдите в **hekate** с помощью [поддерживаемого на вашей приставке эксплойта](https://switch.customfw.xyz/get-started){:target="_blank"}, запуститив пейлоад `payload.bin` из архива `kefir.zip`
+	* Удерживайте (VOL-) на приставке во время появления **логотипа kefir**, чтобы попасть в **hekate**
+	* Пропустите этот шаг, если вы уже в hekate
+1. Перейдите в **Tools** -> **Partition SD card**, нажмите **OK**, **Next Step** -> **Start**
+	* Ваша карта будет отформатирована специальным образом в FAT32, чтобы дать прирост в скорости на 15%-30%
+
+
+## Форматирование с помощью ПК
+
 1. Вставьте SD-карту в компьютер
-1. Отформатируйте её с помощью [`rufus`](https://github.com/pbatard/rufus/releases/download/v3.11/rufus-3.11p.exe) для Windows (используйте настройки со скриншота ниже), [gparted](http://gparted.org/download.php) для Linux, или [Disk Utility](https://support.apple.com/en-gb/guide/disk-utility/format-a-disk-for-windows-computers-dskutl1010/mac) для Mac.
+1. Отформатируйте её с помощью [`rufus`](https://github.com/pbatard/rufus/releases/download/v3.11/rufus-3.11p.exe){:target="_blank"} для Windows (используйте настройки со скриншота ниже), [gparted](http://gparted.org/download.php){:target="_blank"} для Linux, или [Disk Utility](https://support.apple.com/en-gb/guide/disk-utility/format-a-disk-for-windows-computers-dskutl1010/mac){:target="_blank"} для Mac.
 
 ### Форматирование в FAT32 в Windows
 
@@ -36,7 +47,7 @@ author_profile: true
 ### Форматирование в FAT32 на MacOS 
 
 1. Вставьте карту памяти в картридер компьютера.
-1. Откройте "**Дисковую Утилиту**" (Disk Utility).
+1. Откройте "**Дисковую Утилиту**" ([Disk Utility](https://support.apple.com/en-gb/guide/disk-utility/format-a-disk-for-windows-computers-dskutl1010/mac){:target="_blank"}).
 1. В списке слева укажите вашу карту памяти.
 1. В верхней части экрана нажмите кнопку "**Стереть**" (Erase).
 1. Укажите формат файловой системы "**MS-DOS (FAT)**".

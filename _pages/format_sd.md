@@ -26,7 +26,9 @@ author_profile: true
 
 ### Форматирование в FAT32 в Windows
 
-Внимание, если у вас эмунанд на разделе, то rufus его уничтожит! Узнать есть ли он в виде раздела можно посмотрев не т ли дополнительного раздела на карте памяти в любом менеджере партиций
+Внимание, если у вас эмунанд на разделе, то rufus его уничтожит! Узнать есть ли он в виде раздела можно в hekate в разделе emuMMC.  Если в строке **Type: SD Raw Partition** - значит эмунанд на разделе, если **SD File** - файловый эмунанд.
+![](/images/screenshots/emunand_type.jpg)
+{: .notice--info}
 {: .notice--danger}
 
 1. Запустите [`rufus`](https://github.com/pbatard/rufus/releases/latest)

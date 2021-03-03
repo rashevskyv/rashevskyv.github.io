@@ -9,7 +9,7 @@ header:
   cta_label: "Выберите консоль!"
   cta_url: "/"
   caption:
-excerpt: '**Switch Guide Update:**<br>23 декабря<br/><br/>**3DS Guide Update:**<br>4 января<br/><br/>**PS Vita Guide Update:**<br>25 декабря<br/><br/>**PS4 Guide Update:**<br>30 июля<br/><br/>**Wii U Guide Update:**<br>23 января<br/><br/>**DSi Guide Update:**<br>27 августа'
+excerpt: '**Switch Guide Update:**<br>23 декабря<br/><br/>**3DS Guide Update:**<br>4 января<br/><br/>**PS Vita Guide Update:**<br>25 декабря<br/><br/>**PS4 Guide Update:**<br>30 июля<br/><br/>**Wii U Guide Update:**<br>3 марта<br/><br/>**DSi Guide Update:**<br>27 августа'
 ---
 
 {% include toc title="Новости по месяцам" %}
@@ -17,6 +17,9 @@ excerpt: '**Switch Guide Update:**<br>23 декабря<br/><br/>**3DS Guide Upd
 # Новости
 
 ## Зима
+
+**Wii U**<br>**03.03.2021:**<br>Добавлена прошивка 5.5.5
+{: .notice--info}
 
 **Switch**<br>**15.01.2021:**<br>Гайд полностью обновлён. Упразднена поддержка SX OS, добавлена поддержка чипов
 {: .notice--danger}

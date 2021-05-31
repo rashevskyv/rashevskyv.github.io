@@ -18,14 +18,14 @@ author_profile: true
 1. Перейдите в **Tools** -> **Partition SD card**, нажмите **OK**, **Next Step** -> **Start**
 	* Ваша карта будет отформатирована специальным образом в FAT32, чтобы дать прирост в скорости на 15%-30%
 
-## Форматирование с помощью ПК
+## Форматирование с помощью ПК (для любой консоли)
 
 1. Вставьте SD-карту в компьютер
 1. Отформатируйте её с помощью [`rufus`](https://github.com/pbatard/rufus/releases/download/v3.11/rufus-3.11p.exe){:target="_blank"} для Windows (используйте настройки со скриншота ниже), [gparted](http://gparted.org/download.php){:target="_blank"} для Linux, или [Disk Utility](https://support.apple.com/en-gb/guide/disk-utility/format-a-disk-for-windows-computers-dskutl1010/mac){:target="_blank"} для Mac.
 
 ### Форматирование в FAT32 в Windows
 
-Внимание, если у вас эмунанд на разделе, то rufus его уничтожит! Узнать есть ли он в виде раздела можно в hekate в разделе emuMMC.  Если в строке **Type: SD Raw Partition** - значит эмунанд на разделе, если **SD File** - файловый эмунанд.
+Внимание, если у вас Nintendo Switch и эмунанд на разделе, то rufus его уничтожит! Узнать есть ли он в виде раздела можно в hekate в разделе emuMMC.  Если в строке **Type: SD Raw Partition** - значит эмунанд на разделе, если **SD File** - файловый эмунанд.
 ![](/images/screenshots/emunand_type.jpg)
 {: .notice--info}
 {: .notice--danger}

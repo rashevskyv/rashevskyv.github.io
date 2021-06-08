@@ -12,12 +12,7 @@ author_profile: true
 {: .notice--info}
 
 [![Яндекс Деньги]({{ "/images/donate/yandex.png" | absolute_url }}){:height="64px" width="256px"}{: style="padding-bottom: .35em"}](){: .align-center}
-**410 011 700 178 195**<br>
-{: .text-center}
-{: .notice--info}
-
-[![QIWI]({{ "/images/donate/qiwi.png" | absolute_url }}){:height="64px" width="256px"}{: style="padding-bottom: .35em"}](){: .align-center}
-**+380977359431**<br>
+**4100 1161 8897 4761**<br>
 {: .text-center}
 {: .notice--info}
 

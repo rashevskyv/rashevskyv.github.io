@@ -4,9 +4,9 @@ permalink: /contacts.html
 author_profile: true
 ---
 
-* [Группа вконтакте](https://vk.customfw.xyz){:target="_blank"} по теме Nintendo 
-* [Группа вконтакте](https://vk.com/jailbreakps4){:target="_blank"} по теме Playstation 4 
-* [Группа вконтакте](https://vk.com/portablegaming){:target="_blank"} по теме PS Vita / PSP
+* Группа вконтакте по теме [Nintendo](https://vk.customfw.xyz){:target="_blank"}
+* Группа вконтакте по теме [Playstation 4](https://vk.com/jbplaystation){:target="_blank"}
+* Группа вконтакте по теме [PS Vita / PSP(https://vk.com/portablegaming){:target="_blank"}
 * [Discord](https://discord.gg/hshrbyP){:target="_blank"}
 * [telegram беседа по консолям Nintendo](https://t.me/homebrew_group){:target="_blank"} **Строго 18+! Мат, разврат, неадекватность!** Здесь правда всё очень токсично. К этому нужен иммунитет. 
 

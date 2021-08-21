@@ -12,7 +12,7 @@ author_profile: true
 
 ## Форматирование для использования в Nintendo Switch (рекомендуется)
 
-1. Войдите в **hekate** с помощью [поддерживаемого на вашей приставке эксплойта](https://switch.customfw.xyz/get-started){:target="_blank"}, запуститив пейлоад `payload.bin` из архива `kefir.zip`
+1. Войдите в **hekate** с помощью [поддерживаемого на вашей приставке эксплойта](https://switch.customfw.xyz/get-started){:target="_blank"}, запуститив пейлоад `payload.bin` из архива `atmo.zip`
 	* Удерживайте (VOL-) на приставке во время появления **логотипа kefir**, чтобы попасть в **hekate**
 	* Пропустите этот шаг, если вы уже в hekate
 1. Перейдите в **Tools** -> **Partition SD card**, нажмите **OK**, **Next Step** -> **Start**

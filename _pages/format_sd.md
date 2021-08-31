@@ -1,6 +1,5 @@
 ---
-title: Форматирование SD-карты #
-lang: ru
+title: Форматирование SD-карты 
 permalink:  format_sd.html
 author_profile: true
 ---

@@ -11,8 +11,8 @@ author_profile: true
 {: .text-center}
 {: .notice--info}
 
-[![Яндекс Деньги]({{ "/images/donate/yandex.png" | absolute_url }}){:height="64px" width="256px"}{: style="padding-bottom: .35em"}](){: .align-center}
-**4100 1161 8897 4761**<br>
+[![Ю-money (в прошлом Яндекс-денги)]({{ "/images/donate/yandex.png" | absolute_url }}){:height="64px" width="256px"}{: style="padding-bottom: .35em"}](){: .align-center}
+**4100 1170 0178 195**<br>
 {: .text-center}
 {: .notice--info}
 

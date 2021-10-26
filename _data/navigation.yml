@@ -14,6 +14,8 @@ main:
     url: http://wiiu.customfw.xyz
   - title: "DSi"
     url: http://dsi.customfw.xyz
+  - title: "Общие инструкции"
+    url: /guides
   - title: "Пожертвования"
     url: /donations
   - title: "Связаться с нами"

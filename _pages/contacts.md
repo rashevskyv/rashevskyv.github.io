@@ -8,7 +8,7 @@ author_profile: true
 * Группа вконтакте по теме [Playstation 4](https://vk.com/jbplaystation){:target="_blank"}
 * Группа вконтакте по теме [PS Vita / PSP](https://vk.com/portablegaming){:target="_blank"}
 * [Discord](https://discord.gg/hshrbyP){:target="_blank"}
-* [telegram беседа по консолям Nintendo](https://t.me/homebrew_group){:target="_blank"} **Строго 18+! Мат, разврат, неадекватность!** Здесь правда всё очень токсично. К этому нужен иммунитет. 
+* [telegram беседа по консолям Nintendo](https://t.me/kefir_cfw){:target="_blank"}  
 
 Если вам помогло или просто понравилось это руководство, то мы принимаем [пожертвования](donations){:target="_blank"}
 {: .notice--notice}

@@ -1,0 +1,10 @@
+{
+    "cfws": {
+        "Atmosphere": {
+            "Kefir 646": "https://github.com/rashevskyv/kefir/releases/download/646/kefir646.zip"
+        }
+    },
+    "firmwares": {
+        "Firmware 14.1.1": "https://mega.nz/file/dZwzzCKT#LzuAFUKvUQIzw-LQ6rP77EVswGNsRUH5bDQVvVVAy84"
+    }
+}

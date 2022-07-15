@@ -1,0 +1,69 @@
+I"�<aside class="sidebar__right">
+<nav class="toc">
+    <header><h4 class="nav__title"><i class="fa fa-file-text"></i> Новости по месяцам</h4></header>
+<ul class="toc__menu" id="markdown-toc">
+  <li><a href="#зима" id="markdown-toc-зима">Зима</a></li>
+  <li><a href="#осень" id="markdown-toc-осень">Осень</a></li>
+  <li><a href="#лето" id="markdown-toc-лето">Лето</a></li>
+  <li><a href="#май" id="markdown-toc-май">Май</a></li>
+  <li><a href="#апрель" id="markdown-toc-апрель">Апрель</a></li>
+  <li><a href="#март" id="markdown-toc-март">Март</a></li>
+  <li><a href="#февраль" id="markdown-toc-февраль">Февраль</a></li>
+  <li><a href="#январь" id="markdown-toc-январь">Январь</a></li>
+</ul>
+
+  </nav>
+</aside>
+
+<h2 id="зима">Зима</h2>
+
+<p class="notice--warning"><strong>3DS</strong><br /><strong>12.12.2020:</strong><br />Browserhax для <strong>3DS</strong><br /><strong>12.12.2020:</strong><br />Browserhax dlia 11.14.0</p>
+
+<p class="notice--danger"><strong>Switch</strong><br /><strong>11.12.2020:</strong><br />Поддержка прошивки 11.0.0</p>
+
+<h2 id="осень">Осень</h2>
+
+<p class="notice--warning"><strong>3DS</strong><br /><strong>19.11.2020:</strong><br />Добавлена поддержка прошивки 11.14.0</p>
+
+<p class="notice--warning"><strong>3DS</strong><br /><strong>12.09.2020:</strong><br />Добавлен browserhax</p>
+
+<h2 id="лето">Лето</h2>
+
+<p class="notice--danger"><strong>Switch</strong><br /><strong>12.07.2020:</strong><br />Добавлена инструкция по установке с USB-носителя</p>
+
+<p class="notice--success"><strong>PS4</strong><br /><strong>30.07.2020:</strong><br />Вообще убрал 5.05 из гайда. 6.72 уже достаточно стабилен</p>
+
+<p class="notice--success"><strong>PS4</strong><br /><strong>26.07.2020:</strong><br />Гайд переработан. Добавлена поддержка 6.72</p>
+
+<p class="notice--warning"><strong>3DS</strong><br /><strong>23.07.2020:</strong><br />Вместо QuickInstall теперь используется custom-install</p>
+
+<p class="notice--warning"><strong>3DS</strong><br /><strong>28.06.2020:</strong><br />Добавлена программа beeShop</p>
+
+<h2 id="май">Май</h2>
+
+<p class="notice--warning"><strong>3DS</strong><br /><strong>03.05.2020:</strong><br />Изменения в инструкции по удалению прошивки</p>
+
+<h2 id="апрель">Апрель</h2>
+
+<p class="notice--warning"><strong>3DS</strong><br /><strong>28.04.2020:</strong><br />Новый вторичный эксплойт UMS</p>
+
+<p class="notice--danger"><strong>Switch</strong><br /><strong>15.04.2019:</strong><br />Поддержка прошивки 10.0.0</p>
+
+<h2 id="март">Март</h2>
+
+<p class="notice--info"><strong>Wii U</strong><br /><strong>03.03.2020:</strong><br />Сильно переработан гайд и WiiUSDFiles</p>
+
+<h2 id="февраль">Февраль</h2>
+
+<p class="notice--primary"><strong>Vita</strong><br /><strong>18.02.2020:</strong><br />Добавлены изображения кнопок</p>
+
+<p class="notice--primary"><strong>Vita</strong><br /><strong>10.02.2020:</strong><br />Добавлены полезные инструкции</p>
+
+<p class="notice--success"><strong>PS4</strong><br /><strong>03.02.2020:</strong><br />Сменились DNS-адреса</p>
+
+<p class="notice--primary"><strong>Vita</strong><br /><strong>01.02.2020:</strong><br />В нашем полку прибыло - <a href="http://vita.customfw.xyz" target="blank_">vita.customfw.xyz</a></p>
+
+<h2 id="январь">Январь</h2>
+
+<p class="notice--danger"><strong>Switch</strong><br /><strong>17.11.2020:</strong><br />Теперь для установки игр используется dbibackend</p>
+:ET

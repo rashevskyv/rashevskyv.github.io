@@ -20,7 +20,7 @@ locale                   : "ru-RU"
 title_separator          : "-"
 name                     : "xHR"
 description              : "Инструкция по взлому Switch/WiiU/3DS/DSi/PS4"
-url                      : "https://customfw.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://customfw.xyz/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rashevskyv/rashevskyv.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -60,7 +60,6 @@ atom_feed:
 google_site_verification : 
 bing_site_verification   : 
 alexa_site_verification  :
-yandex_site_verification :
 
 # Social Sharing
 twitter:
@@ -176,7 +175,7 @@ kramdown:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: expanded  # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Defaults
 defaults:
@@ -189,11 +188,11 @@ defaults:
       author_profile: false
 
 # Plugins
-plugins:
-  # - jekyll-sitemap
-  # - jekyll-gist
-  # - jekyll-feed
-  # - jemoji
+# plugins:
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:

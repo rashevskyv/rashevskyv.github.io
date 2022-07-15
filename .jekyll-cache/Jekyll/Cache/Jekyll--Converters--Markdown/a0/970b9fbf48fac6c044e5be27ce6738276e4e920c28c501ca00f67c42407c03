@@ -1,0 +1,45 @@
+I"'<aside class="sidebar__right">
+<nav class="toc">
+    <header><h4 class="nav__title"><i class="fa fa-file-text"></i> Разделы</h4></header>
+<ul class="toc__menu" id="markdown-toc">
+  <li><a href="#инструкция" id="markdown-toc-инструкция">Инструкция</a></li>
+</ul>
+
+  </nav>
+</aside>
+
+<p>Это дополнительный раздел, служащий для отключения настройки Windows, по умолчанию скрывающей расширения файлов.
+Это позволит вам легче отыскать необходимые файлы в других частях руководства.</p>
+
+<h1 id="инструкция">Инструкция</h1>
+
+<ol>
+  <li>Запустите <strong>Проводник</strong>, открыв любую папку, например папку вашей SD-карты</li>
+  <li>Нажмите кнопку “<strong>Вид</strong>” в меню</li>
+  <li>Установите флажок “<strong>Расширения имён файлов</strong>”</li>
+  <li>Установите флажок “<strong>Скрытые элементы</strong>”
+    <ul>
+      <li>Можете убрать этот флажок, если вам больше не нужно отображение скрытых файлов. Остальные же настройки можно не менять и оставить активированными</li>
+    </ul>
+
+    <p class="text-center notice--info"><img src="https://customfw.xyz/images/screenshots/windows-10-file-extensions.png" alt="" target="_blank" /></p>
+  </li>
+  <li>Нажмите на кнопку “<strong>Параметры</strong>”
+    <ul>
+      <li><strong>Для windows 7</strong>: Откройте меню <strong>Пуск</strong>, введите в поле для поиска “<strong>Параметры папок</strong>” и выберите соответствующий результат</li>
+    </ul>
+  </li>
+  <li>Нажмите на вкладку “<strong>Вид</strong>” в верхней части окна Параметры папок</li>
+  <li>Снимите флажок “<strong>Скрывать расширения для зарегистрированных типов файлов</strong>”</li>
+  <li>
+    <p>Снимите флажок “<strong>Скрывать защищённые системные файлы</strong>”</p>
+
+    <p class="text-center notice--info"><img src="https://customfw.xyz/images/screenshots/windows-7-folder-options.png" alt="" target="_blank" /></p>
+  </li>
+  <li>Нажмите “<strong>OK</strong>”, чтобы сохранить изменения</li>
+</ol>
+
+<hr />
+
+<p class="notice--success"><a href="javascript:window.close();">Закрыть страницу</a></p>
+:ET

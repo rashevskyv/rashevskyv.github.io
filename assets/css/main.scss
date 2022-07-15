@@ -27,3 +27,35 @@
 	font-size: 1rem !important;
 	@include breakpoint($large) {font-size: .8rem !important;}
  }
+
+a.popup-modal {
+	display: none;
+}
+
+.preloader {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   z-index: 9999;
+   background-image: url('/images/preloader.gif');
+   background-repeat: no-repeat; 
+   background-color: #f1f2f3;
+   background-position: center;
+	background-attachment: fixed;
+}
+
+#frame1 {
+	display: block;
+}
+
+#frame2 {
+	display: none;
+}
+
+#daysOfWar {
+	color: red;
+	font-weight: bolder;
+	font-size:xx-large
+}

@@ -1,0 +1,82 @@
+I"p<aside class="sidebar__right">
+<nav class="toc">
+    <header><h4 class="nav__title"><i class="fa fa-file-text"></i> Разделы</h4></header>
+<ul class="toc__menu" id="markdown-toc">
+  <li><a href="#форматирование-с-помощью-пк-для-любой-консоли" id="markdown-toc-форматирование-с-помощью-пк-для-любой-консоли">Форматирование с помощью ПК (для любой консоли)</a>    <ul>
+      <li><a href="#форматирование-в-fat32-в-windows" id="markdown-toc-форматирование-в-fat32-в-windows">Форматирование в FAT32 в Windows</a></li>
+      <li><a href="#форматирование-в-fat32-на-macos" id="markdown-toc-форматирование-в-fat32-на-macos">Форматирование в FAT32 на MacOS</a></li>
+      <li><a href="#форматирование-в-fat32-на-nintendo-switch" id="markdown-toc-форматирование-в-fat32-на-nintendo-switch">Форматирование в FAT32 на Nintendo Switch</a></li>
+    </ul>
+  </li>
+</ul>
+
+  </nav>
+</aside>
+
+<p class="notice--info">Рекомендую произвести форматирование карты памяти, чтобы очистить её от ненужного мусора и убрать возможные накопившиеся ошибки. Помните, что форматирование уничтожит все данные на карте памяти!</p>
+
+<h2 id="форматирование-с-помощью-пк-для-любой-консоли">Форматирование с помощью ПК (для любой консоли)</h2>
+
+<ol>
+  <li>Вставьте SD-карту в компьютер</li>
+  <li>Отформатируйте её с помощью <a href="https://github.com/pbatard/rufus/releases/download/v3.11/rufus-3.11p.exe" target="_blank"><code class="language-plaintext highlighter-rouge">rufus</code></a> для Windows (используйте настройки со скриншота ниже), <a href="http://gparted.org/download.php" target="_blank">gparted</a> для Linux, или <a href="https://support.apple.com/en-gb/guide/disk-utility/format-a-disk-for-windows-computers-dskutl1010/mac" target="_blank">Disk Utility</a> для Mac.</li>
+</ol>
+
+<h3 id="форматирование-в-fat32-в-windows">Форматирование в FAT32 в Windows</h3>
+
+<p class="notice--info notice--danger">Внимание, если у вас Nintendo Switch и эмунанд на разделе, то rufus его уничтожит! Узнать есть ли он в виде раздела можно в hekate в разделе emuMMC.  Если в строке <strong>Type: SD Raw Partition</strong> - значит эмунанд на разделе, если <strong>SD File</strong> - файловый эмунанд.
+<img src="/images/screenshots/emunand_type.jpg" alt="" /></p>
+
+<ol>
+  <li>Запустите <a href="https://github.com/pbatard/rufus/releases/latest"><code class="language-plaintext highlighter-rouge">rufus</code></a></li>
+  <li>В поле “<strong>Устройство</strong>” выберите вашу карту памяти</li>
+  <li>В поле “<strong>Метод загрузки</strong>” выберите вашу “<strong>Незагрузочный образ</strong>”</li>
+  <li>В поле “<strong>Схема раздела</strong>” выберите вашу “<strong>MBR</strong>”</li>
+  <li>В поле “<strong>Файловая система</strong>” выберите “<strong>FAT32</strong>” (может стоять <strong>расширенный FAT32</strong> или что-то похожее)</li>
+  <li>Поле “<strong>Новая метка тома</strong>” должно оставаться пустым!</li>
+  <li>Убедитесь, что стоит галочка на поле “<strong>Быстрое форматирование</strong>”</li>
+  <li>Уберите галочку с поля “<strong>Создать расширенную метку и значок устройства</strong>”</li>
+  <li>Нажмите “<strong>СТАРТ</strong>”
+    <ul>
+      <li>Если программа выдаёт ошибку, вытащите из ПК карту памяти, затем снова её вставьте и перезапустите программу. Если это не помогает, попробуйте перезагрузить ПК</li>
+    </ul>
+  </li>
+</ol>
+
+<p class="text-center notice--info"><img src="/images/screenshots/fat32formatter.png" alt="" /></p>
+
+<h3 id="форматирование-в-fat32-на-macos">Форматирование в FAT32 на MacOS</h3>
+
+<ol>
+  <li>Вставьте карту памяти в картридер компьютера.</li>
+  <li>Откройте “<strong>Дисковую Утилиту</strong>” (<a href="https://support.apple.com/en-gb/guide/disk-utility/format-a-disk-for-windows-computers-dskutl1010/mac" target="_blank">Disk Utility</a>).</li>
+  <li>В списке слева укажите вашу карту памяти.</li>
+  <li>В верхней части экрана нажмите кнопку “<strong>Стереть</strong>” (Erase).</li>
+  <li>Укажите формат файловой системы “<strong>MS-DOS (FAT)</strong>”.</li>
+  <li>Нажмите кнопку “<strong>Стереть</strong>”.</li>
+  <li>Дождитесь окончания процесса и нажмите “<strong>Готово</strong>” (Done).</li>
+</ol>
+
+<p class="notice--info">Если программа ругается на то, что не может получить доступ к карте памяти - просто достаньте карту и вставьте её снова.</p>
+
+<h3 id="форматирование-в-fat32-на-nintendo-switch">Форматирование в FAT32 на Nintendo Switch</h3>
+
+<p class="notice--warning">Рекомендуется перед форматированием отформатировать карту на ПК через rufus</p>
+
+<ol>
+  <li>Установите на карту свежий <a href="https://github.com/rashevskyv/kefir/releases/" target="_blank">kefir</a></li>
+  <li>Войдите в <strong>hekate</strong> с помощью <a href="https://switch.customfw.xyz/get-started" target="_blank">поддерживаемого на вашей приставке эксплойта</a>, запуститив пейлоад <code class="language-plaintext highlighter-rouge">payload.bin</code> из архива <code class="language-plaintext highlighter-rouge">kefir.zip</code>
+    <ul>
+      <li>Удерживайте (VOL-) на приставке во время появления <strong>логотипа kefir</strong>, чтобы попасть в <strong>hekate</strong></li>
+      <li>Пропустите этот шаг, если вы уже в hekate</li>
+    </ul>
+  </li>
+  <li>Перейдите в <strong>Tools</strong> -&gt; <strong>Partition SD card</strong>, нажмите <strong>OK</strong>, <strong>Next Step</strong> -&gt; <strong>Start</strong>
+    <ul>
+      <li>Ваша карта будет отформатирована специальным образом в FAT32, чтобы дать прирост в скорости на 15%-30%</li>
+    </ul>
+  </li>
+</ol>
+
+<p class="notice--info">Если программа ругается на то, что не может получить доступ к карте памяти - просто достаньте карту и вставьте её снова.</p>
+:ET

@@ -1,1 +1,109 @@
 <a href="#" class="scrollup">Наверх</a>
+
+<script src="{{ '/assets/js/main.min.js' | absolute_url }}"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script> -->
+<script src="https://unpkg.com/cookielib/src/cookie.min.js"></script>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+	  
+		$(window).scroll(function(){
+			if ($(this).scrollTop() > 300) {
+				$('.scrollup').fadeIn();
+			} else {
+				$('.scrollup').fadeOut();
+			}
+			});
+			  
+			$('.scrollup').click(function(){
+			$("html, body").animate({ scrollTop: 0 }, 600);
+			return false;
+		});
+	  
+	});
+
+	$(function () {
+		function getCookie(name) {
+			let matches = document.cookie.match(new RegExp(
+				"(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+			));
+			return matches ? decodeURIComponent(matches[1]) : undefined;
+		}
+
+		if (getCookie('support-ukraine')) {
+			document.getElementById("popup-caller").classList.remove("popup-modal")
+		}
+		if ((!window.location.href.includes('support-russia')) && (getCookie('support-russia')))
+			{
+				// Simulate an HTTP redirect:
+				window.location.replace("/support-russia");
+			}
+		
+	});
+	
+	$(function () {
+		$('.popup-modal').magnificPopup({
+			type: 'inline',
+			preloader: false,
+			focus: '#username',
+			modal: true
+		});
+		$(document).on('click', '.popup-modal-support-ukraine', function (e) {
+			e.preventDefault();
+			let date = new Date(Date.now() + 86400e3*7);
+			date = date.toUTCString();
+			document.cookie = "support-ukraine=true; expires=" + date;
+
+			document.getElementById('frame1').style.display = "none" 
+			document.getElementById('frame2').style.display = "block" 
+		});
+		$(document).on('click', '.popup-modal-support-russia', function (e) {
+			e.preventDefault();
+			let date = new Date(Date.now() + 86400e3*7);
+			date = date.toUTCString();
+			document.cookie = "support-russia=true; expires=" + date;
+			window.location.replace("/support-russia");
+		});
+
+		$(document).on('click', '.popup-modal-close', function (e) {
+			e.preventDefault();
+			$.magnificPopup.close();
+		});
+	});
+
+	$(document).ready(function() {
+		if (!getCookie('support-ukraine'))
+			{
+				$('.popup-modal').click();
+			}
+	});
+
+	function getNumberOfDays() {
+		const date1 = new Date("2/24/2022");
+		const date2 = new Date();
+
+		// One day in milliseconds
+		const oneDay = 1000 * 60 * 60 * 24;
+
+		// Calculating the time difference between two dates
+		const diffInTime = date2.getTime() - date1.getTime();
+
+		// Calculating the no. of days between two dates
+		const diffInDays = Math.round(diffInTime / oneDay);
+
+		return diffInDays;
+	}
+
+	document.getElementById('daysOfWar').textContent = getNumberOfDays()
+
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/save-ukraine@0.18.0/dist/umd/main.js"></script>
+<script>
+    Ukraine.save({
+        ribbon: 'TOP_LEFT',
+        hasShadow: true,
+        countries: [],
+		  moreInfoUrl: `/support-ukraine`,
+    });
+</script>

@@ -1,0 +1,21 @@
+I"<aside class="sidebar__right">
+<nav class="toc">
+    <header><h4 class="nav__title"><i class="fa fa-file-text"></i> Новости по годам</h4></header>
+<ul class="toc__menu" id="markdown-toc">
+  <li><a href="#2020" id="markdown-toc-2020">2020</a></li>
+  <li><a href="#2019" id="markdown-toc-2019">2019</a></li>
+  <li><a href="#2018" id="markdown-toc-2018">2018</a></li>
+  <li><a href="#2017" id="markdown-toc-2017">2017</a></li>
+</ul>
+
+  </nav>
+</aside>
+
+<h2 id="2020"><a href="2020">2020</a></h2>
+
+<h2 id="2019"><a href="2019">2019</a></h2>
+
+<h2 id="2018"><a href="2019">2018</a></h2>
+
+<h2 id="2017"><a href="2019">2017</a></h2>
+:ET

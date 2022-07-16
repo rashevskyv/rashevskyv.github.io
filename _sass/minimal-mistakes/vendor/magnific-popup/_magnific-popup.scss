@@ -95,21 +95,15 @@
   margin: 0 auto;
   text-align: left;
   z-index: $mfp-z-index-base + 5;
-  background: #fff !important;
-  padding: 40px !important;
-  border-radius: 20px !important;
 }
 .mfp-inline-holder,
 .mfp-ajax-holder {
   .mfp-content {
-    width: 70wp !important;
+    width: 70% !important;
     cursor: auto;
   }
 }
 
-.mfp-content {
-  width: 70% !important;
-}
 
 // Cursors
 .mfp-ajax-cur {
@@ -556,4 +550,8 @@ button {
     width: 95% !important;
     font-size: 18px;
   }
+}
+
+#mfp-modal-popup {
+  display: none;
 }

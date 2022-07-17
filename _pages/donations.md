@@ -2,9 +2,11 @@
 title: "Пожертвования"
 permalink: /donations.html
 author_profile: true
-redirect_to:
-  - https://war.ukraine.ua/ru/podderzhyte-ukraynu/
 ---
+
+<script>
+location.href = 'https://war.ukraine.ua/ru/podderzhyte-ukraynu/';
+</script>
 
 ## Реквизиты для сбора пожертвований:
 

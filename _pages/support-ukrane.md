@@ -2,6 +2,8 @@
 title: Общие инструкции
 permalink: /support-ukraine.html
 author_profile: true
+redirect_to:
+  - https://war.ukraine.ua/ru/podderzhyte-ukraynu/
 ---
 
 {% include toc title="Разделы" %}

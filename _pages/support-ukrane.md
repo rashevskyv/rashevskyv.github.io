@@ -5,5 +5,5 @@ author_profile: true
 ---
 
 <script>
-location.href = 'https://war.ukraine.ua/ru/podderzhyte-ukraynu/';
+location.href = 'https://supportukrainenow.org/';
 </script>

@@ -54,7 +54,7 @@ author_profile: true
 Рекомендуется перед форматированием отформатировать карту на ПК через rufus
 {: .notice--warning}
 
-1. Установите на карту свежий [kefir](https://github.com/rashevskyv/kefir/releases/){:target="_blank"}
+1. Установите на карту свежий [kefir](https://codeberg.org/rashevskyv/kefir/releases/){:target="_blank"}
 1. Войдите в **hekate** с помощью [поддерживаемого на вашей приставке эксплойта](https://switch.customfw.xyz/get-started){:target="_blank"}, запуститив пейлоад `payload.bin` из архива `kefir.zip`
 	* Удерживайте (VOL-) на приставке во время появления **логотипа kefir**, чтобы попасть в **hekate**
 	* Пропустите этот шаг, если вы уже в hekate

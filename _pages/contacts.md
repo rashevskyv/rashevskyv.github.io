@@ -13,5 +13,5 @@ author_profile: true
 Если вам помогло или просто понравилось это руководство, то мы принимаем [пожертвования](donations){:target="_blank"}
 {: .notice--notice}
 
-Об ошибках и неточностях просьба писать в [группу руководства](https://vk.com/nincfw){:target="_blank"}
+Об ошибках и неточностях просьба писать в [группу руководства](https://vk.com/switchopen){:target="_blank"}
 {: .notice--warning}

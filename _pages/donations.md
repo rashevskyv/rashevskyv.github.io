@@ -30,6 +30,6 @@ location.href = 'https://supportukrainenow.org/';
 {: .text-center}
 {: .notice--info}
 
-[![Custom Nintendo]({{ "/images/donate/3ds_cfw.png" | absolute_url }}){:target="_blank"}{:height="64px" width="256px"}{: style="padding-bottom: .35em"}](http://vk.com/nincfw){: .align-center}
+[![Custom Nintendo]({{ "/images/donate/3ds_cfw.png" | absolute_url }}){:target="_blank"}{:height="64px" width="256px"}{: style="padding-bottom: .35em"}](http://vk.com/switchopen){: .align-center}
 {: .text-center}
 {: .notice--info}

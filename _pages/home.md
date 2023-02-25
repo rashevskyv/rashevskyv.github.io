@@ -33,6 +33,10 @@ feature_row:
     url: "https://dsi.customfw.xyz/"
     title: "DSi"
     excerpt: "Полное руководство по установке кастомной прошивки на DSi"
+  - image_path: /images/landing/dsi.png
+    url: "https://dsi.customfw.xyz/"
+    title: "DSi"
+    excerpt: "Полное руководство по установке кастомной прошивки на DSi"
 ---
 
 {% include feature_row %}

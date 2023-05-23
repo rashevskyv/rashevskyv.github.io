@@ -11,6 +11,9 @@ author_profile: true
 
 ## Форматирование с помощью ПК (для любой консоли)
 
+Рекомендуется после форматирования отформатировать карту ещё раз через hekate на Nintendo Switch
+{: .notice--warning}
+
 1. Вставьте SD-карту в компьютер
 1. Отформатируйте её с помощью [`rufus`](https://github.com/pbatard/rufus/releases/download/v3.11/rufus-3.11p.exe){:target="_blank"} для Windows (используйте настройки со скриншота ниже), [gparted](http://gparted.org/download.php){:target="_blank"} для Linux, или [Disk Utility](https://support.apple.com/en-gb/guide/disk-utility/format-a-disk-for-windows-computers-dskutl1010/mac){:target="_blank"} для Mac.
 
@@ -60,7 +63,6 @@ author_profile: true
 	* Пропустите этот шаг, если вы уже в hekate
 1. Перейдите в **Tools** -> **Partition SD card**, нажмите **OK**, **Next Step** -> **Start**
 	* Ваша карта будет отформатирована специальным образом в FAT32, чтобы дать прирост в скорости на 15%-30%
-
 
 Если программа ругается на то, что не может получить доступ к карте памяти - просто достаньте карту и вставьте её снова. 
 {: .notice--info}

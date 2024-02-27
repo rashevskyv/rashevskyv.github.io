@@ -97,8 +97,6 @@ author:
   facebook         :
   foursquare       :
   github           : "rashevskyv"
-  vk               : "rashevskyv"
-  vk_group         : "nincfw"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,11 +107,12 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "xHR_"
   vine             :
   weibo            :
   xing             :
   youtube          :
+  tg               : xhrxhrxhr
+  tg_group         : kefir_support
 
 
 # Reading Files

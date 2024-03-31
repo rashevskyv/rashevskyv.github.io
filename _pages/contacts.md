@@ -4,8 +4,8 @@ permalink: /contacts.html
 author_profile: true
 ---
 
-* [Telegram-группа для пользователей со всего мира](https://t.me/kef4ir){:target="_blank"}  
 * [Telegram-группа для пользователей из Украины](https://t.me/kefir_ukr){:target="_blank"}  
+* [Telegram-группа для пользователей со всего мира](https://t.me/kef4ir){:target="_blank"}  
 
 Если вам помогло или просто понравилось это руководство, то мы принимаем [пожертвования](donations){:target="_blank"}
 {: .notice--notice}

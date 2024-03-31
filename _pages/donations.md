@@ -4,32 +4,52 @@ permalink: /donations.html
 author_profile: true
 ---
 
+{% include toc title="Разделы" %}	
+<!-- 
 <script>
 location.href = 'https://supportukrainenow.org/';
-</script>
-
-## Реквизиты для сбора пожертвований:
-
-[![Visa]({{ "/images/donate/visa.png" | absolute_url }}){:height="64px" width="256px"}{: style="padding-bottom: .35em"}](){: .align-center}
-**4731 1856 0013 8488**<br>
+</script> -->
+	
+## Банка monobank
+	
+<a href="https://send.monobank.ua/jar/6VmeFAs1zG" target="_blank"><img alt="Монобанка" border="0" src="/images/mono.jpg" width="400px" style="border-radius:10px !important"></a>
 {: .text-center}
 {: .notice--info}
 
-[![Ю-money (в прошлом Яндекс-денги)]({{ "/images/donate/yandex.png" | absolute_url }}){:height="64px" width="256px"}{: style="padding-bottom: .35em"}](){: .align-center}
-**4100 1170 0178 195**<br>
+## Paypal
+
+<style>
+  .donate-wrapper {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .donate-form {
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+  }
+</style>
+
+<div class="donate-wrapper">
+	<div class="donate-form">
+	<form class="donate-form" action="https://www.paypal.com/donate" method="post" target="_blank">
+		<input type="hidden" name="hosted_button_id" value="S5BLF972J8G92" />
+		<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+		<img alt="" border="0" src="https://www.paypal.com/en_UA/i/scr/pixel.gif" width="1" height="1" />
+	</form>
+		<img alt="PayPal" border="0" src="/images/paypal.png" />
+	</div>
+</div>
 {: .text-center}
 {: .notice--info}
 
-[![QIWI]({{ "/images/donate/qiwi.png" | absolute_url }}){:height="64px" width="256px"}{: style="padding-bottom: .35em"}](){: .align-center}
-**+79037335808**<br>
-{: .text-center}
-{: .notice--info}
+## Помочь Украине из-за рубежа
 
-[![Bitcoin]({{ "/images/donate/bitcoin.png" | absolute_url }}){:target="_blank"}{:height="73px" width="256px"}{: style="padding-bottom: .35em"}](bitcoin:124TLA8uE1Xu2R5rs1eeVDxvpzzDHucr88){: .align-center}
-124TLA8uE1Xu2R5rs1eeVDxvpzzDHucr88
-{: .text-center}
-{: .notice--info}
-
-[![Custom Nintendo]({{ "/images/donate/3ds_cfw.png" | absolute_url }}){:target="_blank"}{:height="64px" width="256px"}{: style="padding-bottom: .35em"}](http://vk.com/switchopen){: .align-center}
+<a href="https://supportukrainenow.org/" target="_blank"><img alt="Support Ukraine Now" border="0" src="/images/sun.png" width="400px" style="border-radius:10px !important"></a>
 {: .text-center}
 {: .notice--info}

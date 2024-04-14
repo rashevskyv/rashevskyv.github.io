@@ -12,7 +12,7 @@ location.href = 'https://supportukrainenow.org/';
 	
 ## Банка monobank
 	
-<a href="https://send.monobank.ua/jar/6VmeFAs1zG" target="_blank"><img alt="Монобанка" border="0" src="/images/mono.jpg" width="400px" style="border-radius:10px !important"></a>
+<a href="https://send.monobank.ua/jar/6VmeFAs1zG" target="_blank"><img alt="Монобанка" border="0" src="/images/donate/mono.jpg" width="400px" style="border-radius:10px !important"></a>
 {: .text-center}
 {: .notice--info}
 
@@ -42,7 +42,7 @@ location.href = 'https://supportukrainenow.org/';
 		<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 		<img alt="" border="0" src="https://www.paypal.com/en_UA/i/scr/pixel.gif" width="1" height="1" />
 	</form>
-		<img alt="PayPal" border="0" src="/images/paypal.png" />
+		<img alt="PayPal" border="0" src="/images/donate/paypal.png" />
 	</div>
 </div>
 {: .text-center}
@@ -50,6 +50,6 @@ location.href = 'https://supportukrainenow.org/';
 
 ## Помочь Украине из-за рубежа
 
-<a href="https://supportukrainenow.org/" target="_blank"><img alt="Support Ukraine Now" border="0" src="/images/sun.png" width="400px" style="border-radius:10px !important"></a>
+<a href="https://supportukrainenow.org/" target="_blank"><img alt="Support Ukraine Now" border="0" src="/images/donate/sun.png" width="400px" style="border-radius:10px !important"></a>
 {: .text-center}
 {: .notice--info}

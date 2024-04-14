@@ -87,7 +87,8 @@ analytics:
 author:
   name             : "xHR"
   avatar           : "/images/bio-photo.png"
-  location         : "Дружковка, Украина"
+  avatar_right     : "/images/bio-photo_right.png"
+  location         : "Івано-Франківськ"
   email            : "rashevsky.v@gmail.com"
   uri              :
   bitbucket        :
@@ -112,7 +113,10 @@ author:
   xing             :
   youtube          :
   tg               : xhrxhrxhr
-  tg_group         : kefir_support
+  tg_group         : kefir_ukr
+  phone            : 0997763996
+  viber            : 0977359431
+  instagram        : rashevsky.v
 
 
 # Reading Files

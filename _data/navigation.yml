@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "На главную"
+  - title: "На головну"
     url: http://customfw.xyz
   - title: "Switch"
     url: http://switch.customfw.xyz
@@ -14,9 +14,9 @@ main:
     url: http://wiiu.customfw.xyz
   - title: "DSi"
     url: http://dsi.customfw.xyz
-  - title: "Общие инструкции"
+  - title: "Загальні інструкції"
     url: /guides
-  - title: "Пожертвования"
+  - title: "Пожертвування"
     url: /donations
-  - title: "Связаться с нами"
+  - title: "Зв'язатися з нами"
     url: /contacts

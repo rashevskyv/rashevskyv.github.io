@@ -1,5 +1,5 @@
 ---
-title: Проверка карты памяти на подлинность
+title: Перевірка карти пам'яті на справжність
 permalink: /test_sd.html
 author_profile: true
 ---

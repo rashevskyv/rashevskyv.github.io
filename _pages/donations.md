@@ -1,10 +1,10 @@
 ---
-title: "Пожертвования"
+title: "Пожертвування"
 permalink: /donations.html
 author_profile: true
 ---
 
-{% include toc title="Разделы" %}	
+{% include toc title="Розділи" %}	
 <!-- 
 <script>
 location.href = 'https://supportukrainenow.org/';
@@ -48,7 +48,7 @@ location.href = 'https://supportukrainenow.org/';
 {: .text-center}
 {: .notice--info}
 
-## Помочь Украине из-за рубежа
+## Допомогти Україні з-за кордону
 
 <a href="https://supportukrainenow.org/" target="_blank"><img alt="Support Ukraine Now" border="0" src="/images/donate/sun.png" width="400px" style="border-radius:10px !important"></a>
 {: .text-center}

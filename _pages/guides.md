@@ -1,12 +1,12 @@
 ---
-title: Общие инструкции
+title: Загальні інструкції
 permalink: /guides.html
 author_profile: true
 ---
 
-{% include toc title="Разделы" %}
+{% include toc title="Розділи" %}
 
-* [Проверка карты памяти на подлинность](test_sd)
-* [Расширения файлов (Windows)](file-extensions-windows)
-* [Форматирование SD-карты](format_sd)
-* [Как правильно задавать вопросы](question)
+* [Перевірка карти пам'яті на справжність](test_sd)
+* [Розширення файлів (Windows)](file-extensions-windows)
+* [Форматування SD-карти](format_sd)
+* [Як правильно ставити запитання](question)

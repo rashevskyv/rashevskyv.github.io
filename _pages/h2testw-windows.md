@@ -1,7 +1,9 @@
 ---
 title: Перевірка карти пам'яті на справжність
-permalink: /test_sd.html
+permalink: /h2testw-windows.html
 author_profile: true
+sitemap: false
+robots: "noindex, follow"
 ---
 
 <script>

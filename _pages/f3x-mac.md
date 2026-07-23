@@ -2,6 +2,8 @@
 title: F3X (Mac)
 permalink: /f3x-mac.html
 author_profile: true
+sitemap: false
+robots: "noindex, follow"
 ---
 
 <script>

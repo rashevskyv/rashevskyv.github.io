@@ -1,0 +1,16 @@
+# Custom Firmware Guide
+
+> Український каталог посібників з кастомної прошивки для Nintendo Switch, Wii U, 3DS, DSi, PS Vita та PS4.
+
+Основні URL:
+- https://customfw.xyz/ - головна сторінка з каталогом платформ.
+- https://switch.customfw.xyz/ - посібник для Nintendo Switch.
+- https://3ds.customfw.xyz/ - посібник для Nintendo 3DS.
+- https://vita.customfw.xyz/ - посібник для PS Vita / PS TV.
+- https://ps4.customfw.xyz/ - посібник для PS4.
+- https://wiiu.customfw.xyz/ - посібник для Wii U.
+- https://customfw.xyz/sitemap.xml - повна мапа сторінок.
+
+Ключові теми: custom firmware, кастомна прошивка, Nintendo Switch, 3DS, Wii U, DSi, PS Vita, PS4, SD-карта, homebrew.
+
+Мова сайту: українська. Регіон: Україна.

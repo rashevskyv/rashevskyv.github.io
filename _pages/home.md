@@ -1,10 +1,12 @@
 ---
 layout: splash
-title: "Custom Firmware Guide" #
+title: "Custom Firmware Guide українською" #
+description: "Український каталог посібників з кастомної прошивки для Nintendo Switch, Wii U, 3DS, DSi, PS Vita та PS4."
 permalink: /
 header:
   overlay_color: "#5e616c" #
   overlay_image: images/home-page-feature.jpg
+  image_description: "Посібники Custom Firmware для популярних консолей"
   overlay_filter: 0.2
   caption:
 excerpt: "Посібники зі встановлення кастомної прошивки<br />"

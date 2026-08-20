@@ -1,0 +1,32 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex, follow">
+  <title>Перенаправлення...</title>
+  {% assign raw_target = page.redirect.to | default: page.redirect_to | default: page.redirect | default: page.target %}
+  {% assign target = raw_target | replace: '/ru/', '/' | replace: '/uk/', '/' %}
+  {% if target contains '://' %}
+    {% assign absolute_target = target %}
+  {% else %}
+    {% unless target contains '/' and target | slice: 0, 1 == '/' %}
+      {% assign target = '/' | append: target %}
+    {% endunless %}
+    {% assign absolute_target = site.url | append: target %}
+  {% endif %}
+  <link rel="canonical" href="{{ absolute_target }}">
+  <meta http-equiv="refresh" content="0; url={{ absolute_target }}">
+</head>
+<body>
+  <h1>Перенаправлення...</h1>
+  <p>Сторінка переїхала. Якщо ви не були перенаправлені автоматично, 
+    <a href="{{ absolute_target }}">натисніть тут</a>.
+  </p>
+  <script>
+    window.location.replace("{{ absolute_target }}");
+  </script>
+</body>
+</html>

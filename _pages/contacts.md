@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Контакти та Послуги"
+seo_title: "Контакти CustomFW — xHR, Telegram, магазин і сервіс Nintendo Switch"
+description: "Зв'язок з автором гайдів CustomFW і збірки Kefir: Telegram, Viber, Instagram, GitHub. Магазин і чіпування Nintendo Switch — shop.customfw.xyz."
 permalink: /contacts/
 author_profile: true
 ---

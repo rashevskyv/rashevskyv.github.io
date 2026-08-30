@@ -1,19 +1,21 @@
 # main links links
 main:
   - title: "На головну"
-    url: http://customfw.xyz
+    url: https://customfw.xyz
   - title: "Switch"
-    url: http://switch.customfw.xyz
+    url: https://switch.customfw.xyz
+  - title: "Магазин"
+    url: https://shop.customfw.xyz
   - title: "3DS"
-    url: http://3ds.customfw.xyz
+    url: https://3ds.customfw.xyz
   - title: "PS Vita"
-    url: http://vita.customfw.xyz
+    url: https://vita.customfw.xyz
   - title: "PS4"
-    url: http://ps4.customfw.xyz
+    url: https://ps4.customfw.xyz
   - title: "Wii U"
-    url: http://wiiu.customfw.xyz
+    url: https://wiiu.customfw.xyz
   - title: "DSi"
-    url: http://dsi.customfw.xyz
+    url: https://dsi.customfw.xyz
   - title: "Загальні інструкції"
     url: /guides
   - title: "Пожертвування"

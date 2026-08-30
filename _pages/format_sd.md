@@ -1,6 +1,7 @@
 ---
-title: Форматування SD-карти 
-permalink:  format_sd.html
+title: Форматування SD-карти
+description: "Як відформатувати SD-карту в FAT32 для кастомної прошивки Nintendo Switch, 3DS та інших консолей."
+permalink: /format_sd.html
 author_profile: true
 ---
 

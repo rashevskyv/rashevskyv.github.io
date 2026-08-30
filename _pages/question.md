@@ -1,6 +1,7 @@
 ---
 permalink: /question.html
 title: Як правильно ставити запитання
+description: "Як сформулювати питання в чаті підтримки Kefir і CustomFW, щоб швидко отримати допомогу з прошивкою."
 author_profile: true
 ---
 {% include toc title="Розділи" %}

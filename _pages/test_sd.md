@@ -1,5 +1,6 @@
 ---
 title: Перевірка карти пам'яті на справжність
+description: "Як перевірити microSD на справжність перед прошивкою консолі: H2testw, F3, F3X."
 permalink: /test_sd.html
 author_profile: true
 ---

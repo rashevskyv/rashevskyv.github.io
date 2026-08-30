@@ -1,5 +1,6 @@
 ---
 title: Розширення файлів (Windows) #
+description: "Як увімкнути відображення розширень файлів у Windows перед прошивкою консолі — крок з гайдів CustomFW."
 lang: uk
 permalink: /file-extensions-windows.html
 author_profile: true

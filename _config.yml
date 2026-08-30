@@ -15,11 +15,11 @@ defaults:
       author_profile: true
       
 # Site Settings
-title                    : "Custom Firmware Guide"
+title                    : "Custom Firmware Guide — українські гайди з прошивки консолей"
 locale                   : "uk-UA"
-title_separator          : "-"
-name                     : "xHR"
-description              : "Українські посібники з кастомної прошивки Nintendo Switch, Wii U, 3DS, DSi, PS Vita та PS4 з покроковими інструкціями."
+title_separator          : "—"
+name                     : "CustomFW (xHR)"
+description              : "Українські покрокові посібники з кастомної прошивки Nintendo Switch, Wii U, 3DS, DSi, PS Vita та PS4 від автора збірки Kefir (xHR)."
 url                      : "https://customfw.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rashevskyv/rashevskyv.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -57,7 +57,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : 
+google_site_verification : "7baIpb78_4dZWw5fQig8qiQDD8ZQkt_VtJd25Ob0oyE"
 bing_site_verification   : 
 alexa_site_verification  :
 
@@ -73,16 +73,23 @@ logo                     : "/images/bio-photo.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : Person # Person or Organization (defaults to Person)
-  name                   : "xHR"
-  links: # An array of links to social media profiles
+  type                   : Organization
+  name                   : "CustomFW"
+  legal_name             : "Custom Firmware Guide (xHR)"
+  founder                : "xHR (розробник Kefir)"
+  links:
+    - "https://customfw.xyz"
+    - "https://switch.customfw.xyz"
+    - "https://shop.customfw.xyz"
     - "https://github.com/rashevskyv"
+    - "https://t.me/kefir_ukr"
     - "https://t.me/xhrxhrxhr"
     - "https://www.instagram.com/rashevsky.v"
 
 schema:
-  type                   : Person
-  name                   : "xHR"
+  type                   : Organization
+  name                   : "CustomFW"
+  alternateName          : "Custom Firmware Guide"
 
 # Analytics
 analytics:
@@ -98,7 +105,7 @@ author:
   avatar_right     : "/images/bio-photo_right.png"
   location         : "Івано-Франківськ"
   email            : "rashevsky.v@gmail.com"
-  uri              :
+  uri              : "https://customfw.xyz"
   bitbucket        :
   codepen          :
   dribbble         :

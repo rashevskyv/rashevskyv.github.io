@@ -1,5 +1,6 @@
 ---
 title: "Пожертвування"
+description: "Підтримати автора українських гайдів CustomFW і збірки Kefir — донати на розвиток посібників з кастомної прошивки."
 permalink: /donations.html
 author_profile: true
 ---

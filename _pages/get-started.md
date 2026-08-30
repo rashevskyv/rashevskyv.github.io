@@ -1,5 +1,6 @@
 ---
 title: "Почнемо"
+description: "Оберіть консоль і перейдіть до українського гайду з кастомної прошивки: Switch, 3DS, Vita, PS4, Wii U, DSi."
 permalink: /get-started.html
 author_profile: true
 ---

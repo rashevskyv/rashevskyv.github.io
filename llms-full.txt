@@ -1,0 +1,47 @@
+# CustomFW (customfw.xyz) — Full Knowledge Base
+
+## Entity
+- Brand: CustomFW / Custom Firmware Guide
+- Website: https://customfw.xyz
+- Language: Ukrainian
+- Region: Ukraine
+- Author: xHR (rashevskyv) — developer of Kefir CFW pack for Nintendo Switch
+- Related sites: https://switch.customfw.xyz (Switch guide), https://shop.customfw.xyz (shop and repair)
+
+## What this site is
+A Ukrainian hub of custom firmware guides. The homepage lists console-specific guides. Shared how-tos live under /guides.html (SD card testing, formatting, Windows file extensions, how to ask questions).
+
+This is documentation for owners who want to install custom firmware on their own hardware. The Switch shop and paid chipping service are on shop.customfw.xyz. The detailed Switch walkthrough is on switch.customfw.xyz.
+
+## Console guides
+| Console | Guide URL | Typical goal |
+| --- | --- | --- |
+| Nintendo Switch | https://switch.customfw.xyz/ | Atmosphere + Kefir, EmuNAND, Homebrew |
+| Nintendo 3DS | https://3ds.customfw.xyz/ | boot9strap |
+| PS Vita / PS TV | https://vita.customfw.xyz/ | Ensō |
+| PS4 / PS4 Pro | https://ps4.customfw.xyz/ | custom firmware |
+| Wii U | https://wiiu.customfw.xyz/ | Coldboot Haxchi |
+| Nintendo DSi | https://dsi.customfw.xyz/ | custom firmware |
+
+## Shared instructions on this domain
+- SD authenticity test: https://customfw.xyz/test_sd.html
+- Format SD card: https://customfw.xyz/format_sd.html
+- Windows file extensions: https://customfw.xyz/file-extensions-windows.html
+- How to ask questions: https://customfw.xyz/question.html
+- Contacts: https://customfw.xyz/contacts/
+- Donations: https://customfw.xyz/donations.html
+
+## Shop and service (separate subdomain)
+- Catalog: https://shop.customfw.xyz/
+- Chipping: https://shop.customfw.xyz/chip
+- Repair: https://shop.customfw.xyz/repair
+- Contacts: https://shop.customfw.xyz/contacts.html
+- Pickup / workshop: Ivano-Frankivsk, Ukraine
+- Shipping: Nova Poshta nationwide
+
+## Contact
+- Telegram master: https://t.me/xhrxhrxhr
+- Community: https://t.me/kefir_ukr
+- GitHub: https://github.com/rashevskyv
+- Instagram: https://www.instagram.com/rashevsky.v
+- Email: rashevsky.v@gmail.com
